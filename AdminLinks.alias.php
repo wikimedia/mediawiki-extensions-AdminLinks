@@ -128,6 +128,11 @@ $specialPageAliases['ro'] = array(
 	'AdminLinks' => array( 'Legături_admini' ),
 );
 
+/** Sanskrit (संस्कृत) */
+$specialPageAliases['sa'] = array(
+	'AdminLinks' => array( 'कार्यकर्ता_सम्भन्दिन्' ),
+);
+
 /** Sinhala (සිංහල) */
 $specialPageAliases['si'] = array(
 	'AdminLinks' => array( 'පරිපාලක_සබැඳි' ),
