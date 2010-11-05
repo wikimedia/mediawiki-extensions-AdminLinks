@@ -15,6 +15,7 @@ class AdminLinks extends SpecialPage {
 	 */
 	function __construct() {
 		parent::__construct( 'AdminLinks' );
+		wfLoadExtensionMessages( 'AdminLinks' );
 		global $wgUser;
 		$this->skin = $wgUser->getSkin();
 	}
@@ -82,6 +83,7 @@ class AdminLinks extends SpecialPage {
 		global $wgUser;
 		// if user is a sysop, add link
 		if ( $wgUser->isAllowed( 'adminlinks' ) ) {
+			wfLoadExtensionMessages( 'AdminLinks' );
 			$al = SpecialPage::getTitleFor( 'AdminLinks' );
 			$href = $al->getLocalURL();
 			$admin_links_vals = array(
