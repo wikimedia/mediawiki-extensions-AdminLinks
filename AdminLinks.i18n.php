@@ -615,6 +615,17 @@ $messages['he'] = array(
 	'right-adminlinks' => 'הצגת הקישור לדף [[Special:AdminLinks|קישורים למפעילי מערכת]]',
 );
 
+/** Hindi (हिन्दी)
+ * @author Kumar
+ */
+$messages['hi'] = array(
+	'adminlinks_general' => 'सामान्य',
+	'adminlinks_editsidebar' => 'साइडबार संपादित करें',
+	'adminlinks_editcss' => 'सीएसएस फ़ाइल संपादित करें',
+	'adminlinks_editmainpagename' => 'मुख्य पृष्ठ का नाम संपादित करें',
+	'adminlinks_users' => 'सदस्य',
+);
+
 /** Croatian (Hrvatski)
  * @author Ex13
  */
