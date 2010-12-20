@@ -137,6 +137,13 @@ $messages['arz'] = array(
 	'adminlinks_createuser' => 'ابتدى يوزر',
 );
 
+/** Assamese (অসমীয়া)
+ * @author Chaipau
+ */
+$messages['as'] = array(
+	'adminlinks_users' => 'সদস্যসকল',
+);
+
 /** Bashkir (Башҡорт)
  * @author Comp1089
  */
