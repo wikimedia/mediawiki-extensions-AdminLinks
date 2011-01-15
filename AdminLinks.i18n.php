@@ -1622,19 +1622,20 @@ $messages['zh-hans'] = array(
 
 /** Traditional Chinese (‪中文(繁體)‬)
  * @author Horacewai2
+ * @author Mark85296341
  */
 $messages['zh-hant'] = array(
 	'adminlinks' => '管理連結',
-	'adminlinks-desc' => '添加一个[[Special:AdminLinks|特殊頁面]]為管理员提供有用的鏈接',
+	'adminlinks-desc' => '新增一個[[Special:AdminLinks|特殊頁面]]為管理員提供有用的連結',
 	'adminlinks_documentation' => '$1說明文件',
 	'adminlinks_general' => '一般',
 	'adminlinks_editsidebar' => '編輯導航欄',
-	'adminlinks_editcss' => '編輯 CSS文件',
+	'adminlinks_editcss' => '編輯 CSS 檔案',
 	'adminlinks_editmainpagename' => '編輯首頁名稱',
 	'adminlinks_users' => '用戶',
-	'adminlinks_createuser' => '創建一個新帳戶',
-	'adminlinks_browsesearch' => '瀏覽和搜索',
-	'adminlinks_importexport' => '導入和導出',
-	'right-adminlinks' => '查看[[Special:AdminLinks|管理鏈接]]',
+	'adminlinks_createuser' => '建立一個新帳號',
+	'adminlinks_browsesearch' => '瀏覽和搜尋',
+	'adminlinks_importexport' => '匯入和匯出',
+	'right-adminlinks' => '檢視[[Special:AdminLinks|管理連結]]',
 );
 
