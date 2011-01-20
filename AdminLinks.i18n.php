@@ -855,6 +855,14 @@ $messages['ksh'] = array(
 	'right-adminlinks' => 'Dä Lengk op de Sigg met [[Special:AdminLinks|Lengks för Köbeße]] jezeijsch krijje',
 );
 
+/** Kurdish (Latin) (Kurdî (Latin))
+ * @author George Animal
+ */
+$messages['ku-latn'] = array(
+	'adminlinks_users' => 'Bikarhêneran',
+	'adminlinks_createuser' => 'Bikarhênerekî çêke',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Les Meloures
  * @author Robby
