@@ -144,7 +144,7 @@ $messages['as'] = array(
 	'adminlinks_users' => 'সদস্যসকল',
 );
 
-/** Bashkir (Башҡорт)
+/** Bashkir (Башҡортса)
  * @author Comp1089
  */
 $messages['ba'] = array(
@@ -181,7 +181,7 @@ $messages['bar'] = array(
 	'right-adminlinks' => 'Link noch [[Special:AdminLinks|Links fyr Administratorn]] seeng',
 );
 
-/** Belarusian (Taraškievica orthography) (Беларуская (тарашкевіца))
+/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -1370,7 +1370,7 @@ $messages['sl'] = array(
 	'right-adminlinks' => 'Ogled povezav na [[Special:AdminLinks|Skrbniških povezavah]]',
 );
 
-/** Serbian Cyrillic ekavian (Српски (ћирилица))
+/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
  * @author Charmed94
  * @author Rancher
  * @author Михајло Анђелковић
@@ -1390,7 +1390,7 @@ $messages['sr-ec'] = array(
 	'right-adminlinks' => 'Следећи линк недостаје: [[Special:AdminLinks|корисне администраторске везе]]',
 );
 
-/** Serbian Latin ekavian (Srpski (latinica)) */
+/** Serbian Latin ekavian (‪Srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'adminlinks' => 'Administratorske veze',
 	'adminlinks-desc' => 'Dodaje [[Special:AdminLinks|posebne stranice]] koje sadrže korisne veze za administratore',
@@ -1631,6 +1631,7 @@ $messages['zh-hans'] = array(
 /** Traditional Chinese (‪中文(繁體)‬)
  * @author Horacewai2
  * @author Mark85296341
+ * @author Waihorace
  */
 $messages['zh-hant'] = array(
 	'adminlinks' => '管理連結',
@@ -1645,5 +1646,21 @@ $messages['zh-hant'] = array(
 	'adminlinks_browsesearch' => '瀏覽和搜尋',
 	'adminlinks_importexport' => '匯入和匯出',
 	'right-adminlinks' => '檢視[[Special:AdminLinks|管理連結]]',
+);
+
+/** Chinese (Hong Kong) (‪中文(香港)‬)
+ * @author Mark85296341
+ * @author Oapbtommy
+ */
+$messages['zh-hk'] = array(
+	'adminlinks' => '管理員連結',
+	'adminlinks_general' => '一般',
+	'adminlinks_editcss' => '編輯 CSS 檔案',
+	'adminlinks_editmainpagename' => '編輯主頁名稱',
+	'adminlinks_users' => '用戶',
+	'adminlinks_createuser' => '建立一名用戶',
+	'adminlinks_browsesearch' => '瀏覽和搜尋',
+	'adminlinks_importexport' => '匯入和匯出',
+	'right-adminlinks' => '看看連結至[[Special:AdminLinks|管理員連結]]',
 );
 
