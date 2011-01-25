@@ -1281,6 +1281,24 @@ $messages['ru'] = array(
 	'right-adminlinks' => 'видеть [[Special:AdminLinks|ссылки для администраторов]]',
 );
 
+/** Rusyn (Русиньскый)
+ * @author Gazeb
+ */
+$messages['rue'] = array(
+	'adminlinks' => 'Одказы про адміністратора',
+	'adminlinks-desc' => 'Додасть [[Special:AdminLinks|шпеціалну сторінку]], яка обсягує хосновны одказы про адміністраторів',
+	'adminlinks_documentation' => 'документація $1',
+	'adminlinks_general' => 'Обще',
+	'adminlinks_editsidebar' => 'Едітовати бочный панел',
+	'adminlinks_editcss' => 'Едітовати CSS-файл',
+	'adminlinks_editmainpagename' => 'Змінити назву головной сторінкы',
+	'adminlinks_users' => 'Хоснователї',
+	'adminlinks_createuser' => 'Створити конто хоснователя',
+	'adminlinks_browsesearch' => 'Перегляд і гляданя',
+	'adminlinks_importexport' => 'Імпорт і експорт',
+	'right-adminlinks' => 'Відїти [[Special:AdminLinks|Одказы про адміністраторів]]',
+);
+
 /** Yakut (Саха тыла)
  * @author HalanTul
  */
