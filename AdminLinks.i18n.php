@@ -1049,21 +1049,22 @@ $messages['nds-nl'] = array(
 );
 
 /** Nepali (नेपाली)
+ * @author Bhawani Gautam Rhk
  * @author सरोज कुमार ढकाल
  */
 $messages['ne'] = array(
 	'adminlinks' => 'प्रवन्धक लिङ्कहरु',
-	'adminlinks-desc' => '[[Special:AdminLinks|special page]] थप्छ जसले प्रवन्धककर्ताहरुको  लागि सहयोगी लिङ्कहरु समेटेको छ।',
-	'adminlinks_documentation' => '$1 मिसिलिकरण',
+	'adminlinks-desc' => 'एउटा [[Special:AdminLinks|विशेष पृष्ठ]] थप्छ जसले प्रबन्धककर्ताहरुको  लागि सहयोगी लिङ्कहरु समेटेको छ।',
+	'adminlinks_documentation' => '$1 दस्तावेज़ीकरण',
 	'adminlinks_general' => 'साधारण',
 	'adminlinks_editsidebar' => 'साइडबार सम्पादन गर्ने',
 	'adminlinks_editcss' => ' CSS फाइल सम्पादन गर्ने',
 	'adminlinks_editmainpagename' => 'मूख्य पृष्ठको नाम सम्पादन गर्ने',
 	'adminlinks_users' => 'प्रयोगकर्ताहरु',
-	'adminlinks_createuser' => 'प्रयोगकर्ता शृजना गर्ने',
+	'adminlinks_createuser' => 'प्रयोगकर्ता सृजना गर्ने',
 	'adminlinks_browsesearch' => 'ब्राउजिङ्ग र खोजी',
 	'adminlinks_importexport' => 'आयात तथा निर्यात',
-	'right-adminlinks' => 'यो लिङ्क हेर्नुहोस [[Special:AdminLinks|प्रवन्धक लिङ्क]]',
+	'right-adminlinks' => 'यो लिङ्क हेर्नुहोस [[Special:AdminLinks|प्रबन्धक लिङ्क]]',
 );
 
 /** Dutch (Nederlands)
