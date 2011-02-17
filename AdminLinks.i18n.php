@@ -286,8 +286,8 @@ $messages['ca'] = array(
  * @author Sasan700
  */
 $messages['ce'] = array(
-	'adminlinks' => 'Хьажоригаш адаманкуьйгалхошна',
-	'adminlinks-desc' => 'Тlе туху [[Special:AdminLinks|белхан агlо]], йолуш пайде хьажоригаш адаманкуьйгалхошна',
+	'adminlinks' => 'Хьажоригаш адманкуьйгалхошна',
+	'adminlinks-desc' => 'Тlе туху [[Special:AdminLinks|белхан агlо]], йолуш пайде хьажоригаш адманкуьйгалхошна',
 	'adminlinks_documentation' => 'хааманбаххаш $1',
 	'adminlinks_general' => 'Еригге',
 	'adminlinks_editsidebar' => 'Нисйе агlон тlийра чоь',
@@ -297,7 +297,7 @@ $messages['ce'] = array(
 	'adminlinks_createuser' => 'Кхолла дlавазвалар',
 	'adminlinks_browsesearch' => 'Гуш а лахар',
 	'adminlinks_importexport' => 'Чуйахар а арайахар',
-	'right-adminlinks' => 'гарна [[Special:AdminLinks|хьажоригаш адаманкуьйгалхошна]]',
+	'right-adminlinks' => 'гарна [[Special:AdminLinks|хьажоригаш адманкуьйгалхошна]]',
 );
 
 /** Czech (Česky)
