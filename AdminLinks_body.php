@@ -42,7 +42,8 @@ class AdminLinks extends SpecialPage {
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Listusers' ) );
 		$ul = SpecialPage::getTitleFor( 'Userlogin' );
 		$al = SpecialPage::getTitleFor( 'AdminLinks' );
-		$main_row->addItem( AlItem::newFromPage( $ul, wfMsg( 'adminlinks_createuser' ), "type=signup&returnto=$al" ) );
+		$main_row->addItem( AlItem::newFromPage( $ul, wfMsg( 'adminlinks_createuser' ),
+			array( 'type' => 'signup', 'returnto' => $al->getPrefixedText() ) ) );
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Userrights' ) );
 		$users_section->addRow( $main_row );
 		$tree->addSection( $users_section );
@@ -51,6 +52,7 @@ class AdminLinks extends SpecialPage {
 		$browse_search_section = new ALSection( wfMsg( 'adminlinks_browsesearch' ) );
 		$main_row = new ALRow( 'main' );
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Allpages' ) );
+		$main_row->addItem( ALItem::newFromSpecialPage( 'Listfiles' ) );
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Search' ) );
 		$browse_search_section->addRow( $main_row );
 		$tree->addSection( $browse_search_section );
@@ -250,7 +252,12 @@ class ALItem {
 		$item->label = $desc;
 		if ( $params != null ) {
 			global $wgUser;
-			$item->text = $wgUser->getSkin()->makeKnownLinkObj( $page_name, $desc, $params );
+			// linkKnown() method was added in MW 1.16
+			if ( method_exists( $wgUser->getSkin(), 'linkKnown' ) ) {
+				$item->text = $wgUser->getSkin()->linkKnown( $page_name, $desc, array(), $params );
+			} else {
+				$item->text = $wgUser->getSkin()->makeKnownLinkObj( $page_name, $desc, wfArrayToCGI( $params ) );
+			}
 		} else
 			$item->text = "[[$page_name|$desc]]";
 		return $item;
@@ -261,7 +268,12 @@ class ALItem {
 		$item->label = $page_name;
 		$page = SpecialPage::getPage( $page_name );
 		global $wgUser;
-		$item->text = $wgUser->getSkin()->makeKnownLinkObj( $page->getTitle(), $page->getDescription() );
+		// linkKnown() method was added in MW 1.16
+		if ( method_exists( $wgUser->getSkin(), 'linkKnown' ) ) {
+			$item->text = $wgUser->getSkin()->linkKnown( $page->getTitle(), $page->getDescription() );
+		} else {
+			$item->text = $wgUser->getSkin()->makeKnownLinkObj( $page->getTitle(), $page->getDescription() );
+		}
 		return $item;
 	}
 
