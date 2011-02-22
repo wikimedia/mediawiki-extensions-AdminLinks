@@ -15,7 +15,11 @@ class AdminLinks extends SpecialPage {
 	 */
 	function __construct() {
 		parent::__construct( 'AdminLinks' );
-		wfLoadExtensionMessages( 'AdminLinks' );
+		// deprecated in MW 1.16
+		global $wgVersion;
+		if ( version_compare( $wgVersion, '1.16', '<' ) ) {
+			wfLoadExtensionMessages( 'AdminLinks' );
+		}
 		global $wgUser;
 		$this->skin = $wgUser->getSkin();
 	}
@@ -85,7 +89,11 @@ class AdminLinks extends SpecialPage {
 		global $wgUser;
 		// if user is a sysop, add link
 		if ( $wgUser->isAllowed( 'adminlinks' ) ) {
-			wfLoadExtensionMessages( 'AdminLinks' );
+			// deprecated in MW 1.16
+			global $wgVersion;
+			if ( version_compare( $wgVersion, '1.16', '<' ) ) {
+				wfLoadExtensionMessages( 'AdminLinks' );
+			}
 			$al = SpecialPage::getTitleFor( 'AdminLinks' );
 			$href = $al->getLocalURL();
 			$admin_links_vals = array(
