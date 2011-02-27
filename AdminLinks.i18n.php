@@ -478,7 +478,7 @@ $messages['eu'] = array(
 	'adminlinks_editsidebar' => 'Ezkerreko barra aldatu',
 	'adminlinks_editcss' => 'CSS fitxategia aldatu',
 	'adminlinks_editmainpagename' => 'Azalaren izena aldatu',
-	'adminlinks_users' => 'Lankideak',
+	'adminlinks_users' => 'Erabiltzaileak',
 	'adminlinks_createuser' => 'Lankidea sortu',
 	'adminlinks_importexport' => 'Inportatu eta esportatu',
 );
