@@ -1615,6 +1615,17 @@ $messages['vec'] = array(
 	'right-adminlinks' => 'Vede el cołegamento al [[Special:AdminLinks|Paneło Admin]]',
 );
 
+/** Veps (Vepsan kel')
+ * @author Игорь Бродский
+ */
+$messages['vep'] = array(
+	'adminlinks_general' => 'Ühthine',
+	'adminlinks_editsidebar' => "Redaktiruida laptpanel'",
+	'adminlinks_editcss' => 'Redaktiruida CSS-fail',
+	'adminlinks_editmainpagename' => 'Redaktiruida pälehtpolen pälkirjutez',
+	'adminlinks_users' => 'Kävutajad',
+);
+
 /** Vietnamese (Tiếng Việt)
  * @author Minh Nguyen
  */
