@@ -77,7 +77,10 @@ class AdminLinks extends SpecialPage {
 		$admin_links_tree = $this->createInitialTree();
 		wfRunHooks( 'AdminLinks', array( &$admin_links_tree ) );
 		global $wgOut;
-		$wgOut->addModuleStyles( 'mediawiki.special' );
+		if ( method_exists( $wgOut, 'addModuleStyles' ) &&
+			!is_null( $wgOut->getResourceLoader()->getModule( 'mediawiki.special' ) ) ) {
+			$wgOut->addModuleStyles( 'mediawiki.special' );
+		}
 		$wgOut->addHTML( $admin_links_tree->toString() );
 	}
 
