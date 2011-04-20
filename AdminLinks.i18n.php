@@ -41,24 +41,6 @@ $messages['qqq'] = array(
 	'right-adminlinks' => '{{doc-right}}',
 );
 
-/** Dusun Bundu-liwan (Dusun Bundu-liwan)
- * @author FRANCIS5091
- */
-$messages['dtp'] = array(
-	'adminlinks' => 'Toput mongu-ngulud',
-	'adminlinks-desc' => 'Poruhango [[Special:AdminLinks|bolikon suaikowokon]] it minongigit toput kiguno montok momumuruan',
-	'adminlinks_documentation' => '$1 gogompipail',
-	'adminlinks_general' => 'Gumuan',
-	'adminlinks_editsidebar' => 'Idito bardisan',
-	'adminlinks_editcss' => 'Idito pail CSS',
-	'adminlinks_editmainpagename' => 'Idito ngaran do bolikon tagayo',
-	'adminlinks_users' => 'Momomoguno',
-	'adminlinks_createuser' => 'Pomonsoi momoguno',
-	'adminlinks_browsesearch' => 'Ansahai om ihumo',
-	'adminlinks_importexport' => 'Pingonuon om popingatodo',
-	'right-adminlinks' => 'Intaai nopotan [[Special:AdminLinks|Tongotoput Mongu-ngulud]]',
-);
-
 /** Afrikaans (Afrikaans)
  * @author Naudefj
  */
@@ -416,6 +398,24 @@ $messages['dsb'] = array(
 	'adminlinks_browsesearch' => 'Pśeglědowanje a pytanje',
 	'adminlinks_importexport' => 'Importěrowanje a eksportěrowanje',
 	'right-adminlinks' => 'Glědaj wótkaz k [[Special:AdminLinks|wótkazam za administratorow]]',
+);
+
+/** Dusun Bundu-liwan (Dusun Bundu-liwan)
+ * @author FRANCIS5091
+ */
+$messages['dtp'] = array(
+	'adminlinks' => 'Toput mongu-ngulud',
+	'adminlinks-desc' => 'Poruhango [[Special:AdminLinks|bolikon suaikowokon]] it minongigit toput kiguno montok momumuruan',
+	'adminlinks_documentation' => '$1 gogompipail',
+	'adminlinks_general' => 'Gumuan',
+	'adminlinks_editsidebar' => 'Idito bardisan',
+	'adminlinks_editcss' => 'Idito pail CSS',
+	'adminlinks_editmainpagename' => 'Idito ngaran do bolikon tagayo',
+	'adminlinks_users' => 'Momomoguno',
+	'adminlinks_createuser' => 'Pomonsoi momoguno',
+	'adminlinks_browsesearch' => 'Ansahai om ihumo',
+	'adminlinks_importexport' => 'Pingonuon om popingatodo',
+	'right-adminlinks' => 'Intaai nopotan [[Special:AdminLinks|Tongotoput Mongu-ngulud]]',
 );
 
 /** Greek (Ελληνικά)
@@ -898,6 +898,15 @@ $messages['lb'] = array(
 	'adminlinks_browsesearch' => 'Bliederen a sichen',
 	'adminlinks_importexport' => 'Importéieren an exportéieren',
 	'right-adminlinks' => 'Kuckt the Link op [[Special:AdminLinks|Like fir Administrateuren]]',
+);
+
+/** Lezghian (Лезги)
+ * @author Namik
+ */
+$messages['lez'] = array(
+	'adminlinks_users' => 'Ишлемишчи',
+	'adminlinks_createuser' => 'Чар туькIуьрун',
+	'adminlinks_importexport' => 'Кьабулун ва Ракъурун',
 );
 
 /** Limburgish (Limburgs)
