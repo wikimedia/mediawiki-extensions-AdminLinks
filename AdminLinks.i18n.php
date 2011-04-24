@@ -444,6 +444,7 @@ $messages['el'] = array(
  */
 $messages['eo'] = array(
 	'adminlinks' => 'Ligiloj por administrantoj',
+	'adminlinks-desc' => 'Aldonos [[Special:AdminLinks|specialan paĝon]] kiu enhavas helpemajn ligilojn por administrantoj',
 	'adminlinks_documentation' => '$1 dokumentaro',
 	'adminlinks_general' => 'Ĝenerala',
 	'adminlinks_editsidebar' => 'eldoni iltrabon',
@@ -453,6 +454,7 @@ $messages['eo'] = array(
 	'adminlinks_createuser' => 'krei uzanton',
 	'adminlinks_browsesearch' => 'Tralego kaj Serĉo',
 	'adminlinks_importexport' => 'Importi kaj Eksporti',
+	'right-adminlinks' => 'Vidi ligilon al [[Special:AdminLinks|Administranto-ligilojn]]',
 );
 
 /** Spanish (Español)
@@ -1164,6 +1166,14 @@ $messages['oc'] = array(
 	'adminlinks_browsesearch' => 'Navigacion e recèrca',
 	'adminlinks_importexport' => 'Importar e exportar',
 	'right-adminlinks' => "Vejatz lo ligam cap als [[Special:AdminLinks|ligams d'administracion]]",
+);
+
+/** Ossetic (Иронау)
+ * @author Amikeco
+ */
+$messages['os'] = array(
+	'adminlinks_editcss' => 'CSS файл баив',
+	'adminlinks_users' => 'Архайджытæ',
 );
 
 /** Deitsch (Deitsch)
