@@ -227,6 +227,24 @@ $messages['bjn'] = array(
 	'adminlinks_createuser' => 'Ulah pamuruk',
 );
 
+/** Bengali (বাংলা)
+ * @author Wikitanvir
+ */
+$messages['bn'] = array(
+	'adminlinks' => 'প্রশাসকের সংযোগ',
+	'adminlinks-desc' => 'একটি [[Special:AdminLinks|বিশেষ পাতার]] লিংক যোগ করুন, যেখানে প্রশাসকদের জন্য কিছু সাহায্য পাতার লিংক রয়েছে',
+	'adminlinks_documentation' => '$1 কার্যকৌশল বিবরণী',
+	'adminlinks_general' => 'সাধারণ',
+	'adminlinks_editsidebar' => 'সাইডবার সম্পাদনা',
+	'adminlinks_editcss' => 'সিএসএস ফাইল সম্পাদনা',
+	'adminlinks_editmainpagename' => 'প্রধান পাতার নাম সম্পাদনা করুন',
+	'adminlinks_users' => 'ব্যবহারকারী',
+	'adminlinks_createuser' => 'ব্যবহারকারী সৃষ্টি',
+	'adminlinks_browsesearch' => 'ব্রাউজ ও অনুসন্ধান',
+	'adminlinks_importexport' => 'আমদানি ও রপ্তানি',
+	'right-adminlinks' => 'সংযোগটি [[Special:AdminLinks|প্রশাসক লিংকে]] দেখুন',
+);
+
 /** Breton (Brezhoneg)
  * @author Fulup
  */
@@ -1035,10 +1053,22 @@ $messages['ml'] = array(
 );
 
 /** Malay (Bahasa Melayu)
+ * @author Anakmalaysia
  * @author Zamwan
  */
 $messages['ms'] = array(
+	'adminlinks' => 'Pautan pentadbir',
+	'adminlinks-desc' => 'Menambahkan [[Special:AdminLinks|laman khas]] yang menyimpan pautan-pautan yang berguna untuk pentadbir',
+	'adminlinks_documentation' => 'Dokumentasi $1',
+	'adminlinks_general' => 'Umum',
+	'adminlinks_editsidebar' => 'Sunting bar sisi',
+	'adminlinks_editcss' => 'Sunting fail CSS',
+	'adminlinks_editmainpagename' => 'Sunting nama laman utama',
 	'adminlinks_users' => 'Pengguna',
+	'adminlinks_createuser' => 'Cipta pengguna',
+	'adminlinks_browsesearch' => 'Layari dan cari',
+	'adminlinks_importexport' => 'Import dan eksport',
+	'right-adminlinks' => 'Lihat pautan ke [[Special:AdminLinks|Pautan pentadbir]]',
 );
 
 /** Erzya (Эрзянь)
@@ -1297,7 +1327,11 @@ $messages['ro'] = array(
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
+	'adminlinks' => "Collegaminde de l'amministratore",
+	'adminlinks_general' => 'Generale',
+	'adminlinks_editcss' => "Cange 'u file CSS",
 	'adminlinks_users' => 'Utinde',
+	'adminlinks_createuser' => "Ccreje 'n'utende",
 );
 
 /** Russian (Русский)
