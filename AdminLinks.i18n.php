@@ -144,6 +144,13 @@ $messages['as'] = array(
 	'adminlinks_users' => 'সদস্যসকল',
 );
 
+/** Azerbaijani (Azərbaycanca)
+ * @author Cekli829
+ */
+$messages['az'] = array(
+	'adminlinks_users' => 'İstifadəçilər',
+);
+
 /** Bashkir (Башҡортса)
  * @author Comp1089
  */
