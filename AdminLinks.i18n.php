@@ -954,6 +954,14 @@ $messages['li'] = array(
 	'right-adminlinks' => 'De verwiezing nao [[Special:AdminLinks|verwiezinge veur systeemwèrkers]] betrachte',
 );
 
+/** Lithuanian (Lietuvių)
+ * @author Perkunas
+ */
+$messages['lt'] = array(
+	'adminlinks_createuser' => 'Sukurti naudotoją',
+	'adminlinks_importexport' => 'Importas ir eksportas',
+);
+
 /** Latgalian (Latgaļu)
  * @author Dark Eagle
  */
