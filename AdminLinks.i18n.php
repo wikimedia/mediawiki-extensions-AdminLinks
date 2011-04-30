@@ -146,8 +146,15 @@ $messages['as'] = array(
 
 /** Azerbaijani (Azərbaycanca)
  * @author Cekli829
+ * @author Vago
  */
 $messages['az'] = array(
+	'adminlinks' => 'İdarəçilər üçün istinadlar',
+	'adminlinks_documentation' => '$1 sənədləşməsi',
+	'adminlinks_general' => 'Ümumi',
+	'adminlinks_editsidebar' => 'Yan paneli redaktə et',
+	'adminlinks_editcss' => 'CSS faylını redaktə et',
+	'adminlinks_editmainpagename' => 'Baş səhifənin adını dəyişdir',
 	'adminlinks_users' => 'İstifadəçilər',
 );
 
