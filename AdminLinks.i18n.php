@@ -938,8 +938,12 @@ $messages['lb'] = array(
  * @author Namik
  */
 $messages['lez'] = array(
+	'adminlinks' => 'Кавхаяр алукьнин чарчин',
+	'adminlinks_general' => 'Чlехидин',
+	'adminlinks_editcss' => 'Дегишарун CSS шикил',
 	'adminlinks_users' => 'Ишлемишчи',
 	'adminlinks_createuser' => 'Чар туькIуьрун',
+	'adminlinks_browsesearch' => 'Килигун ва жагъурун',
 	'adminlinks_importexport' => 'Кьабулун ва Ракъурун',
 );
 
