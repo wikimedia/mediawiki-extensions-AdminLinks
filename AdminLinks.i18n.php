@@ -966,9 +966,13 @@ $messages['li'] = array(
 );
 
 /** Lithuanian (Lietuvių)
+ * @author Eitvys200
  * @author Perkunas
  */
 $messages['lt'] = array(
+	'adminlinks_editcss' => 'Redaguoti CSS failą',
+	'adminlinks_editmainpagename' => 'Redaguoti pagrindinio puslapio pavadinimą',
+	'adminlinks_users' => 'Vartotojai',
 	'adminlinks_createuser' => 'Sukurti naudotoją',
 	'adminlinks_importexport' => 'Importas ir eksportas',
 );
