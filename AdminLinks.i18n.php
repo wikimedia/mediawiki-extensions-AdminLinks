@@ -970,6 +970,7 @@ $messages['li'] = array(
  * @author Perkunas
  */
 $messages['lt'] = array(
+	'adminlinks_documentation' => '$1 dokumentacija',
 	'adminlinks_editcss' => 'Redaguoti CSS failą',
 	'adminlinks_editmainpagename' => 'Redaguoti pagrindinio puslapio pavadinimą',
 	'adminlinks_users' => 'Vartotojai',
