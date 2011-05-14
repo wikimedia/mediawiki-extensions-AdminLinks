@@ -28,6 +28,11 @@ $specialPageAliases['arz'] = array(
 	'AdminLinks' => array( 'لينكات_الاداره' ),
 );
 
+/** Breton (Brezhoneg) */
+$specialPageAliases['br'] = array(
+	'AdminLinks' => array( 'LiammoùMerañ' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'AdminLinks' => array( 'Admin-Links' ),
@@ -51,6 +56,21 @@ $specialPageAliases['fa'] = array(
 /** Finnish (Suomi) */
 $specialPageAliases['fi'] = array(
 	'AdminLinks' => array( 'Ylläpitolinkit' ),
+);
+
+/** Galician (Galego) */
+$specialPageAliases['gl'] = array(
+	'AdminLinks' => array( 'Ligazóns_de_administración' ),
+);
+
+/** 湘语 (湘语) */
+$specialPageAliases['hsn'] = array(
+	'AdminLinks' => array( '管理链接' ),
+);
+
+/** Haitian (Kreyòl ayisyen) */
+$specialPageAliases['ht'] = array(
+	'AdminLinks' => array( 'LyenAdmin' ),
 );
 
 /** Interlingua (Interlingua) */
@@ -150,7 +170,7 @@ $specialPageAliases['sv'] = array(
 
 /** Turkish (Türkçe) */
 $specialPageAliases['tr'] = array(
-	'AdminLinks' => array( 'HizmetliBağlantıları' ),
+	'AdminLinks' => array( 'HizmetliBağları', 'HizmetliBağlantıları' ),
 );
 
 /** Simplified Chinese (‪中文(简体)‬) */
