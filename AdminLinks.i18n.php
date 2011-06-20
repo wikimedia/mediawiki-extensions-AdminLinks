@@ -975,6 +975,7 @@ $messages['lt'] = array(
 	'adminlinks_editmainpagename' => 'Redaguoti pagrindinio puslapio pavadinimą',
 	'adminlinks_users' => 'Vartotojai',
 	'adminlinks_createuser' => 'Sukurti naudotoją',
+	'adminlinks_browsesearch' => 'Naršyti ir ieškoti',
 	'adminlinks_importexport' => 'Importas ir eksportas',
 );
 
