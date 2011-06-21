@@ -1012,6 +1012,13 @@ $messages['lzz'] = array(
 	'adminlinks_users' => "K'oçepe",
 );
 
+/** Maithili (मैथिली)
+ * @author Vinitutpal
+ */
+$messages['mai'] = array(
+	'adminlinks' => 'एडमिन लिंक',
+);
+
 /** Malagasy (Malagasy)
  * @author Jagwar
  */
