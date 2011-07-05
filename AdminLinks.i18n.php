@@ -395,7 +395,7 @@ $messages['da'] = array(
 $messages['de'] = array(
 	'adminlinks' => 'Links für Administratoren',
 	'adminlinks-desc' => 'Ergänzt eine [[Special:AdminLinks|Spezialseite]] mit hilfreichen Links für Administratoren',
-	'adminlinks_documentation' => 'Dokumentation von „$1“',
+	'adminlinks_documentation' => 'Dokumentation zu „$1“',
 	'adminlinks_general' => 'Allgemein',
 	'adminlinks_editsidebar' => 'Seitenleiste bearbeiten',
 	'adminlinks_editcss' => 'CSS-Dateien bearbeiten',
@@ -404,7 +404,7 @@ $messages['de'] = array(
 	'adminlinks_createuser' => 'Benutzerkonto anlegen',
 	'adminlinks_browsesearch' => 'Durchsehen und Suchen',
 	'adminlinks_importexport' => 'Importieren und Exportieren',
-	'right-adminlinks' => 'Link nach [[Special:AdminLinks|Links für Administratoren]] sehen',
+	'right-adminlinks' => '[[Special:AdminLinks|Links für Administratoren]] nutzen',
 );
 
 /** Zazaki (Zazaki)
