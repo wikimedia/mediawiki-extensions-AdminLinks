@@ -1107,7 +1107,7 @@ $messages['ms'] = array(
 	'adminlinks_createuser' => 'Cipta pengguna',
 	'adminlinks_browsesearch' => 'Layari dan cari',
 	'adminlinks_importexport' => 'Import dan eksport',
-	'right-adminlinks' => 'Lihat pautan ke [[Special:AdminLinks|Pautan pentadbir]]',
+	'right-adminlinks' => 'Melihat pautan ke [[Special:AdminLinks|Pautan pentadbir]]',
 );
 
 /** Erzya (Эрзянь)
