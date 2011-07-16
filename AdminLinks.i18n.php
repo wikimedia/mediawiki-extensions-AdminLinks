@@ -182,17 +182,17 @@ $messages['ba'] = array(
  */
 $messages['bar'] = array(
 	'adminlinks' => 'Links fyr Administratorn',
-	'adminlinks-desc' => 'Ergänzt a [[Special:AdminLinks|Speziaalsaiten]] mid hüifraiche Links fyr Administratorn',
-	'adminlinks_documentation' => 'Dokumentazion vo „$1“',
-	'adminlinks_general' => 'Oigmoa',
-	'adminlinks_editsidebar' => 'de Sidebar beorwaiten',
-	'adminlinks_editcss' => 'CSS-Datain beorwaiten',
-	'adminlinks_editmainpagename' => 'an Nåm vo da Hauptseiten ändern',
+	'adminlinks-desc' => 'Ergänzt a [[Special:AdminLinks|Speziaalseiten]] mid hüireiche Links fyr Administraatorn',
+	'adminlinks_documentation' => 'Dókumentazión voh „$1“',
+	'adminlinks_general' => 'Oigmoah',
+	'adminlinks_editsidebar' => 'dé Sidebar beorweiten',
+	'adminlinks_editcss' => 'CSS-Daatein beorweiten',
+	'adminlinks_editmainpagename' => 'an Nåm voh da Hauptseiten ändern',
 	'adminlinks_users' => 'Benutzer',
-	'adminlinks_createuser' => 'Benutzer erstöin',
-	'adminlinks_browsesearch' => 'Durchschaun und suacha',
-	'adminlinks_importexport' => 'Importiarn und exportiarn',
-	'right-adminlinks' => 'Link noch [[Special:AdminLinks|Links fyr Administratorn]] seeng',
+	'adminlinks_createuser' => 'Benutzer erstön',
+	'adminlinks_browsesearch' => 'Durchschauh und suachen',
+	'adminlinks_importexport' => 'Importirn und Exportirn',
+	'right-adminlinks' => 'Link noch [[Special:AdminLinks|Links fyr Administraatorn]] seeng',
 );
 
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
