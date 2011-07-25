@@ -1133,12 +1133,12 @@ $messages['myv'] = array(
  */
 $messages['nds-nl'] = array(
 	'adminlinks' => 'Verwiezingen veur beheerders',
-	'adminlinks-desc' => 'Voeg een [[Special:AdminLinks|speciale pagina]] toe mit hendige verwiezingen veur beheerders',
-	'adminlinks_documentation' => 'Dokementasie veur $1',
+	'adminlinks-desc' => 'Zet der een [[Special:AdminLinks|spesiale pagina]] bie mit hendige verwiezingen veur beheerders',
+	'adminlinks_documentation' => 'Dokumentasie veur $1',
 	'adminlinks_general' => 'Algemeen',
 	'adminlinks_editsidebar' => 'Ziedbalke bewarken',
 	'adminlinks_editcss' => 'CSS bewarken',
-	'adminlinks_editmainpagename' => "Naam van 't veurblad bewarken",
+	'adminlinks_editmainpagename' => 'Naam van t veurblad bewarken',
 	'adminlinks_users' => 'Gebrukers',
 	'adminlinks_createuser' => 'Gebruker anmaken',
 	'adminlinks_browsesearch' => 'Bekieken en zeuken',
