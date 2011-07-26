@@ -5,8 +5,6 @@
  * @author Yaron Koren
  */
 
-if ( !defined( 'MEDIAWIKI' ) ) die();
-
 class AdminLinks extends SpecialPage {
 	var $skin;
 
@@ -87,9 +85,14 @@ class AdminLinks extends SpecialPage {
 	/**
 	 * For administrators, add a link to the special 'AdminLinks' page
 	 * among the user's "personal URLs" at the top, if they have
-	 * the 'adminlinks' permission
+	 * the 'adminlinks' permission.
+	 * 
+	 * @param array $personal_urls
+	 * @param Title $title
+	 * 
+	 * @return true
 	 */
-	public static function addURLToUserLinks( &$personal_urls, &$title ) {
+	public static function addURLToUserLinks( array &$personal_urls, Title &$title ) {
 		global $wgUser;
 		// if user is a sysop, add link
 		if ( $wgUser->isAllowed( 'adminlinks' ) ) {
@@ -98,6 +101,7 @@ class AdminLinks extends SpecialPage {
 			if ( version_compare( $wgVersion, '1.16', '<' ) ) {
 				wfLoadExtensionMessages( 'AdminLinks' );
 			}
+			
 			$al = SpecialPage::getTitleFor( 'AdminLinks' );
 			$href = $al->getLocalURL();
 			$admin_links_vals = array(
@@ -105,6 +109,7 @@ class AdminLinks extends SpecialPage {
 				'href' => $href,
 				'active' => ( $href == $title->getLocalURL() )
 			);
+			
 			// find the location of the 'my preferences' link, and
 			// add the link to 'AdminLinks' right before it.
 			// this is a "key-safe" splice - it preserves both the
@@ -116,10 +121,12 @@ class AdminLinks extends SpecialPage {
 			$prefs_location = array_search( 'preferences', $tab_keys );
 			array_splice( $tab_keys, $prefs_location, 0, 'adminlinks' );
 			array_splice( $tab_values, $prefs_location, 0, array( $admin_links_vals ) );
+			
 			$personal_urls = array();
-			for ( $i = 0; $i < count( $tab_keys ); $i++ )
+			
+			for ( $i = 0; $i < count( $tab_keys ); $i++ ) {
 				$personal_urls[$tab_keys[$i]] = $tab_values[$i];
-
+			}
 		}
 		return true;
 	}
@@ -304,4 +311,5 @@ class ALItem {
 		$item->text = "<a class=\"external text\" rel=\"nofollow\" href=\"$url\">$label</a>";
 		return $item;
 	}
+	
 }
