@@ -1537,10 +1537,11 @@ $messages['sr-el'] = array(
 
 /** Swedish (Svenska)
  * @author Gabbe.g
+ * @author WikiPhoenix
  */
 $messages['sv'] = array(
 	'adminlinks' => 'Administrationslänkar',
-	'adminlinks-desc' => 'Lägger till en [[Special:AdminLinks|special sida]] som innehåller hjälpfulla länkar för administratörer',
+	'adminlinks-desc' => 'Lägger till en [[Special:AdminLinks|specialsida]] som innehåller hjälpfulla länkar för administratörer',
 	'adminlinks_documentation' => 'dokumentation dör $1',
 	'adminlinks_general' => 'Generell',
 	'adminlinks_editsidebar' => 'Ändra sidpanelen',
