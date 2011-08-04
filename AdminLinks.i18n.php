@@ -1133,7 +1133,7 @@ $messages['myv'] = array(
  */
 $messages['nds-nl'] = array(
 	'adminlinks' => 'Verwiezingen veur beheerders',
-	'adminlinks-desc' => 'Zet der een [[Special:AdminLinks|spesiale pagina]] bie mit hendige verwiezingen veur beheerders',
+	'adminlinks-desc' => 'Zet der n [[Special:AdminLinks|spesiale pagina]] bie mit hendige verwiezingen veur beheerders',
 	'adminlinks_documentation' => 'Dokumentasie veur $1',
 	'adminlinks_general' => 'Algemeen',
 	'adminlinks_editsidebar' => 'Ziedbalke bewarken',
@@ -1367,6 +1367,7 @@ $messages['ro'] = array(
  */
 $messages['roa-tara'] = array(
 	'adminlinks' => "Collegaminde de l'amministratore",
+	'adminlinks_documentation' => 'documendazione de $1',
 	'adminlinks_general' => 'Generale',
 	'adminlinks_editcss' => "Cange 'u file CSS",
 	'adminlinks_users' => 'Utinde',
