@@ -1237,6 +1237,14 @@ $messages['oc'] = array(
 	'right-adminlinks' => "Vejatz lo ligam cap als [[Special:AdminLinks|ligams d'administracion]]",
 );
 
+/** Oriya (ଓଡ଼ିଆ)
+ * @author Odisha1
+ */
+$messages['or'] = array(
+	'adminlinks_general' => 'ସାଧାରଣ',
+	'adminlinks_users' => 'ବ୍ୟବାହାରକାରୀ',
+);
+
 /** Ossetic (Иронау)
  * @author Amikeco
  */
