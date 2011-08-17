@@ -432,7 +432,7 @@ $messages['dsb'] = array(
 	'right-adminlinks' => 'Glědaj wótkaz k [[Special:AdminLinks|wótkazam za administratorow]]',
 );
 
-/** Dusun Bundu-liwan (Dusun Bundu-liwan)
+/** Central Dusun (Dusun Bundu-liwan)
  * @author FRANCIS5091
  */
 $messages['dtp'] = array(
@@ -1147,6 +1147,7 @@ $messages['nds-nl'] = array(
 );
 
 /** Nepali (नेपाली)
+ * @author Bhawani Gautam
  * @author Bhawani Gautam Rhk
  * @author सरोज कुमार ढकाल
  */
@@ -1238,14 +1239,16 @@ $messages['oc'] = array(
 );
 
 /** Oriya (ଓଡ଼ିଆ)
+ * @author Ansumang
  * @author Odisha1
  */
 $messages['or'] = array(
 	'adminlinks_general' => 'ସାଧାରଣ',
+	'adminlinks_editmainpagename' => 'ପ୍ରଧାନ ପୃଷ୍ଠାର ନାମ ବଦଳାଇବେ',
 	'adminlinks_users' => 'ବ୍ୟବାହାରକାରୀ',
 );
 
-/** Ossetic (Иронау)
+/** Ossetic (Ирон)
  * @author Amikeco
  */
 $messages['os'] = array(
@@ -1419,7 +1422,7 @@ $messages['rue'] = array(
 	'right-adminlinks' => 'Відїти [[Special:AdminLinks|Одказы про адміністраторів]]',
 );
 
-/** Yakut (Саха тыла)
+/** Sakha (Саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
