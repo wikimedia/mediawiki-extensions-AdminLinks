@@ -144,6 +144,24 @@ $messages['as'] = array(
 	'adminlinks_users' => 'সদস্যসকল',
 );
 
+/** Asturian (Asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'adminlinks' => "Enllaces d'alministrador",
+	'adminlinks-desc' => 'Amiesta una [[Special:AdminLinks|páxina especial]] que contién enllaces útiles para los alministradores',
+	'adminlinks_documentation' => 'Documentación de $1',
+	'adminlinks_general' => 'Xeneral',
+	'adminlinks_editsidebar' => 'Editar la barra llateral',
+	'adminlinks_editcss' => 'Editar el ficheru CSS',
+	'adminlinks_editmainpagename' => 'Editar el nome de la páxina principal',
+	'adminlinks_users' => 'Usuarios',
+	'adminlinks_createuser' => 'Crear un usuariu',
+	'adminlinks_browsesearch' => 'Navegación y gueta',
+	'adminlinks_importexport' => 'Importación y esportación',
+	'right-adminlinks' => "Ver l'enllaz a [[Special:AdminLinks|enllaces d'alministrador]]",
+);
+
 /** Azerbaijani (Azərbaycanca)
  * @author Cekli829
  * @author Vago
