@@ -985,16 +985,22 @@ $messages['li'] = array(
 
 /** Lithuanian (Lietuvių)
  * @author Eitvys200
+ * @author Ignas693
  * @author Perkunas
  */
 $messages['lt'] = array(
+	'adminlinks' => 'Administravimo saitai',
+	'adminlinks-desc' => 'Prideda [[specialus: AdminLinks|special puslapį]] naudingų nuorodų, kad turi administratoriams',
 	'adminlinks_documentation' => '$1 dokumentacija',
+	'adminlinks_general' => 'Bendrosios',
+	'adminlinks_editsidebar' => 'Redaguoti šoninės juostos',
 	'adminlinks_editcss' => 'Redaguoti CSS failą',
 	'adminlinks_editmainpagename' => 'Redaguoti pagrindinio puslapio pavadinimą',
 	'adminlinks_users' => 'Vartotojai',
 	'adminlinks_createuser' => 'Sukurti naudotoją',
 	'adminlinks_browsesearch' => 'Naršyti ir ieškoti',
 	'adminlinks_importexport' => 'Importas ir eksportas',
+	'right-adminlinks' => 'Žr. nuorodą į [[specialus: AdminLinks|Administravimo saitai]]',
 );
 
 /** Latgalian (Latgaļu)
