@@ -174,6 +174,7 @@ $messages['az'] = array(
 	'adminlinks_editcss' => 'CSS faylını redaktə et',
 	'adminlinks_editmainpagename' => 'Baş səhifənin adını dəyişdir',
 	'adminlinks_users' => 'İstifadəçilər',
+	'adminlinks_importexport' => 'İdxal və ixrac',
 );
 
 /** Bashkir (Башҡортса)
@@ -1404,9 +1405,11 @@ $messages['roa-tara'] = array(
 	'adminlinks' => "Collegaminde de l'amministratore",
 	'adminlinks_documentation' => 'documendazione de $1',
 	'adminlinks_general' => 'Generale',
+	'adminlinks_editsidebar' => "Cange 'a barre laterale",
 	'adminlinks_editcss' => "Cange 'u file CSS",
 	'adminlinks_users' => 'Utinde',
 	'adminlinks_createuser' => "Ccreje 'n'utende",
+	'adminlinks_importexport' => "'Mborte e esporte",
 );
 
 /** Russian (Русский)
