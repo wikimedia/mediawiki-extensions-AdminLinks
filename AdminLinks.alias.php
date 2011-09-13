@@ -103,6 +103,11 @@ $specialPageAliases['lb'] = array(
 	'AdminLinks' => array( 'Linke_fir_Administrateuren' ),
 );
 
+/** Malagasy (Malagasy) */
+$specialPageAliases['mg'] = array(
+	'AdminLinks' => array( 'Rohim-pandrindra' ),
+);
+
 /** Macedonian (Македонски) */
 $specialPageAliases['mk'] = array(
 	'AdminLinks' => array( 'АдминистраторскиВрски' ),
