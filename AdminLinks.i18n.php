@@ -41,6 +41,24 @@ $messages['qqq'] = array(
 	'right-adminlinks' => '{{doc-right}}',
 );
 
+/** толышә зывон (толышә зывон)
+ * @author Гусейн
+ */
+$messages['tly'] = array(
+	'adminlinks' => 'Сургунон бо администраторон',
+	'adminlinks-desc' => 'Зијод кардејдә [[Special:AdminLinks|хыдмәтә сәһифә]], дыләдә һестыше фәрә сургунон бо администраторон',
+	'adminlinks_documentation' => 'Сәнәдон $1',
+	'adminlinks_general' => 'Умуми',
+	'adminlinks_editsidebar' => 'Јанә сәку сәрост кардеј',
+	'adminlinks_editcss' => 'CSS фајли сәрост кардеј',
+	'adminlinks_editmainpagename' => 'Јолә сәһифә номи сәрост кардеј',
+	'adminlinks_users' => 'Иштирок кардәкәсон',
+	'adminlinks_createuser' => 'Иштирок кардәкәси офәјеј',
+	'adminlinks_browsesearch' => 'Сәкыштә ијән нәве',
+	'adminlinks_importexport' => 'Идхол ијән ихроҹ',
+	'right-adminlinks' => 'Виндеј [[Special:AdminLinks|Сургунон бо администраторон]]',
+);
+
 /** Afrikaans (Afrikaans)
  * @author Naudefj
  */
