@@ -1288,7 +1288,7 @@ $messages['oc'] = array(
 $messages['or'] = array(
 	'adminlinks_general' => 'ସାଧାରଣ',
 	'adminlinks_editmainpagename' => 'ପ୍ରଧାନ ପୃଷ୍ଠାର ନାମ ବଦଳାଇବେ',
-	'adminlinks_users' => 'ବ୍ୟବାହାରକାରୀ',
+	'adminlinks_users' => 'ବ୍ୟବହାରକାରୀଗଣ',
 );
 
 /** Ossetic (Ирон)
