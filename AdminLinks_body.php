@@ -31,6 +31,7 @@ class AdminLinks extends SpecialPage {
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Statistics' ) );
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Version' ) );
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Specialpages' ) );
+		$main_row->addItem( ALItem::newFromSpecialPage( 'Log' ) );
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Allmessages' ) );
 		$main_row->addItem( ALItem::newFromEditLink( 'Sidebar', wfMsg( 'adminlinks_editsidebar' ) ) );
 		$main_row->addItem( ALItem::newFromEditLink( 'Common.css', wfMsg( 'adminlinks_editcss' ) ) );
@@ -86,10 +87,10 @@ class AdminLinks extends SpecialPage {
 	 * For administrators, add a link to the special 'AdminLinks' page
 	 * among the user's "personal URLs" at the top, if they have
 	 * the 'adminlinks' permission.
-	 * 
+	 *
 	 * @param array $personal_urls
 	 * @param Title $title
-	 * 
+	 *
 	 * @return true
 	 */
 	public static function addURLToUserLinks( array &$personal_urls, Title &$title ) {
@@ -101,7 +102,7 @@ class AdminLinks extends SpecialPage {
 			if ( version_compare( $wgVersion, '1.16', '<' ) ) {
 				wfLoadExtensionMessages( 'AdminLinks' );
 			}
-			
+
 			$al = SpecialPage::getTitleFor( 'AdminLinks' );
 			$href = $al->getLocalURL();
 			$admin_links_vals = array(
@@ -109,7 +110,7 @@ class AdminLinks extends SpecialPage {
 				'href' => $href,
 				'active' => ( $href == $title->getLocalURL() )
 			);
-			
+
 			// find the location of the 'my preferences' link, and
 			// add the link to 'AdminLinks' right before it.
 			// this is a "key-safe" splice - it preserves both the
@@ -121,9 +122,8 @@ class AdminLinks extends SpecialPage {
 			$prefs_location = array_search( 'preferences', $tab_keys );
 			array_splice( $tab_keys, $prefs_location, 0, 'adminlinks' );
 			array_splice( $tab_values, $prefs_location, 0, array( $admin_links_vals ) );
-			
+
 			$personal_urls = array();
-			
 			for ( $i = 0; $i < count( $tab_keys ); $i++ ) {
 				$personal_urls[$tab_keys[$i]] = $tab_values[$i];
 			}
@@ -211,7 +211,7 @@ class ALSection {
 	}
 
 	function toString() {
-		$text = '	<h4 class="mw-specialpagesgroup">' . $this->header . "</h4>\n";
+		$text = '	<h2 class="mw-specialpagesgroup">' . $this->header . "</h2>\n";
 		foreach ( $this->rows as $row ) {
 			$text .= $row->toString();
 		}
@@ -311,5 +311,5 @@ class ALItem {
 		$item->text = "<a class=\"external text\" rel=\"nofollow\" href=\"$url\">$label</a>";
 		return $item;
 	}
-	
+
 }
