@@ -32,13 +32,14 @@ $messages['en'] = array(
  * @author EugeneZelenko
  * @author Fryed-peach
  * @author Purodha
+ * @author Umherirrender
  */
 $messages['qqq'] = array(
 	'adminlinks-desc' => '{{desc}}',
 	'adminlinks_documentation' => 'The label for a link to documentation for a certain extension, whose name is passed in.
 {{Identical|Documentation}}',
 	'adminlinks_users' => '{{Identical|User}}',
-	'right-adminlinks' => '{{doc-right}}',
+	'right-adminlinks' => '{{doc-right|adminlinks}}',
 );
 
 /** толышә зывон (толышә зывон)
