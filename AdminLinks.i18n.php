@@ -1557,7 +1557,7 @@ $messages['sl'] = array(
 	'right-adminlinks' => 'Ogled povezav na [[Special:AdminLinks|Skrbniških povezavah]]',
 );
 
-/** Serbian Cyrillic ekavian (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
  * @author Charmed94
  * @author Rancher
  * @author Михајло Анђелковић
@@ -1574,7 +1574,7 @@ $messages['sr-ec'] = array(
 	'adminlinks_createuser' => 'Направи корисника',
 	'adminlinks_browsesearch' => 'Претраживање',
 	'adminlinks_importexport' => 'Увоз и извоз',
-	'right-adminlinks' => 'Следећи линк недостаје: [[Special:AdminLinks|корисне администраторске везе]]',
+	'right-adminlinks' => 'прегледање везе до [[Special:AdminLinks|администраторских веза]]',
 );
 
 /** Serbian Latin ekavian (‪Srpski (latinica)‬) */
