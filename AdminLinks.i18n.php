@@ -1010,7 +1010,7 @@ $messages['li'] = array(
  */
 $messages['lt'] = array(
 	'adminlinks' => 'Administravimo saitai',
-	'adminlinks-desc' => 'Prideda [[specialus: AdminLinks|special puslapį]] naudingų nuorodų, kad turi administratoriams',
+	'adminlinks-desc' => 'Prideda [[Special:AdminLinks|Specialu puslapį]] kuriame yra naudingos nuorodos administretoriams',
 	'adminlinks_documentation' => '$1 dokumentacija',
 	'adminlinks_general' => 'Bendrosios',
 	'adminlinks_editsidebar' => 'Redaguoti šoninės juostos',
@@ -1426,8 +1426,10 @@ $messages['roa-tara'] = array(
 	'adminlinks_general' => 'Generale',
 	'adminlinks_editsidebar' => "Cange 'a barre laterale",
 	'adminlinks_editcss' => "Cange 'u file CSS",
+	'adminlinks_editmainpagename' => "Cange 'u nome d'a pàgene prengepàle",
 	'adminlinks_users' => 'Utinde',
 	'adminlinks_createuser' => "Ccreje 'n'utende",
+	'adminlinks_browsesearch' => 'Sfoglie e cirche',
 	'adminlinks_importexport' => "'Mborte e esporte",
 );
 
