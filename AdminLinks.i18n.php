@@ -38,6 +38,7 @@ $messages['qqq'] = array(
 	'adminlinks-desc' => '{{desc}}',
 	'adminlinks_documentation' => 'The label for a link to documentation for a certain extension, whose name is passed in.
 {{Identical|Documentation}}',
+	'adminlinks_general' => '{{Identical|General}}',
 	'adminlinks_users' => '{{Identical|User}}',
 	'right-adminlinks' => '{{doc-right|adminlinks}}',
 );
