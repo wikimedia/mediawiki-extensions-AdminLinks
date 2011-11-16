@@ -139,6 +139,7 @@ $messages['ar'] = array(
  */
 $messages['arc'] = array(
 	'adminlinks' => 'ܐܣܘܪ̈ܐ ܕܡܕܒܪ̈ܢܐ',
+	'adminlinks_documentation' => '$1 ܐܫܛܪܘܬܐ',
 	'adminlinks_general' => 'ܓܘܢܝܐ',
 	'adminlinks_users' => 'ܡܦܠܚܢ̈ܐ',
 	'adminlinks_importexport' => 'ܡܥܠܢܘܬܐ ܘܡܦܩܢܘܬܐ',
