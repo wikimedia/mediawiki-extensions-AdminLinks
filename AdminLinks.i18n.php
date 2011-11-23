@@ -273,7 +273,7 @@ $messages['bg'] = array(
 	'right-adminlinks' => 'Показване на препратката към [[Special:AdminLinks|Административни препратки]]',
 );
 
-/** Bahasa Banjar (Bahasa Banjar)
+/** Banjar (Bahasa Banjar)
  * @author Ezagren
  */
 $messages['bjn'] = array(
@@ -439,7 +439,7 @@ $messages['de'] = array(
 	'adminlinks_general' => 'Allgemein',
 	'adminlinks_editsidebar' => 'Seitenleiste bearbeiten',
 	'adminlinks_editcss' => 'CSS bearbeiten',
-	'adminlinks_editmainpagename' => 'Name der Hauptseite bearbeiten',
+	'adminlinks_editmainpagename' => 'Namen der Hauptseite bearbeiten',
 	'adminlinks_users' => 'Benutzer',
 	'adminlinks_createuser' => 'Benutzerkonto anlegen',
 	'adminlinks_browsesearch' => 'Durchsehen und Suchen',
@@ -947,7 +947,7 @@ $messages['ksh'] = array(
 	'right-adminlinks' => 'Dä Lengk op de Sigg met [[Special:AdminLinks|Lengks för Köbeße]] jezeijsch krijje',
 );
 
-/** Kurdish (Latin) (Kurdî (Latin))
+/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -1497,7 +1497,7 @@ $messages['scn'] = array(
 	'adminlinks_users' => 'Utenti',
 );
 
-/** Tachelhit (Tašlḥiyt)
+/** Tachelhit (Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ)
  * @author Dalinanir
  */
 $messages['shi'] = array(
@@ -1581,7 +1581,7 @@ $messages['sr-ec'] = array(
 	'right-adminlinks' => 'прегледање везе до [[Special:AdminLinks|администраторских веза]]',
 );
 
-/** Serbian Latin ekavian (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪Srpski (latinica)‬) */
 $messages['sr-el'] = array(
 	'adminlinks' => 'Administratorske veze',
 	'adminlinks-desc' => 'Dodaje [[Special:AdminLinks|posebne stranice]] koje sadrže korisne veze za administratore',
@@ -1707,7 +1707,7 @@ $messages['tr'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|Hizmetli bağlantılarına]] giden bağlantıyı gör',
 );
 
-/** Tatar (Cyrillic) (Татарча/Tatarça (Cyrillic))
+/** Tatar (Cyrillic script) (Татарча)
  * @author Рашат Якупов
  */
 $messages['tt-cyrl'] = array(
@@ -1716,7 +1716,7 @@ $messages['tt-cyrl'] = array(
 	'adminlinks_createuser' => 'Катнашучы хисабын төзү',
 );
 
-/** ئۇيغۇرچە (ئۇيغۇرچە)
+/** Uyghur (Arabic script) (ئۇيغۇرچە)
  * @author Sahran
  */
 $messages['ug-arab'] = array(
