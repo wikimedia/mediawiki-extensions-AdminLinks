@@ -221,18 +221,18 @@ $messages['ba'] = array(
  * @author Mucalexx
  */
 $messages['bar'] = array(
-	'adminlinks' => 'Links fyr Administratorn',
-	'adminlinks-desc' => 'Ergänzt a [[Special:AdminLinks|Speziaalseiten]] mid hüireiche Links fyr Administraatorn',
+	'adminlinks' => 'Links fyr Administraatorn',
+	'adminlinks-desc' => 'Ergänzd a [[Special:AdminLinks|Speziaalseiten]] mid hüfreiche Links fyr Administraatorn',
 	'adminlinks_documentation' => 'Dókumentazión voh „$1“',
 	'adminlinks_general' => 'Oigmoah',
 	'adminlinks_editsidebar' => 'dé Sidebar beorweiten',
 	'adminlinks_editcss' => 'CSS-Daatein beorweiten',
-	'adminlinks_editmainpagename' => 'an Nåm voh da Hauptseiten ändern',
+	'adminlinks_editmainpagename' => 'an Nåm voh da Hauptseiten beorweiten',
 	'adminlinks_users' => 'Benutzer',
-	'adminlinks_createuser' => 'Benutzer erstön',
-	'adminlinks_browsesearch' => 'Durchschauh und suachen',
-	'adminlinks_importexport' => 'Importirn und Exportirn',
-	'right-adminlinks' => 'Link noch [[Special:AdminLinks|Links fyr Administraatorn]] seeng',
+	'adminlinks_createuser' => 'Benutzerkóntó erstön',
+	'adminlinks_browsesearch' => 'Durchschauh und suacher',
+	'adminlinks_importexport' => 'Importiern und Exportiern',
+	'right-adminlinks' => '[[Special:AdminLinks|Links für Administraatoren]] hernemmer',
 );
 
 /** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
