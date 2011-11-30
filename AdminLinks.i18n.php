@@ -577,6 +577,7 @@ $messages['eu'] = array(
 
 /** Persian (فارسی)
  * @author Sahim
+ * @author ZxxZxxZ
  */
 $messages['fa'] = array(
 	'adminlinks' => 'لینک‌های مدیران',
@@ -586,7 +587,7 @@ $messages['fa'] = array(
 	'adminlinks_editsidebar' => 'نوار ویرایش',
 	'adminlinks_editcss' => 'ویرایش فایل CSS',
 	'adminlinks_editmainpagename' => 'ویرایش نام از طریق صفحه اصلی',
-	'adminlinks_users' => 'کاربرها',
+	'adminlinks_users' => 'کاربران',
 	'adminlinks_createuser' => 'ساخت یک کاربر',
 	'adminlinks_browsesearch' => 'مرور و جستجو',
 	'adminlinks_importexport' => 'ورودی و خروجی',
