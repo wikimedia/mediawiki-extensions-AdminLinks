@@ -13,7 +13,7 @@ $wgExtensionCredits['specialpage'][] = array(
 	'name' => 'Admin Links',
 	'version' => '0.1.5',
 	'author' => 'Yaron Koren',
-	'url' => 'http://www.mediawiki.org/wiki/Extension:Admin_Links',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:Admin_Links',
 	'descriptionmsg'  => 'adminlinks-desc',
 );
 
