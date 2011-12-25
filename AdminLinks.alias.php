@@ -128,6 +128,11 @@ $specialPageAliases['mt'] = array(
 	'AdminLinks' => array( 'ĦoloqAmmin' ),
 );
 
+/** Norwegian Bokmål (‪Norsk (bokmål)‬) */
+$specialPageAliases['nb'] = array(
+	'AdminLinks' => array( 'Administratorlenker' ),
+);
+
 /** Nedersaksisch (Nedersaksisch) */
 $specialPageAliases['nds-nl'] = array(
 	'AdminLinks' => array( 'Beheerdersverwiezingen' ),
@@ -136,11 +141,6 @@ $specialPageAliases['nds-nl'] = array(
 /** Dutch (Nederlands) */
 $specialPageAliases['nl'] = array(
 	'AdminLinks' => array( 'Beheerdersverwijzingen' ),
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬) */
-$specialPageAliases['nb'] = array(
-	'AdminLinks' => array( 'Administratorlenker' ),
 );
 
 /** Portuguese (Português) */
@@ -153,7 +153,7 @@ $specialPageAliases['ro'] = array(
 	'AdminLinks' => array( 'Legături_admini' ),
 );
 
-/** Sanskrit (संस्कृत) */
+/** Sanskrit (संस्कृतम्) */
 $specialPageAliases['sa'] = array(
 	'AdminLinks' => array( 'कार्यकर्ता_सम्भन्दिन्' ),
 );
@@ -187,8 +187,3 @@ $specialPageAliases['zh-hans'] = array(
 $specialPageAliases['zh-hant'] = array(
 	'AdminLinks' => array( '管理員鏈接' ),
 );
-
-/**
- * For backwards compatibility with MediaWiki 1.15 and earlier.
- */
-$aliases =& $specialPageAliases;
