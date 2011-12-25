@@ -30,4 +30,4 @@ $wgAutoloadClasses['AdminLinks']
 	= $wgAutoloadClasses['ALRow']
 	= $wgAutoloadClasses['ALItem']
 	= $wgAdminLinksIP . 'AdminLinks_body.php';
-$wgExtensionAliasesFiles['AdminLinks'] = $wgAdminLinksIP . 'AdminLinks.alias.php';
+	$wgExtensionMessagesFiles['AdminLinksAlias'] = $wgAdminLinksIP . 'AdminLinks.alias.php';
