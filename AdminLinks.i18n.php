@@ -1175,6 +1175,24 @@ $messages['myv'] = array(
 	'right-adminlinks' => 'Ваномс [[Special:AdminLinks|администраторонь сюлмавома пенетнень]]',
 );
 
+/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+ * @author Nghtwlkr
+ */
+$messages['nb'] = array(
+	'adminlinks' => 'Adminlenker',
+	'adminlinks-desc' => 'Legger til en [[Special:AdminLinks|spesialside]] som inneholder nyttige lenker for administratorer',
+	'adminlinks_documentation' => 'dokumentasjon for $1',
+	'adminlinks_general' => 'Generelt',
+	'adminlinks_editsidebar' => 'Endre sidespalten',
+	'adminlinks_editcss' => 'Rediger CSS-filen',
+	'adminlinks_editmainpagename' => 'Endre navnet på hovedsiden',
+	'adminlinks_users' => 'Brukere',
+	'adminlinks_createuser' => 'Opprett en bruker',
+	'adminlinks_browsesearch' => 'Lesing og søking',
+	'adminlinks_importexport' => 'Importering og eksportering',
+	'right-adminlinks' => 'Se lenken til [[Special:AdminLinks|admin-lenker]]',
+);
+
 /** Nedersaksisch (Nedersaksisch)
  * @author Servien
  */
@@ -1247,24 +1265,6 @@ $messages['nn'] = array(
 	'adminlinks_browsesearch' => 'Lesing og søking',
 	'adminlinks_importexport' => 'Importering og eksportering',
 	'right-adminlinks' => 'Sjå lenka til [[Special:AdminLinks|admin-lenker]]',
-);
-
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Nghtwlkr
- */
-$messages['nb'] = array(
-	'adminlinks' => 'Adminlenker',
-	'adminlinks-desc' => 'Legger til en [[Special:AdminLinks|spesialside]] som inneholder nyttige lenker for administratorer',
-	'adminlinks_documentation' => 'dokumentasjon for $1',
-	'adminlinks_general' => 'Generelt',
-	'adminlinks_editsidebar' => 'Endre sidespalten',
-	'adminlinks_editcss' => 'Rediger CSS-filen',
-	'adminlinks_editmainpagename' => 'Endre navnet på hovedsiden',
-	'adminlinks_users' => 'Brukere',
-	'adminlinks_createuser' => 'Opprett en bruker',
-	'adminlinks_browsesearch' => 'Lesing og søking',
-	'adminlinks_importexport' => 'Importering og eksportering',
-	'right-adminlinks' => 'Se lenken til [[Special:AdminLinks|admin-lenker]]',
 );
 
 /** Occitan (Occitan)
@@ -1582,10 +1582,12 @@ $messages['sr-ec'] = array(
 	'right-adminlinks' => 'прегледање везе до [[Special:AdminLinks|администраторских веза]]',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬) */
+/** Serbian (Latin script) (‪Srpski (latinica)‬)
+ * @author Rancher
+ */
 $messages['sr-el'] = array(
-	'adminlinks' => 'Administratorske veze',
-	'adminlinks-desc' => 'Dodaje [[Special:AdminLinks|posebne stranice]] koje sadrže korisne veze za administratore',
+	'adminlinks' => 'Administrativne veze',
+	'adminlinks-desc' => 'Dodaje [[Special:AdminLinks|posebnu stranicu]] koja sadrži korisne veze za administratore',
 	'adminlinks_documentation' => '$1 dokumentacija',
 	'adminlinks_general' => 'Opšte',
 	'adminlinks_editsidebar' => 'Uredi bočnu traku',
@@ -1594,8 +1596,8 @@ $messages['sr-el'] = array(
 	'adminlinks_users' => 'Korisnici',
 	'adminlinks_createuser' => 'Napravi korisnika',
 	'adminlinks_browsesearch' => 'Pretraživanje',
-	'adminlinks_importexport' => 'Uvoženje i izvoženje',
-	'right-adminlinks' => 'Pogledajte vezu do [[Special:AdminLinks|administratorskih vezâ]]',
+	'adminlinks_importexport' => 'Uvoz i izvoz',
+	'right-adminlinks' => 'pregledanje veze do [[Special:AdminLinks|administratorskih veza]]',
 );
 
 /** Swedish (Svenska)
