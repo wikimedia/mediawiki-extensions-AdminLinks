@@ -1252,7 +1252,7 @@ $messages['nn'] = array(
 /** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
  * @author Nghtwlkr
  */
-$messages['no'] = array(
+$messages['nb'] = array(
 	'adminlinks' => 'Adminlenker',
 	'adminlinks-desc' => 'Legger til en [[Special:AdminLinks|spesialside]] som inneholder nyttige lenker for administratorer',
 	'adminlinks_documentation' => 'dokumentasjon for $1',
