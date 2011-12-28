@@ -19,6 +19,7 @@ $wgExtensionCredits['specialpage'][] = array(
 
 $wgAdminLinksIP = dirname( __FILE__ ) . '/';
 $wgExtensionMessagesFiles['AdminLinks'] = $wgAdminLinksIP . 'AdminLinks.i18n.php';
+$wgExtensionMessagesFiles['AdminLinksAlias'] = $wgAdminLinksIP . 'AdminLinks.alias.php';
 $wgSpecialPages['AdminLinks'] = 'AdminLinks';
 $wgHooks['PersonalUrls'][] = 'AdminLinks::addURLToUserLinks';
 $wgAvailableRights[] = 'adminlinks';
@@ -30,4 +31,3 @@ $wgAutoloadClasses['AdminLinks']
 	= $wgAutoloadClasses['ALRow']
 	= $wgAutoloadClasses['ALItem']
 	= $wgAdminLinksIP . 'AdminLinks_body.php';
-	$wgExtensionMessagesFiles['AdminLinksAlias'] = $wgAdminLinksIP . 'AdminLinks.alias.php';
