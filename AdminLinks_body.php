@@ -6,20 +6,12 @@
  */
 
 class AdminLinks extends SpecialPage {
-	var $skin;
 
 	/**
 	 * Constructor
 	 */
 	function __construct() {
 		parent::__construct( 'AdminLinks' );
-		// deprecated in MW 1.16
-		global $wgVersion;
-		if ( version_compare( $wgVersion, '1.16', '<' ) ) {
-			wfLoadExtensionMessages( 'AdminLinks' );
-		}
-		global $wgUser;
-		$this->skin = $wgUser->getSkin();
 	}
 
 	function createInitialTree() {
@@ -97,12 +89,6 @@ class AdminLinks extends SpecialPage {
 		global $wgUser;
 		// if user is a sysop, add link
 		if ( $wgUser->isAllowed( 'adminlinks' ) ) {
-			// deprecated in MW 1.16
-			global $wgVersion;
-			if ( version_compare( $wgVersion, '1.16', '<' ) ) {
-				wfLoadExtensionMessages( 'AdminLinks' );
-			}
-
 			$al = SpecialPage::getTitleFor( 'AdminLinks' );
 			$href = $al->getLocalURL();
 			$admin_links_vals = array(
@@ -271,12 +257,7 @@ class ALItem {
 		$item->label = $desc;
 		if ( $params != null ) {
 			global $wgUser;
-			// linkKnown() method was added in MW 1.16
-			if ( method_exists( $wgUser->getSkin(), 'linkKnown' ) ) {
-				$item->text = $wgUser->getSkin()->linkKnown( $page_name, $desc, array(), $params );
-			} else {
-				$item->text = $wgUser->getSkin()->makeKnownLinkObj( $page_name, $desc, wfArrayToCGI( $params ) );
-			}
+			$item->text = $wgUser->getSkin()->linkKnown( $page_name, $desc, array(), $params );
 		} else
 			$item->text = "[[$page_name|$desc]]";
 		return $item;
@@ -287,12 +268,7 @@ class ALItem {
 		$item->label = $page_name;
 		$page = SpecialPage::getPage( $page_name );
 		global $wgUser;
-		// linkKnown() method was added in MW 1.16
-		if ( method_exists( $wgUser->getSkin(), 'linkKnown' ) ) {
-			$item->text = $wgUser->getSkin()->linkKnown( $page->getTitle(), $page->getDescription() );
-		} else {
-			$item->text = $wgUser->getSkin()->makeKnownLinkObj( $page->getTitle(), $page->getDescription() );
-		}
+		$item->text = $wgUser->getSkin()->linkKnown( $page->getTitle(), $page->getDescription() );
 		return $item;
 	}
 
