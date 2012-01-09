@@ -1360,6 +1360,7 @@ $messages['ps'] = array(
 	'adminlinks_users' => 'کارنان',
 	'adminlinks_createuser' => 'يو کارن جوړول',
 	'adminlinks_browsesearch' => 'سپړنه او پلټنه',
+	'adminlinks_importexport' => 'واردول او صادرول',
 	'right-adminlinks' => 'د [[Special:AdminLinks|پازوال تړنو]] ته ورسيخه شوې تړنه کتل',
 );
 
