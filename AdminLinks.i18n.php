@@ -1808,6 +1808,7 @@ $messages['vi'] = array(
  */
 $messages['yi'] = array(
 	'adminlinks' => 'סיסאפ לינקען',
+	'adminlinks_documentation' => '$1 דאָקומענטאַציע',
 	'adminlinks_general' => 'אַלגעמיין',
 	'adminlinks_editsidebar' => 'רעדאַקטירן זײַטפאַס',
 	'adminlinks_editcss' => 'רעדאַקטירן CSS טעקע',
