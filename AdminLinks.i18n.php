@@ -891,8 +891,10 @@ $messages['ja'] = array(
 
 /** Georgian (ქართული)
  * @author BRUTE
+ * @author David1010
  */
 $messages['ka'] = array(
+	'adminlinks_general' => 'მთავარი',
 	'adminlinks_users' => 'მომხმარებლები',
 	'adminlinks_createuser' => 'ანგარიშის შექმნა',
 );
