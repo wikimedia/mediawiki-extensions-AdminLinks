@@ -1108,7 +1108,7 @@ $messages['mhr'] = array(
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
-	'adminlinks' => 'Администраторски врски',
+	'adminlinks' => 'администраторски врски',
 	'adminlinks-desc' => 'Додава [[Special:AdminLinks|специјална страница]] која содржи корисни врски за администратори.',
 	'adminlinks_documentation' => 'Документација за $1',
 	'adminlinks_general' => 'Општо',
