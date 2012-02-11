@@ -1841,6 +1841,7 @@ $messages['zh-hans'] = array(
 /** Traditional Chinese (‪中文(繁體)‬)
  * @author Horacewai2
  * @author Mark85296341
+ * @author Oapbtommy
  * @author Waihorace
  */
 $messages['zh-hant'] = array(
@@ -1852,7 +1853,7 @@ $messages['zh-hant'] = array(
 	'adminlinks_editcss' => '編輯 CSS 檔案',
 	'adminlinks_editmainpagename' => '編輯首頁名稱',
 	'adminlinks_users' => '用戶',
-	'adminlinks_createuser' => '建立一個新帳號',
+	'adminlinks_createuser' => '建立一個用戶',
 	'adminlinks_browsesearch' => '瀏覽和搜尋',
 	'adminlinks_importexport' => '匯入和匯出',
 	'right-adminlinks' => '檢視[[Special:AdminLinks|管理連結]]',
