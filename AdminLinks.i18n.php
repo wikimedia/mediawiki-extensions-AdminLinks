@@ -458,7 +458,7 @@ $messages['diq'] = array(
  * @author Michawiki
  */
 $messages['dsb'] = array(
-	'adminlinks' => 'Wótkaze za administratorow',
+	'adminlinks' => 'za administratorow',
 	'adminlinks-desc' => 'Pśidawa [[Special:AdminLinks|specialny bok]] z pomocniwymi wótkazami za administratorow',
 	'adminlinks_documentation' => '$1 dokumentacija',
 	'adminlinks_general' => 'Powšykny',
@@ -766,7 +766,7 @@ $messages['hr'] = array(
  * @author Michawiki
  */
 $messages['hsb'] = array(
-	'adminlinks' => 'Wotkazy za administratorow',
+	'adminlinks' => 'za administratorow',
 	'adminlinks-desc' => 'Přidawa [[Special:AdminLinks|specialnu stronu]] z pomocliwymi wotkazami za administratorow',
 	'adminlinks_documentation' => '$1 dokumentacija',
 	'adminlinks_general' => 'Powšitkowny',
