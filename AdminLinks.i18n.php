@@ -576,22 +576,23 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Huji
  * @author Sahim
  * @author ZxxZxxZ
  */
 $messages['fa'] = array(
-	'adminlinks' => 'لینک‌های مدیران',
-	'adminlinks-desc' => 'اضافه کردن یک [[Special:AdminLinks|صفحه ویژه]] که دارای لینک‌های مفید برای مدیران است',
-	'adminlinks_documentation' => '$1 مستند شده',
+	'adminlinks' => 'پیوندهای مدیران',
+	'adminlinks-desc' => 'اضافه کردن یک [[Special:AdminLinks|صفحه ویژه]] که دارای پیوندهای مفید برای مدیران است',
+	'adminlinks_documentation' => 'مستندات $1',
 	'adminlinks_general' => 'عمومی',
 	'adminlinks_editsidebar' => 'نوار ویرایش',
-	'adminlinks_editcss' => 'ویرایش فایل CSS',
+	'adminlinks_editcss' => 'ویرایش فایل سی‌اس‌اس',
 	'adminlinks_editmainpagename' => 'ویرایش نام از طریق صفحه اصلی',
 	'adminlinks_users' => 'کاربران',
-	'adminlinks_createuser' => 'ساخت یک کاربر',
+	'adminlinks_createuser' => 'ایجاد یک حساب',
 	'adminlinks_browsesearch' => 'مرور و جستجو',
-	'adminlinks_importexport' => 'ورودی و خروجی',
-	'right-adminlinks' => 'لینک به [[Special:AdminLinks|لینک‌های مدیران]] را ببینید',
+	'adminlinks_importexport' => 'درون‌ریزی و برون‌بری',
+	'right-adminlinks' => 'پیوند به [[Special:AdminLinks|پیوندهای مدیران]] را ببینید',
 );
 
 /** Finnish (Suomi)
