@@ -582,7 +582,7 @@ $messages['eu'] = array(
  */
 $messages['fa'] = array(
 	'adminlinks' => 'پیوندهای مدیران',
-	'adminlinks-desc' => 'افزودن [[Special:AdminLinks|صفحه‌ای ویژه]] دارای پیوندهایی مفید برای مدیران',
+	'adminlinks-desc' => '[[Special:AdminLinks|صفحه‌ای ویژه]] دارای پیوندهایی مفید برای مدیران اضافه می‌کند',
 	'adminlinks_documentation' => 'مستندات $1',
 	'adminlinks_general' => 'عمومی',
 	'adminlinks_editsidebar' => 'نوار ویرایش',
