@@ -43,24 +43,6 @@ $messages['qqq'] = array(
 	'right-adminlinks' => '{{doc-right|adminlinks}}',
 );
 
-/** толышә зывон (толышә зывон)
- * @author Гусейн
- */
-$messages['tly'] = array(
-	'adminlinks' => 'Сургунон бо администраторон',
-	'adminlinks-desc' => 'Зијод кардејдә [[Special:AdminLinks|хыдмәтә сәһифә]], дыләдә һестыше фәрә сургунон бо администраторон',
-	'adminlinks_documentation' => 'Сәнәдон $1',
-	'adminlinks_general' => 'Умуми',
-	'adminlinks_editsidebar' => 'Јанә сәку сәрост кардеј',
-	'adminlinks_editcss' => 'CSS фајли сәрост кардеј',
-	'adminlinks_editmainpagename' => 'Јолә сәһифә номи сәрост кардеј',
-	'adminlinks_users' => 'Иштирок кардәкәсон',
-	'adminlinks_createuser' => 'Иштирок кардәкәси офәјеј',
-	'adminlinks_browsesearch' => 'Сәкыштә ијән нәве',
-	'adminlinks_importexport' => 'Идхол ијән ихроҹ',
-	'right-adminlinks' => 'Виндеј [[Special:AdminLinks|Сургунон бо администраторон]]',
-);
-
 /** Afrikaans (Afrikaans)
  * @author Naudefj
  */
@@ -680,11 +662,12 @@ $messages['grc'] = array(
 );
 
 /** Swiss German (Alemannisch)
+ * @author Als-Chlämens
  * @author Als-Holder
  */
 $messages['gsw'] = array(
 	'adminlinks' => 'Adminlinks',
-	'adminlinks-desc' => 'Fiegt e [[Special:AdminLinks|Spezialsyte]] yy mit hilfryyche Gleicher (Links) fir Ammanne (Adminischtratore).',
+	'adminlinks-desc' => 'Fiegt e [[Special:AdminLinks|Spezialsyte]] yy mit hilfryyche Links fir Ammanne.',
 	'adminlinks_documentation' => '$1 Dokumäntation',
 	'adminlinks_general' => 'Allgmein',
 	'adminlinks_editsidebar' => 'Syteleischte bearbeite',
@@ -694,7 +677,7 @@ $messages['gsw'] = array(
 	'adminlinks_createuser' => 'E Benutzer aalege',
 	'adminlinks_browsesearch' => 'Browse un Sueche',
 	'adminlinks_importexport' => 'Importiere un Exportiere',
-	'right-adminlinks' => 'Lueg s Gleich (Link) zue [[Special:AdminLinks|Adminlinks]]',
+	'right-adminlinks' => 'Lueg uff de Link zue [[Special:AdminLinks|Adminlinks]]',
 );
 
 /** Manx (Gaelg)
@@ -1696,6 +1679,24 @@ $messages['tl'] = array(
 	'adminlinks_browsesearch' => 'Pagbabasa-basa at paghahanap',
 	'adminlinks_importexport' => 'Pag-aangkat at pagluluwas',
 	'right-adminlinks' => 'Tingnan ang kawing sa [[Special:AdminLinks|mga kawing pantagapangasiwa]]',
+);
+
+/** толышә зывон (толышә зывон)
+ * @author Гусейн
+ */
+$messages['tly'] = array(
+	'adminlinks' => 'Сургунон бо администраторон',
+	'adminlinks-desc' => 'Зијод кардејдә [[Special:AdminLinks|хыдмәтә сәһифә]], дыләдә һестыше фәрә сургунон бо администраторон',
+	'adminlinks_documentation' => 'Сәнәдон $1',
+	'adminlinks_general' => 'Умуми',
+	'adminlinks_editsidebar' => 'Јанә сәку сәрост кардеј',
+	'adminlinks_editcss' => 'CSS фајли сәрост кардеј',
+	'adminlinks_editmainpagename' => 'Јолә сәһифә номи сәрост кардеј',
+	'adminlinks_users' => 'Иштирок кардәкәсон',
+	'adminlinks_createuser' => 'Иштирок кардәкәси офәјеј',
+	'adminlinks_browsesearch' => 'Сәкыштә ијән нәве',
+	'adminlinks_importexport' => 'Идхол ијән ихроҹ',
+	'right-adminlinks' => 'Виндеј [[Special:AdminLinks|Сургунон бо администраторон]]',
 );
 
 /** Turkish (Türkçe)
