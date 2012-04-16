@@ -1827,12 +1827,13 @@ $messages['yi'] = array(
 /** Simplified Chinese (‪中文(简体)‬)
  * @author Franklsf95
  * @author Xiaomingyan
+ * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
 	'adminlinks' => '管理员链接',
 	'adminlinks-desc' => '添加一个[[Special:AdminLinks|特殊页面]]为管理员提供有用的链接',
 	'adminlinks_documentation' => '$1说明文件',
-	'adminlinks_general' => '一般',
+	'adminlinks_general' => '常规',
 	'adminlinks_editsidebar' => '编辑侧边栏',
 	'adminlinks_editcss' => '编辑 CSS 文件',
 	'adminlinks_editmainpagename' => '编辑首页名称',
