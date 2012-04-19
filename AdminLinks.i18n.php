@@ -601,9 +601,10 @@ $messages['fi'] = array(
 
 /** French (Français)
  * @author IAlex
+ * @author Urhixidur
  */
 $messages['fr'] = array(
-	'adminlinks' => "Liens d'administration",
+	'adminlinks' => 'Liens d’administration',
 	'adminlinks-desc' => 'Ajoute une [[Special:AdminLinks|page spéciale]] qui contient des liens utiles pour les administrateurs',
 	'adminlinks_documentation' => 'documentation de $1',
 	'adminlinks_general' => 'Général',
@@ -614,7 +615,7 @@ $messages['fr'] = array(
 	'adminlinks_createuser' => 'Créer un utilisateur',
 	'adminlinks_browsesearch' => 'Navigation et recherche',
 	'adminlinks_importexport' => 'Importer et exporter',
-	'right-adminlinks' => "Voir le lien vers [[Special:AdminLinks|liens d'administration]]",
+	'right-adminlinks' => 'Voir le lien vers les [[Special:AdminLinks|Liens d’administration]]',
 );
 
 /** Franco-Provençal (Arpetan)
