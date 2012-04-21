@@ -858,6 +858,7 @@ $messages['it'] = array(
 
 /** Japanese (日本語)
  * @author Fryed-peach
+ * @author Shirayuki
  */
 $messages['ja'] = array(
 	'adminlinks' => '管理者用リンク集',
@@ -868,7 +869,7 @@ $messages['ja'] = array(
 	'adminlinks_editcss' => 'CSSファイルの編集',
 	'adminlinks_editmainpagename' => 'メインページの名前の編集',
 	'adminlinks_users' => '利用者',
-	'adminlinks_createuser' => '利用者の作成',
+	'adminlinks_createuser' => '利用者を作成',
 	'adminlinks_browsesearch' => '閲覧と検索',
 	'adminlinks_importexport' => '取り込みと書き出し',
 	'right-adminlinks' => '[[Special:AdminLinks|管理者用リンク集]]へのリンクが表示される',
