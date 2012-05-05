@@ -904,7 +904,7 @@ $messages['km'] = array(
  * @author Kwj2772
  */
 $messages['ko'] = array(
-	'adminlinks' => '괸리용 링크 모음',
+	'adminlinks' => '관리용 링크 모음',
 	'adminlinks-desc' => '관리자들에게 유용한 링크들이 있는 [[Special:AdminLinks|특수 문서]]를 추가합니다',
 	'adminlinks_documentation' => '$1 설명문서',
 	'adminlinks_general' => '일반',
