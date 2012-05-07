@@ -257,10 +257,11 @@ $messages['bg'] = array(
 
 /** Banjar (Bahasa Banjar)
  * @author Ezagren
+ * @author J Subhi
  */
 $messages['bjn'] = array(
-	'adminlinks_users' => 'Pamuruk',
-	'adminlinks_createuser' => 'Ulah pamuruk',
+	'adminlinks_users' => 'Papamakai',
+	'adminlinks_createuser' => 'Ulah pamakai',
 );
 
 /** Bengali (বাংলা)
