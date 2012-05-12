@@ -1684,7 +1684,7 @@ $messages['tl'] = array(
 	'right-adminlinks' => 'Tingnan ang kawing sa [[Special:AdminLinks|mga kawing pantagapangasiwa]]',
 );
 
-/** толышә зывон (толышә зывон)
+/** Толышә зывон (Толышә зывон)
  * @author Гусейн
  */
 $messages['tly'] = array(
@@ -1783,7 +1783,7 @@ $messages['vec'] = array(
 	'right-adminlinks' => 'Vede el cołegamento al [[Special:AdminLinks|Paneło Admin]]',
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
