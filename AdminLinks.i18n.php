@@ -1817,6 +1817,7 @@ $messages['vi'] = array(
  */
 $messages['yi'] = array(
 	'adminlinks' => 'סיסאפ לינקען',
+	'adminlinks-desc' => 'לייגט צו א [[Special:AdminLinks|באזונדערן בלאט]] מיט העלפיקע לינקען פאר סיסאפן',
 	'adminlinks_documentation' => '$1 דאָקומענטאַציע',
 	'adminlinks_general' => 'אַלגעמיין',
 	'adminlinks_editsidebar' => 'רעדאַקטירן זײַטפאַס',
@@ -1825,6 +1826,8 @@ $messages['yi'] = array(
 	'adminlinks_users' => 'באַניצער',
 	'adminlinks_createuser' => 'שאַפֿן אַ באַניצער',
 	'adminlinks_browsesearch' => 'בלעטערן און זוכן',
+	'adminlinks_importexport' => 'אימפארט און עקספארט',
+	'right-adminlinks' => 'זען לינק צו [[Special:AdminLinks|סיסאפן לינקען]]',
 );
 
 /** Simplified Chinese (‪中文(简体)‬)
