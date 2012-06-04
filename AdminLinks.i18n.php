@@ -40,7 +40,7 @@ $messages['qqq'] = array(
 	'adminlinks_documentation' => 'The label for a link to documentation for a certain extension, whose name is passed in.
 {{Identical|Documentation}}',
 	'adminlinks_general' => '{{Identical|General}}Section name for general links for administrators.',
-	'adminlinks_editsidebar' => 'Link description that will lead to the page where the site\'s sidebar can be edited.',
+	'adminlinks_editsidebar' => "Link description that will lead to the page where the site's sidebar can be edited.",
 	'adminlinks_editcss' => 'Link description that will lead to the page where a CSS page can be edited.',
 	'adminlinks_editmainpagename' => 'Link description that will lead to the page where the name of the main page can be edited.',
 	'adminlinks_users' => '{{Identical|User}}Section name for links for administrators.',
