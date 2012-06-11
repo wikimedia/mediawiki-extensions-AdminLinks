@@ -33,7 +33,7 @@ $specialPageAliases['bjn'] = array(
 	'AdminLinks' => array( 'Tautan_admin' ),
 );
 
-/** Breton (Brezhoneg) */
+/** Breton (brezhoneg) */
 $specialPageAliases['br'] = array(
 	'AdminLinks' => array( 'LiammoùMerañ' ),
 );
@@ -53,7 +53,7 @@ $specialPageAliases['eo'] = array(
 	'AdminLinks' => array( 'Ligiloj_por_administrantoj' ),
 );
 
-/** Spanish (Español) */
+/** Spanish (español) */
 $specialPageAliases['es'] = array(
 	'AdminLinks' => array( 'EnlacesAdministrador' ),
 );
@@ -63,7 +63,7 @@ $specialPageAliases['fa'] = array(
 	'AdminLinks' => array( 'پیوندهای_مدیر' ),
 );
 
-/** Finnish (Suomi) */
+/** Finnish (suomi) */
 $specialPageAliases['fi'] = array(
 	'AdminLinks' => array( 'Ylläpitolinkit' ),
 );
@@ -88,7 +88,7 @@ $specialPageAliases['ht'] = array(
 	'AdminLinks' => array( 'LyenAdmin' ),
 );
 
-/** Interlingua (Interlingua) */
+/** Interlingua (interlingua) */
 $specialPageAliases['ia'] = array(
 	'AdminLinks' => array( 'Ligamines_pro_administratores' ),
 );
@@ -98,7 +98,7 @@ $specialPageAliases['id'] = array(
 	'AdminLinks' => array( 'Pranala_admin', 'PranalaAdmin' ),
 );
 
-/** Italian (Italiano) */
+/** Italian (italiano) */
 $specialPageAliases['it'] = array(
 	'AdminLinks' => array( 'SysopLinks' ),
 );
@@ -106,6 +106,11 @@ $specialPageAliases['it'] = array(
 /** Japanese (日本語) */
 $specialPageAliases['ja'] = array(
 	'AdminLinks' => array( '管理者用リンク集' ),
+);
+
+/** Korean (한국어) */
+$specialPageAliases['ko'] = array(
+	'AdminLinks' => array( '관리자링크' ),
 );
 
 /** Colognian (Ripoarisch) */
@@ -128,7 +133,7 @@ $specialPageAliases['mg'] = array(
 	'AdminLinks' => array( 'Rohim-pandrindra' ),
 );
 
-/** Macedonian (Македонски) */
+/** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'AdminLinks' => array( 'АдминистраторскиВрски' ),
 );
@@ -148,7 +153,7 @@ $specialPageAliases['mt'] = array(
 	'AdminLinks' => array( 'ĦoloqAmmin' ),
 );
 
-/** Norwegian Bokmål (‪Norsk (bokmål)‬) */
+/** Norwegian Bokmål (‪norsk (bokmål)‬) */
 $specialPageAliases['nb'] = array(
 	'AdminLinks' => array( 'Administratorlenker' ),
 );
@@ -163,12 +168,12 @@ $specialPageAliases['nl'] = array(
 	'AdminLinks' => array( 'Beheerdersverwijzingen' ),
 );
 
-/** Portuguese (Português) */
+/** Portuguese (português) */
 $specialPageAliases['pt'] = array(
 	'AdminLinks' => array( 'Ligações_de_administração' ),
 );
 
-/** Romanian (Română) */
+/** Romanian (română) */
 $specialPageAliases['ro'] = array(
 	'AdminLinks' => array( 'Legături_admini' ),
 );
@@ -183,12 +188,12 @@ $specialPageAliases['si'] = array(
 	'AdminLinks' => array( 'පරිපාලක_සබැඳි' ),
 );
 
-/** Slovak (Slovenčina) */
+/** Slovak (slovenčina) */
 $specialPageAliases['sk'] = array(
 	'AdminLinks' => array( 'OdkazySprávcu' ),
 );
 
-/** Swedish (Svenska) */
+/** Swedish (svenska) */
 $specialPageAliases['sv'] = array(
 	'AdminLinks' => array( 'Administratörslänkar' ),
 );
@@ -203,12 +208,12 @@ $specialPageAliases['vi'] = array(
 	'AdminLinks' => array( 'Liên_kết_bảo_quản_viên' ),
 );
 
-/** Simplified Chinese (‪中文(简体)‬) */
+/** Simplified Chinese (‪中文（简体）‬) */
 $specialPageAliases['zh-hans'] = array(
 	'AdminLinks' => array( '管理员链接' ),
 );
 
-/** Traditional Chinese (‪中文(繁體)‬) */
+/** Traditional Chinese (‪中文（繁體）‬) */
 $specialPageAliases['zh-hant'] = array(
 	'AdminLinks' => array( '管理員鏈接' ),
 );
