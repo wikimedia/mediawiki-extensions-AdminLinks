@@ -154,7 +154,7 @@ $messages['as'] = array(
 	'adminlinks_users' => 'সদস্যসকল',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -172,7 +172,7 @@ $messages['ast'] = array(
 	'right-adminlinks' => "Ver l'enllaz a [[Special:AdminLinks|enllaces d'alministrador]]",
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  * @author Vago
  */
@@ -243,7 +243,7 @@ $messages['be-tarask'] = array(
 	'right-adminlinks' => 'бачыць спасылку на [[Special:AdminLinks|спасылкі для адміністратараў]]',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  * @author Stanqo
  */
@@ -289,7 +289,7 @@ $messages['bn'] = array(
 	'right-adminlinks' => 'সংযোগটি [[Special:AdminLinks|প্রশাসক লিংকে]] দেখুন',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -307,7 +307,7 @@ $messages['br'] = array(
 	'right-adminlinks' => 'Gwelet al liamm war-du [[Special:AdminLinks|liammoù merañ]]',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -325,7 +325,7 @@ $messages['bs'] = array(
 	'right-adminlinks' => 'Pregledavanje linkova u [[Special:AdminLinks|linkovima administratora]]',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author SMP
  * @author Solde
  */
@@ -362,7 +362,7 @@ $messages['ce'] = array(
 	'right-adminlinks' => 'гарна [[Special:AdminLinks|хьажоригаш адманкуьйгалхошна]]',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Kuvaly
  * @author Reaperman
  */
@@ -399,7 +399,7 @@ $messages['cy'] = array(
 	'right-adminlinks' => "Gallu gweld y cyswllt at [[Special:AdminLinks|Cysylltau'r gweinyddwyr]]",
 );
 
-/** Danish (Dansk)
+/** Danish (dansk)
  * @author Masz
  */
 $messages['da'] = array(
@@ -519,7 +519,7 @@ $messages['eo'] = array(
 	'right-adminlinks' => 'Vidi ligilon al [[Special:AdminLinks|Administranto-ligilojn]]',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Crazymadlover
  * @author Locos epraix
  */
@@ -538,7 +538,7 @@ $messages['es'] = array(
 	'right-adminlinks' => 'Ver el vínculo a [[Special:AdminLinks|Administrar vínculos]]',
 );
 
-/** Estonian (Eesti)
+/** Estonian (eesti)
  * @author Avjoska
  * @author Pikne
  */
@@ -550,7 +550,7 @@ $messages['et'] = array(
 	'right-adminlinks' => 'Näha linki leheküljele [[Special:AdminLinks|administraatori lingid]]',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author An13sa
  */
 $messages['eu'] = array(
@@ -585,7 +585,7 @@ $messages['fa'] = array(
 	'right-adminlinks' => 'پیوند به [[Special:AdminLinks|پیوندهای مدیران]] را ببینید',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Crt
  * @author Nike
  * @author Str4nd
@@ -607,7 +607,7 @@ $messages['fi'] = array(
 	'right-adminlinks' => 'Nähdä linkki sivulle [[Special:AdminLinks|ylläpitäjien linkit]]',
 );
 
-/** French (Français)
+/** French (français)
  * @author IAlex
  * @author Urhixidur
  */
@@ -626,7 +626,7 @@ $messages['fr'] = array(
 	'right-adminlinks' => 'Voir le lien vers les [[Special:AdminLinks|Liens d’administration]]',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -737,7 +737,7 @@ $messages['hi'] = array(
 	'adminlinks_users' => 'सदस्य',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Ex13
  */
 $messages['hr'] = array(
@@ -773,7 +773,7 @@ $messages['hsb'] = array(
 	'right-adminlinks' => 'Hlej wotkaz k [[Special:AdminLinks|wotkazam za administratorow]]',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Tgr
  */
 $messages['hu'] = array(
@@ -791,7 +791,7 @@ $messages['hu'] = array(
 	'right-adminlinks' => 'látja az [[Special:AdminLinks|adminlinkeket]]',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -845,7 +845,7 @@ $messages['ig'] = array(
 	'right-adminlinks' => 'Zi jikodo na ga [[Special:AdminLinks|Jikodo ndi íshí]]',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Darth Kule
  * @author Marco 27
  */
@@ -1002,7 +1002,7 @@ $messages['li'] = array(
 	'right-adminlinks' => 'De verwiezing nao [[Special:AdminLinks|verwiezinge veur systeemwèrkers]] betrachte',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Eitvys200
  * @author Ignas693
  * @author Perkunas
@@ -1023,7 +1023,7 @@ $messages['lt'] = array(
 	'right-adminlinks' => 'Žr. nuorodą į [[Special:AdminLinks|Administravimo priemonės]]',
 );
 
-/** Latgalian (Latgaļu)
+/** Latgalian (latgaļu)
  * @author Dark Eagle
  */
 $messages['ltg'] = array(
@@ -1031,7 +1031,7 @@ $messages['ltg'] = array(
 	'adminlinks_createuser' => 'Sataiseit jaunu lītuotuoju',
 );
 
-/** Latvian (Latviešu)
+/** Latvian (latviešu)
  * @author Papuass
  */
 $messages['lv'] = array(
@@ -1099,7 +1099,7 @@ $messages['mhr'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|Сайтвиктарыше кылвер-влакым]] ужаш',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -1246,7 +1246,7 @@ $messages['nl'] = array(
 	'right-adminlinks' => 'De verwijzing naar [[Special:AdminLinks|verwijzingen voor beheerders]] zien',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Gunnernett
  */
 $messages['nn'] = array(
@@ -1264,7 +1264,7 @@ $messages['nn'] = array(
 	'right-adminlinks' => 'Sjå lenka til [[Special:AdminLinks|admin-lenker]]',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -1308,7 +1308,7 @@ $messages['pdc'] = array(
 	'adminlinks_users' => 'Yuuser',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Sp5uhe
  */
 $messages['pl'] = array(
@@ -1361,7 +1361,7 @@ $messages['ps'] = array(
 	'right-adminlinks' => 'د [[Special:AdminLinks|پازوال تړنو]] ته ورسيخه شوې تړنه کتل',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Malafaya
  * @author Waldir
@@ -1381,7 +1381,7 @@ $messages['pt'] = array(
 	'right-adminlinks' => 'Ver o link para a página [[Special:AdminLinks|Links para administradores]]',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
@@ -1399,7 +1399,7 @@ $messages['pt-br'] = array(
 	'right-adminlinks' => 'Ver a ligação para [[Special:AdminLinks|ligações Admin]]',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author Firilacroco
  * @author KlaudiuMihaila
  * @author Minisarm
@@ -1418,7 +1418,7 @@ $messages['ro'] = array(
 	'adminlinks_importexport' => 'Importare și exportare',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -1434,7 +1434,7 @@ $messages['roa-tara'] = array(
 	'adminlinks_importexport' => "'Mborte e esporte",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Ferrer
  * @author Александр Сигачёв
  */
@@ -1471,7 +1471,7 @@ $messages['rue'] = array(
 	'right-adminlinks' => 'Відїти [[Special:AdminLinks|Одказы про адміністраторів]]',
 );
 
-/** Sakha (Саха тыла)
+/** Sakha (саха тыла)
  * @author HalanTul
  */
 $messages['sah'] = array(
@@ -1489,7 +1489,7 @@ $messages['sah'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|Дьаһабылларга анаммыт сигэлэри]] көрүү',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Aushulz
  */
 $messages['scn'] = array(
@@ -1524,7 +1524,7 @@ $messages['si'] = array(
 	'adminlinks_createuser' => 'පරිශීලකයෙක් තනන්න',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -1542,7 +1542,7 @@ $messages['sk'] = array(
 	'right-adminlinks' => 'Pozri odkaz na [[Special:AdminLinks|Odkazy správcu]]',
 );
 
-/** Slovenian (Slovenščina)
+/** Slovenian (slovenščina)
  * @author Dbc334
  */
 $messages['sl'] = array(
@@ -1560,7 +1560,7 @@ $messages['sl'] = array(
 	'right-adminlinks' => 'Ogled povezav na [[Special:AdminLinks|Skrbniških povezavah]]',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Charmed94
  * @author Rancher
  * @author Михајло Анђелковић
@@ -1580,7 +1580,7 @@ $messages['sr-ec'] = array(
 	'right-adminlinks' => 'прегледање везе до [[Special:AdminLinks|администраторских веза]]',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Rancher
  */
 $messages['sr-el'] = array(
@@ -1598,7 +1598,7 @@ $messages['sr-el'] = array(
 	'right-adminlinks' => 'pregledanje veze do [[Special:AdminLinks|administratorskih veza]]',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Gabbe.g
  * @author Rotsee
  * @author WikiPhoenix
@@ -1691,7 +1691,7 @@ $messages['tl'] = array(
 	'right-adminlinks' => 'Tingnan ang kawing sa [[Special:AdminLinks|mga kawing pantagapangasiwa]]',
 );
 
-/** Толышә зывон (Толышә зывон)
+/** толышә зывон (толышә зывон)
  * @author Гусейн
  */
 $messages['tly'] = array(
@@ -1727,7 +1727,7 @@ $messages['tr'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|Hizmetli bağlantılarına]] giden bağlantıyı gör',
 );
 
-/** Tatar (Cyrillic script) (Татарча)
+/** Tatar (Cyrillic script) (татарча)
  * @author Рашат Якупов
  */
 $messages['tt-cyrl'] = array(
@@ -1753,7 +1753,7 @@ $messages['ug-arab'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|باشقۇرغۇچى ئۇلاىمىسى]]نى كۆرۈڭ',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author NickK
  * @author Prima klasy4na
  */
@@ -1772,7 +1772,7 @@ $messages['uk'] = array(
 	'right-adminlinks' => 'Бачити [[Special:AdminLinks|посилання для адміністраторів]]',
 );
 
-/** Vèneto (Vèneto)
+/** vèneto (vèneto)
  * @author Candalua
  * @author Vajotwo
  */
@@ -1837,7 +1837,7 @@ $messages['yi'] = array(
 	'right-adminlinks' => 'זען לינק צו [[Special:AdminLinks|סיסאפן לינקען]]',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Franklsf95
  * @author Xiaomingyan
  * @author Yfdyh000
@@ -1857,7 +1857,7 @@ $messages['zh-hans'] = array(
 	'right-adminlinks' => '查看[[Special:AdminLinks|管理员链接]]',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Horacewai2
  * @author Mark85296341
  * @author Oapbtommy
