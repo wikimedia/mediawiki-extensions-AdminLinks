@@ -1843,7 +1843,7 @@ $messages['yi'] = array(
  * @author Yfdyh000
  */
 $messages['zh-hans'] = array(
-	'adminlinks' => '管理员链接',
+	'adminlinks' => '管理链接',
 	'adminlinks-desc' => '添加一个[[Special:AdminLinks|特殊页面]]为管理员提供有用的链接',
 	'adminlinks_documentation' => '$1说明文件',
 	'adminlinks_general' => '常规',
@@ -1854,7 +1854,7 @@ $messages['zh-hans'] = array(
 	'adminlinks_createuser' => '创建新用户',
 	'adminlinks_browsesearch' => '浏览与搜索',
 	'adminlinks_importexport' => '导入和导出',
-	'right-adminlinks' => '查看[[Special:AdminLinks|管理员链接]]',
+	'right-adminlinks' => '查看[[Special:AdminLinks|管理链接]]',
 );
 
 /** Traditional Chinese (‪中文（繁體）‬)
