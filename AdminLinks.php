@@ -17,7 +17,7 @@ $wgExtensionCredits['specialpage'][] = array(
 	'descriptionmsg' => 'adminlinks-desc',
 );
 
-$wgAdminLinksIP = dirname( __FILE__ ) . '/';
+$wgAdminLinksIP = __DIR__ . '/';
 $wgExtensionMessagesFiles['AdminLinks'] = $wgAdminLinksIP . 'AdminLinks.i18n.php';
 $wgExtensionMessagesFiles['AdminLinksAlias'] = $wgAdminLinksIP . 'AdminLinks.alias.php';
 $wgSpecialPages['AdminLinks'] = 'AdminLinks';
