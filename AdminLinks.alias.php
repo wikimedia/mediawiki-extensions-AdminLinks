@@ -178,6 +178,11 @@ $specialPageAliases['pt'] = array(
 	'AdminLinks' => array( 'Ligações_de_administração' ),
 );
 
+/** Brazilian Portuguese (português do Brasil) */
+$specialPageAliases['pt-br'] = array(
+	'AdminLinks' => array( 'Links_administrativos' ),
+);
+
 /** Romanian (română) */
 $specialPageAliases['ro'] = array(
 	'AdminLinks' => array( 'Legături_admini' ),
