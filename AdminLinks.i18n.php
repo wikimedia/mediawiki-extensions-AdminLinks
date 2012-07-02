@@ -1395,20 +1395,21 @@ $messages['pt'] = array(
 
 /** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
+ * @author 555
  */
 $messages['pt-br'] = array(
-	'adminlinks' => 'Ligações para administradores',
-	'adminlinks-desc' => 'Adiciona uma [[Special:AdminLinks|página especial]] que possui ligações úteis para administradores',
+	'adminlinks' => 'Links administrativos',
+	'adminlinks-desc' => 'Adiciona uma [[Special:AdminLinks|página especial]] que reúne links úteis para administradores',
 	'adminlinks_documentation' => 'Documentação sobre $1',
 	'adminlinks_general' => 'Geral',
 	'adminlinks_editsidebar' => 'Editar barra lateral',
 	'adminlinks_editcss' => 'Editar arquivo CSS',
 	'adminlinks_editmainpagename' => 'Editar nome da página principal',
-	'adminlinks_users' => 'Utilizadores',
-	'adminlinks_createuser' => 'Criar um utilizador',
+	'adminlinks_users' => 'Usuários',
+	'adminlinks_createuser' => 'Criar conta de usuário',
 	'adminlinks_browsesearch' => 'Navegação e pesquisa',
 	'adminlinks_importexport' => 'Importação e exportação',
-	'right-adminlinks' => 'Ver a ligação para [[Special:AdminLinks|ligações Admin]]',
+	'right-adminlinks' => 'Ver o link para a página [[Special:AdminLinks|Links para administradores]]',
 );
 
 /** Romanian (română)
