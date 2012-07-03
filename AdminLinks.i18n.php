@@ -1394,8 +1394,8 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (português do Brasil)
- * @author Eduardo.mps
  * @author 555
+ * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
 	'adminlinks' => 'Links administrativos',
