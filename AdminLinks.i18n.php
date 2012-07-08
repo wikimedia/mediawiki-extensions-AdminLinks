@@ -1016,12 +1016,13 @@ $messages['li'] = array(
 
 /** Lithuanian (lietuvių)
  * @author Eitvys200
+ * @author Homo
  * @author Ignas693
  * @author Perkunas
  * @author Vpovilaitis
  */
 $messages['lt'] = array(
-	'adminlinks' => 'Administravimo saitai',
+	'adminlinks' => 'Administravimo nuorodos',
 	'adminlinks-desc' => 'Prideda [[Special:AdminLinks|Specialųjį puslapį]], kuriame yra naudingos nuorodos administratoriams',
 	'adminlinks_documentation' => '$1 dokumentacija',
 	'adminlinks_general' => 'Bendrosios',
