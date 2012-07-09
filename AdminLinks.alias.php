@@ -208,6 +208,11 @@ $specialPageAliases['sv'] = array(
 	'AdminLinks' => array( 'Administratörslänkar' ),
 );
 
+/** Tagalog (Tagalog) */
+$specialPageAliases['tl'] = array(
+	'AdminLinks' => array( 'Mga_Kawing_sa_Tagapangasiwa' ),
+);
+
 /** Turkish (Türkçe) */
 $specialPageAliases['tr'] = array(
 	'AdminLinks' => array( 'HizmetliBağları', 'HizmetliBağlantıları' ),
