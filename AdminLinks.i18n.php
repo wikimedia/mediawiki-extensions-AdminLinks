@@ -86,7 +86,7 @@ $messages['aln'] = array(
 	'right-adminlinks' => 'Shih vegzën te [[Special:AdminLinks|Vegzat e administrimit]]',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  */
 $messages['an'] = array(
@@ -199,7 +199,7 @@ $messages['az'] = array(
 	'adminlinks_importexport' => 'İdxal və ixrac',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Comp1089
  */
 $messages['ba'] = array(
@@ -236,7 +236,7 @@ $messages['bar'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|Links für Administraatoren]] hernemmer',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -356,7 +356,7 @@ $messages['ca'] = array(
 	'right-adminlinks' => "Veure l'enllaç a [[Special:AdminLinks|enllaços d'administrador]]",
 );
 
-/** Chechen (Нохчийн)
+/** Chechen (нохчийн)
  * @author Sasan700
  */
 $messages['ce'] = array(
@@ -456,7 +456,7 @@ $messages['diq'] = array(
 	'adminlinks_users' => 'Karberi',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -656,7 +656,7 @@ $messages['frp'] = array(
 	'right-adminlinks' => 'Vêre lo lim de vers los [[Special:AdminLinks|lims d’administracion]]',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -767,7 +767,7 @@ $messages['hr'] = array(
 	'right-adminlinks' => 'Pogledajte poveznicu na [[Special:AdminLinks|administratorske poveznice]]',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
@@ -983,7 +983,7 @@ $messages['lb'] = array(
 	'right-adminlinks' => 'Kuckt the Link op [[Special:AdminLinks|Like fir Administrateuren]]',
 );
 
-/** Lezghian (Лезги)
+/** Lezghian (лезги)
  * @author Namik
  */
 $messages['lez'] = array(
@@ -1094,7 +1094,7 @@ $messages['mg'] = array(
 	'right-adminlinks' => "Hijery ny rohy any amin'ny [[Special:AdminLinks|rohy ampiasain'ny mpandrindra]]",
 );
 
-/** Eastern Mari (Олык Марий)
+/** Eastern Mari (олык марий)
  * @author Azim
  */
 $messages['mhr'] = array(
@@ -1167,7 +1167,7 @@ $messages['ms'] = array(
 	'right-adminlinks' => 'Melihat pautan ke [[Special:AdminLinks|Pautan pentadbir]]',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -1185,7 +1185,7 @@ $messages['myv'] = array(
 	'right-adminlinks' => 'Ваномс [[Special:AdminLinks|администраторонь сюлмавома пенетнень]]',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1467,7 +1467,7 @@ $messages['ru'] = array(
 	'right-adminlinks' => 'видеть [[Special:AdminLinks|ссылки для администраторов]]',
 );
 
-/** Rusyn (Русиньскый)
+/** Rusyn (русиньскый)
  * @author Gazeb
  */
 $messages['rue'] = array(
@@ -1804,7 +1804,7 @@ $messages['vec'] = array(
 	'right-adminlinks' => 'Vede el cołegamento al [[Special:AdminLinks|Paneło Admin]]',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
