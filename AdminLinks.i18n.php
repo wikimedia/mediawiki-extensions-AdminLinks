@@ -450,10 +450,22 @@ $messages['de'] = array(
 );
 
 /** Zazaki (Zazaki)
+ * @author Erdemaslancan
  * @author Mirzali
  */
 $messages['diq'] = array(
+	'adminlinks' => 'Grey admini',
+	'adminlinks-desc' => 'Qan dê xizmetkaran granê nahfatına estin rê [[Special:AdminLinks|peley xısusi]] vırazêno.',
+	'adminlinks_documentation' => 'Dokumanê $1',
+	'adminlinks_general' => 'Heran',
+	'adminlinks_editsidebar' => 'Çuway kışti timar kerê',
+	'adminlinks_editcss' => "Dosyay CSS'i timar ke",
+	'adminlinks_editmainpagename' => 'Namey pela seri timar ke',
 	'adminlinks_users' => 'Karberi',
+	'adminlinks_createuser' => 'Karber vırazê',
+	'adminlinks_browsesearch' => 'Geyrayin u cı geyrayış',
+	'adminlinks_importexport' => 'Zere u teber dayış',
+	'right-adminlinks' => 'Şo ri [[Special:AdminLinks|Gran dê xizmetkaran]] bıvin',
 );
 
 /** Lower Sorbian (dolnoserbski)
@@ -1208,7 +1220,7 @@ $messages['nb'] = array(
  */
 $messages['nds-nl'] = array(
 	'adminlinks' => 'Verwiezingen veur beheerders',
-	'adminlinks-desc' => 'Zet der n [[Special:AdminLinks|spesiale pagina]] bie mit hendige verwiezingen veur beheerders',
+	'adminlinks-desc' => 'Zet der n [[Special:AdminLinks|spesiale zied]] bie mit hendige verwiezingen veur beheerders',
 	'adminlinks_documentation' => 'Dokumentasie veur $1',
 	'adminlinks_general' => 'Algemeen',
 	'adminlinks_editsidebar' => 'Ziedbalke bewarken',
