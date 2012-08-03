@@ -1631,17 +1631,17 @@ $messages['sr-el'] = array(
  */
 $messages['sv'] = array(
 	'adminlinks' => 'Administrationslänkar',
-	'adminlinks-desc' => 'Lägger till en [[Special:AdminLinks|specialsida]] som innehåller hjälpfulla länkar för administratörer',
-	'adminlinks_documentation' => 'dokumentation för $1',
-	'adminlinks_general' => 'Generell',
+	'adminlinks-desc' => 'Lägger till en [[Special:AdminLinks|specialsida]] med hjälpsamma länkar för administratörer',
+	'adminlinks_documentation' => 'Dokumentation för $1',
+	'adminlinks_general' => 'Allmänt',
 	'adminlinks_editsidebar' => 'Ändra sidpanelen',
 	'adminlinks_editcss' => 'Ändra CSS-fil',
-	'adminlinks_editmainpagename' => 'Ändra namnet på huvudsidan',
+	'adminlinks_editmainpagename' => 'Byt namn på huvudsidan',
 	'adminlinks_users' => 'Användare',
 	'adminlinks_createuser' => 'Skapa en användare',
-	'adminlinks_browsesearch' => 'Bläddring och sökning',
-	'adminlinks_importexport' => 'Importering och exportering',
-	'right-adminlinks' => 'Se länken till [[Special:AdminLinks|Administrationslänkarna]]',
+	'adminlinks_browsesearch' => 'Bläddra och sök',
+	'adminlinks_importexport' => 'Importera och exportera',
+	'right-adminlinks' => 'Se länken till [[Special:AdminLinks|administrationslänkarna]]',
 );
 
 /** Tamil (தமிழ்)
