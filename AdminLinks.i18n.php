@@ -913,6 +913,7 @@ $messages['ja'] = array(
  */
 $messages['ka'] = array(
 	'adminlinks_general' => 'მთავარი',
+	'adminlinks_editcss' => 'CSS ფაილის რედაქტირება',
 	'adminlinks_users' => 'მომხმარებლები',
 	'adminlinks_createuser' => 'ანგარიშის შექმნა',
 );
