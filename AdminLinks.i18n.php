@@ -1542,13 +1542,20 @@ $messages['shi'] = array(
 );
 
 /** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
  * @author බිඟුවා
  */
 $messages['si'] = array(
 	'adminlinks' => 'පරිපාලක සබැඳුම්',
+	'adminlinks_documentation' => '$1 ප්‍රලේඛනය',
 	'adminlinks_general' => 'සාමාන්‍ය',
+	'adminlinks_editsidebar' => 'පැතිබාරය සංස්කරණය කරන්න',
+	'adminlinks_editcss' => 'CSS ගොනුව සංස්කරණය කරන්න',
+	'adminlinks_editmainpagename' => 'මුල් පිටුවේ නම සංස්කරණය කරන්න',
 	'adminlinks_users' => 'පරිශීලකයෝ',
 	'adminlinks_createuser' => 'පරිශීලකයෙක් තනන්න',
+	'adminlinks_browsesearch' => 'ගවේෂණය කර සොයන්න',
+	'adminlinks_importexport' => 'ආයාත සහ නිර්යාත කෙරුම',
 );
 
 /** Slovak (slovenčina)
