@@ -668,6 +668,13 @@ $messages['frp'] = array(
 	'right-adminlinks' => 'Vêre lo lim de vers los [[Special:AdminLinks|lims d’administracion]]',
 );
 
+/** Irish (Gaeilge)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ga'] = array(
+	'adminlinks_users' => 'Úsáideoirí',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
