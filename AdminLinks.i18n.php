@@ -1659,6 +1659,14 @@ $messages['sv'] = array(
 	'right-adminlinks' => 'Se länken till [[Special:AdminLinks|administrationslänkarna]]',
 );
 
+/** Swahili (Kiswahili)
+ * @author Kwisha
+ */
+$messages['sw'] = array(
+	'adminlinks_users' => 'Watumiaji',
+	'adminlinks_browsesearch' => 'Vinjari na utafute',
+);
+
 /** Tamil (தமிழ்)
  * @author TRYPPN
  * @author செல்வா
