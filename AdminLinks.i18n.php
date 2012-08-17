@@ -1821,6 +1821,16 @@ $messages['uk'] = array(
 	'right-adminlinks' => 'Бачити [[Special:AdminLinks|посилання для адміністраторів]]',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'adminlinks_general' => 'جنرل',
+	'adminlinks_users' => 'صارفین',
+	'adminlinks_createuser' => 'ایک صارف بنائیں',
+	'adminlinks_browsesearch' => 'براؤز کریں اور تلاش',
+);
+
 /** vèneto (vèneto)
  * @author Candalua
  * @author Vajotwo
