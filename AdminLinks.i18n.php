@@ -1457,6 +1457,7 @@ $messages['ro'] = array(
  */
 $messages['roa-tara'] = array(
 	'adminlinks' => "Collegaminde de l'amministratore",
+	'adminlinks-desc' => "Aggiunge 'na [[Special:AdminLinks|pàgena speciale]] ca tène collegaminde utile pe l'amministrature",
 	'adminlinks_documentation' => 'documendazione de $1',
 	'adminlinks_general' => 'Generale',
 	'adminlinks_editsidebar' => "Cange 'a barre laterale",
@@ -1466,6 +1467,7 @@ $messages['roa-tara'] = array(
 	'adminlinks_createuser' => "Ccreje 'n'utende",
 	'adminlinks_browsesearch' => 'Sfoglie e cirche',
 	'adminlinks_importexport' => "'Mborte e esporte",
+	'right-adminlinks' => "Vide 'u collegamende a le [[Special:AdminLinks|Collegaminde de l'amministratore]]",
 );
 
 /** Russian (русский)
