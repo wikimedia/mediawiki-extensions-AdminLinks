@@ -158,7 +158,7 @@ $specialPageAliases['mt'] = array(
 	'AdminLinks' => array( 'ĦoloqAmmin' ),
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬) */
+/** Norwegian Bokmål (norsk (bokmål)‎) */
 $specialPageAliases['nb'] = array(
 	'AdminLinks' => array( 'Administratorlenker' ),
 );
@@ -223,12 +223,12 @@ $specialPageAliases['vi'] = array(
 	'AdminLinks' => array( 'Liên_kết_bảo_quản_viên' ),
 );
 
-/** Simplified Chinese (‪中文（简体）‬) */
+/** Simplified Chinese (中文（简体）‎) */
 $specialPageAliases['zh-hans'] = array(
 	'AdminLinks' => array( '管理员链接' ),
 );
 
-/** Traditional Chinese (‪中文（繁體）‬) */
+/** Traditional Chinese (中文（繁體）‎) */
 $specialPageAliases['zh-hant'] = array(
 	'AdminLinks' => array( '管理員鏈接' ),
 );
