@@ -236,7 +236,7 @@ $messages['bar'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|Links für Administraatoren]] hernemmer',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -976,7 +976,7 @@ $messages['ksh'] = array(
 	'right-adminlinks' => 'Dä Lengk op de Sigg met [[Special:AdminLinks|Lengks för Köbeße]] jezeijsch krijje',
 );
 
-/** Kurdish (Latin script) (‪Kurdî (latînî)‬)
+/** Kurdish (Latin script) (Kurdî (latînî)‎)
  * @author George Animal
  */
 $messages['ku-latn'] = array(
@@ -1205,7 +1205,7 @@ $messages['myv'] = array(
 	'right-adminlinks' => 'Ваномс [[Special:AdminLinks|администраторонь сюлмавома пенетнень]]',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1279,7 +1279,7 @@ $messages['nl'] = array(
 	'right-adminlinks' => 'De verwijzing naar [[Special:AdminLinks|verwijzingen voor beheerders]] zien',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Gunnernett
  */
 $messages['nn'] = array(
@@ -1603,7 +1603,7 @@ $messages['sl'] = array(
 	'right-adminlinks' => 'Ogled povezav na [[Special:AdminLinks|Skrbniških povezavah]]',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Charmed94
  * @author Rancher
  * @author Михајло Анђелковић
@@ -1623,7 +1623,7 @@ $messages['sr-ec'] = array(
 	'right-adminlinks' => 'прегледање везе до [[Special:AdminLinks|администраторских веза]]',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Rancher
  */
 $messages['sr-el'] = array(
@@ -1898,7 +1898,7 @@ $messages['yi'] = array(
 	'right-adminlinks' => 'זען לינק צו [[Special:AdminLinks|סיסאפן לינקען]]',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Franklsf95
  * @author Xiaomingyan
  * @author Yfdyh000
@@ -1918,7 +1918,7 @@ $messages['zh-hans'] = array(
 	'right-adminlinks' => '查看[[Special:AdminLinks|管理链接]]',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Horacewai2
  * @author Mark85296341
  * @author Oapbtommy
