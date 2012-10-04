@@ -1441,14 +1441,15 @@ $messages['pt-br'] = array(
  */
 $messages['ro'] = array(
 	'adminlinks' => 'Legături administrator',
+	'adminlinks-desc' => 'Adaugă o [[Special:AdminLinks|pagină specială]] ce conține legături utile pentru administratori',
 	'adminlinks_documentation' => 'Documentație pentru $1',
 	'adminlinks_general' => 'General',
-	'adminlinks_editsidebar' => 'Editează bara laterală',
-	'adminlinks_editcss' => 'Editează fişierul CSS',
-	'adminlinks_editmainpagename' => 'Editează numele paginii principale',
+	'adminlinks_editsidebar' => 'Modifică bara laterală',
+	'adminlinks_editcss' => 'Modifică fișierul CSS',
+	'adminlinks_editmainpagename' => 'Modifică numele paginii principale',
 	'adminlinks_users' => 'Utilizatori',
 	'adminlinks_createuser' => 'Creează un utilizator',
-	'adminlinks_browsesearch' => 'Răsfoiește și caută',
+	'adminlinks_browsesearch' => 'Răsfoire și căutare',
 	'adminlinks_importexport' => 'Importare și exportare',
 );
 
