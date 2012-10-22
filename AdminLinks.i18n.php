@@ -1415,8 +1415,8 @@ $messages['pt'] = array(
 );
 
 /** Brazilian Portuguese (português do Brasil)
- * @author 555
  * @author Eduardo.mps
+ * @author 555
  */
 $messages['pt-br'] = array(
 	'adminlinks' => 'Links administrativos',
@@ -1955,4 +1955,3 @@ $messages['zh-hk'] = array(
 	'adminlinks_importexport' => '匯入和匯出',
 	'right-adminlinks' => '看看連結至[[Special:AdminLinks|管理員連結]]',
 );
-
