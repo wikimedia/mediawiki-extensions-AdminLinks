@@ -919,10 +919,14 @@ $messages['ja'] = array(
  * @author David1010
  */
 $messages['ka'] = array(
+	'adminlinks' => 'ადმინისტრატორის ბმულები',
 	'adminlinks_general' => 'მთავარი',
 	'adminlinks_editcss' => 'CSS ფაილის რედაქტირება',
+	'adminlinks_editmainpagename' => 'მთავარი გვერდის სახელის რედაქტირება',
 	'adminlinks_users' => 'მომხმარებლები',
 	'adminlinks_createuser' => 'ანგარიშის შექმნა',
+	'adminlinks_importexport' => 'იმპორტი და ექსპორტი',
+	'right-adminlinks' => '[[Special:AdminLinks|ადმინისტრატორის ბმულების]] ხილვა',
 );
 
 /** Khmer (ភាសាខ្មែរ)
