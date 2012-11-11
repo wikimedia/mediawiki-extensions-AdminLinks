@@ -1322,11 +1322,18 @@ $messages['oc'] = array(
 /** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
  * @author Odisha1
+ * @author ଆଶୁତୋଷ କର
  */
 $messages['or'] = array(
+	'adminlinks' => 'ପରିଚାଳକ ଲିଙ୍କ ଗୁଡିକ',
 	'adminlinks_general' => 'ସାଧାରଣ',
+	'adminlinks_editsidebar' => 'ସାଇଡ ବାର ସମ୍ପାଦନ କରିବେ',
+	'adminlinks_editcss' => 'ଏଡିଟ ଫାଇଲ ସମ୍ପାଦନ କରିବେ',
 	'adminlinks_editmainpagename' => 'ପ୍ରଧାନ ପୃଷ୍ଠାର ନାମ ବଦଳାଇବେ',
 	'adminlinks_users' => 'ବ୍ୟବହାରକାରୀଗଣ',
+	'adminlinks_createuser' => 'ନୂଆ ଇଉଜର ତିଆରି କରିବେ',
+	'adminlinks_browsesearch' => 'ବ୍ରାଉଜ ଓ ଖୋଜନ୍ତୁ',
+	'adminlinks_importexport' => 'ଇମ୍ପୋର୍ଟ ଓ ଏକ୍ସପୋର୍ଟ',
 );
 
 /** Ossetic (Ирон)
