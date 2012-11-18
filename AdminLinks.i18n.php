@@ -199,6 +199,24 @@ $messages['az'] = array(
 	'adminlinks_importexport' => 'İdxal və ixrac',
 );
 
+/** تورکجه (تورکجه)
+ * @author Amir a57
+ */
+$messages['azb'] = array(
+	'adminlinks' => 'ایداره‌چی‌لر اوچون ایستینادلار',
+	'adminlinks-desc' => 'ایداره‌چی‌لر اوچون فایدا‌لی علاقه‌لری ساخلایان بیر [[Special:AdminLinks | خصوصی صحیفه]] علاوه‌لر', # Fuzzy
+	'adminlinks_documentation' => '$1 سندلشمه‌سی',
+	'adminlinks_general' => 'عمومی',
+	'adminlinks_editsidebar' => 'یان پانئلی دیشدیر',
+	'adminlinks_editcss' => 'سی اس اس فایلینی دییشدیر',
+	'adminlinks_editmainpagename' => 'باش صحیفه‌نین آدینی دییشدیر',
+	'adminlinks_users' => 'ایستفاده چی لر',
+	'adminlinks_createuser' => 'حئساب یارات',
+	'adminlinks_browsesearch' => 'مرور و آختاریش',
+	'adminlinks_importexport' => 'ایدخال و ایخراج',
+	'right-adminlinks' => '[[Special: AdminLinks | خیدمتله علاقه‌لرینه]] گئدن علاقنی گؤر', # Fuzzy
+);
+
 /** Bashkir (башҡортса)
  * @author Comp1089
  */
