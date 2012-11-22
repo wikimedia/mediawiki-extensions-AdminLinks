@@ -193,6 +193,11 @@ $specialPageAliases['sa'] = array(
 	'AdminLinks' => array( 'कार्यकर्ता_सम्भन्दिन्' ),
 );
 
+/** Sicilian (sicilianu) */
+$specialPageAliases['scn'] = array(
+	'AdminLinks' => array( 'SysopLinks' ),
+);
+
 /** Sinhala (සිංහල) */
 $specialPageAliases['si'] = array(
 	'AdminLinks' => array( 'පරිපාලක_සබැඳි' ),
@@ -216,6 +221,11 @@ $specialPageAliases['tl'] = array(
 /** Turkish (Türkçe) */
 $specialPageAliases['tr'] = array(
 	'AdminLinks' => array( 'HizmetliBağları', 'HizmetliBağlantıları' ),
+);
+
+/** Urdu (اردو) */
+$specialPageAliases['ur'] = array(
+	'AdminLinks' => array( 'انتظامی_روابط' ),
 );
 
 /** Vietnamese (Tiếng Việt) */
