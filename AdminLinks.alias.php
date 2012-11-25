@@ -173,6 +173,11 @@ $specialPageAliases['nl'] = array(
 	'AdminLinks' => array( 'Beheerdersverwijzingen' ),
 );
 
+/** Punjabi (ਪੰਜਾਬੀ) */
+$specialPageAliases['pa'] = array(
+	'AdminLinks' => array( 'ਐਡਮਨ_ਕੜੀਆਂ' ),
+);
+
 /** Portuguese (português) */
 $specialPageAliases['pt'] = array(
 	'AdminLinks' => array( 'Ligações_de_administração' ),
