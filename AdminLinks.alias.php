@@ -175,7 +175,7 @@ $specialPageAliases['nl'] = array(
 
 /** Punjabi (ਪੰਜਾਬੀ) */
 $specialPageAliases['pa'] = array(
-	'AdminLinks' => array( 'ਐਡਮਨ_ਕੜੀਆਂ' ),
+	'AdminLinks' => array( 'ਪ੍ਰਬੰਧਕ_ਕੜੀਆਂ' ),
 );
 
 /** Portuguese (português) */
