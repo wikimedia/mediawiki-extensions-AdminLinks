@@ -163,7 +163,7 @@ $specialPageAliases['nb'] = array(
 	'AdminLinks' => array( 'Administratorlenker' ),
 );
 
-/** Nedersaksisch (Nedersaksisch) */
+/** Nedersaksies (Nedersaksies) */
 $specialPageAliases['nds-nl'] = array(
 	'AdminLinks' => array( 'Beheerdersverwiezingen' ),
 );
