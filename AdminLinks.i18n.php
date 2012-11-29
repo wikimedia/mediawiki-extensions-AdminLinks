@@ -199,7 +199,7 @@ $messages['az'] = array(
 	'adminlinks_importexport' => 'İdxal və ixrac',
 );
 
-/** تورکجه (تورکجه)
+/** South Azerbaijani (تورکجه)
  * @author Amir a57
  * @author Mousa
  */
