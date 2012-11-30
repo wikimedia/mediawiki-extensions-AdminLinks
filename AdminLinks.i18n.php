@@ -895,6 +895,16 @@ $messages['ig'] = array(
 	'right-adminlinks' => 'Zi jikodo na ga [[Special:AdminLinks|Jikodo ndi íshí]]',
 );
 
+/** Icelandic (íslenska)
+ * @author S.Örvarr.S
+ */
+$messages['is'] = array(
+	'adminlinks_users' => 'Notendur',
+	'adminlinks_createuser' => 'Búa til notanda',
+	'adminlinks_browsesearch' => 'Vafra og leita',
+	'adminlinks_importexport' => 'Innflytja og útflytja',
+);
+
 /** Italian (italiano)
  * @author Darth Kule
  * @author Marco 27
