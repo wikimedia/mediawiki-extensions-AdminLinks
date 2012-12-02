@@ -123,6 +123,11 @@ $specialPageAliases['ksh'] = array(
 	'AdminLinks' => array( 'Lengks_för_Wiki_Köbesse' ),
 );
 
+/** Cornish (kernowek) */
+$specialPageAliases['kw'] = array(
+	'AdminLinks' => array( 'KevrennowMenystra' ),
+);
+
 /** Ladino (Ladino) */
 $specialPageAliases['lad'] = array(
 	'AdminLinks' => array( 'Linkes_de_administradores' ),
