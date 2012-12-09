@@ -958,6 +958,15 @@ $messages['ka'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|ადმინისტრატორის ბმულების]] ხილვა',
 );
 
+/** Khowar (کھوار)
+ * @author Rachitrali
+ */
+$messages['khw'] = array(
+	'adminlinks_general' => 'جنرل',
+	'adminlinks_users' => 'یوزر/Users',
+	'adminlinks_createuser' => 'ای یوزر ساوزاوے',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author វ័ណថារិទ្ធ
  */
