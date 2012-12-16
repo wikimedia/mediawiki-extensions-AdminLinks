@@ -32,11 +32,12 @@ $messages['en'] = array(
  * @author EugeneZelenko
  * @author Fryed-peach
  * @author Purodha
+ * @author Shirayuki
  * @author Umherirrender
  */
 $messages['qqq'] = array(
 	'adminlinks' => '{{doc-special|adminlinks}}',
-	'adminlinks-desc' => '{{desc}}',
+	'adminlinks-desc' => '{{desc|name=Admin Links|url=http://www.mediawiki.org/wiki/Extension:Admin_Links}}',
 	'adminlinks_documentation' => 'The label for a link to documentation for a certain extension, whose name is passed in.
 {{Identical|Documentation}}',
 	'adminlinks_general' => '{{Identical|General}}Section name for general links for administrators.',
