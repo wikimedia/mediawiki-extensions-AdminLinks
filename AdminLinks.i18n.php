@@ -950,11 +950,14 @@ $messages['ja'] = array(
  */
 $messages['ka'] = array(
 	'adminlinks' => 'ადმინისტრატორის ბმულები',
+	'adminlinks_documentation' => '$1 დოკუმენტაცია',
 	'adminlinks_general' => 'მთავარი',
+	'adminlinks_editsidebar' => 'გვერდითი აბრის რედაქტირება',
 	'adminlinks_editcss' => 'CSS ფაილის რედაქტირება',
 	'adminlinks_editmainpagename' => 'მთავარი გვერდის სახელის რედაქტირება',
 	'adminlinks_users' => 'მომხმარებლები',
 	'adminlinks_createuser' => 'ანგარიშის შექმნა',
+	'adminlinks_browsesearch' => 'მიმოხილვა და ძიება',
 	'adminlinks_importexport' => 'იმპორტი და ექსპორტი',
 	'right-adminlinks' => '[[Special:AdminLinks|ადმინისტრატორის ბმულების]] ხილვა',
 );
