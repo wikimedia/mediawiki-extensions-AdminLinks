@@ -589,6 +589,7 @@ $messages['es'] = array(
 $messages['et'] = array(
 	'adminlinks' => 'Administraatori lingid',
 	'adminlinks-desc' => 'Lisab [[Special:AdminLinks|erilehekülje]] administraatoritele kasulike linkidega.',
+	'adminlinks_documentation' => '$1 dokumentatsioon',
 	'adminlinks_users' => 'Kasutajad',
 	'adminlinks_createuser' => 'Loo uus kasutaja',
 	'right-adminlinks' => 'Näha linki leheküljele [[Special:AdminLinks|administraatori lingid]]',
@@ -738,6 +739,14 @@ $messages['gsw'] = array(
 	'adminlinks_browsesearch' => 'Browse un Sueche',
 	'adminlinks_importexport' => 'Importiere un Exportiere',
 	'right-adminlinks' => 'Lueg uff de Link zue [[Special:AdminLinks|Adminlinks]]',
+);
+
+/** Gujarati (ગુજરાતી)
+ * @author Harsh4101991
+ */
+$messages['gu'] = array(
+	'adminlinks_users' => 'સભ્યો',
+	'adminlinks_createuser' => 'સભ્ય બનાવો',
 );
 
 /** Manx (Gaelg)
@@ -1231,6 +1240,17 @@ $messages['ms'] = array(
 	'adminlinks_browsesearch' => 'Layari dan cari',
 	'adminlinks_importexport' => 'Import dan eksport',
 	'right-adminlinks' => 'Melihat pautan ke [[Special:AdminLinks|Pautan pentadbir]]',
+);
+
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'adminlinks_general' => 'Ġenerali',
+	'adminlinks_createuser' => 'Oħloq kont',
+	'adminlinks_browsesearch' => 'Esplora u fittex',
+	'adminlinks_importexport' => 'Importa u esporta',
+	'right-adminlinks' => 'Jara l-ħolqa lejn [[Special:AdminLinks|ħoloq tal-amministratur]]',
 );
 
 /** Erzya (эрзянь)
