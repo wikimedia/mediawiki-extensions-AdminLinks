@@ -1039,6 +1039,13 @@ $messages['ku-latn'] = array(
 	'adminlinks_createuser' => 'Bikarhênerekî çêke',
 );
 
+/** Kirghiz (Кыргызча)
+ * @author Growingup
+ */
+$messages['ky'] = array(
+	'adminlinks_users' => 'Катышуучулар',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Les Meloures
  * @author Robby
@@ -1524,6 +1531,7 @@ $messages['ro'] = array(
 	'adminlinks_createuser' => 'Creează un utilizator',
 	'adminlinks_browsesearch' => 'Răsfoire și căutare',
 	'adminlinks_importexport' => 'Importare și exportare',
+	'right-adminlinks' => 'Vede legătura către [[Special:AdminLinks|Legăturile administrative]]',
 );
 
 /** tarandíne (tarandíne)
@@ -1744,11 +1752,12 @@ $messages['sw'] = array(
 );
 
 /** Tamil (தமிழ்)
+ * @author Shanmugamp7
  * @author TRYPPN
  * @author செல்வா
  */
 $messages['ta'] = array(
-	'adminlinks' => 'செயலாட்சியர் தொடுப்புகள்',
+	'adminlinks' => 'நிர்வாகி தொடுப்புகள்',
 	'adminlinks-desc' => 'செயலாட்சியர்களுக்கு உதவும் தொடுப்புகளைக் கொண்டிருக்கும் [[Special:AdminLinks|special page]] ஐ சேர்க்கின்றது',
 	'adminlinks_documentation' => '$1 உக்கான விளக்கவுரை',
 	'adminlinks_general' => 'பொதுவான',
@@ -1866,6 +1875,7 @@ $messages['tt-cyrl'] = array(
  */
 $messages['ug-arab'] = array(
 	'adminlinks' => 'باشقۇرغۇچى ئۇلانمىسى',
+	'adminlinks-desc' => 'بىر [[Special:AdminLinks|ئالاھىدە بەت]] قوشۇپ، باشقۇرغۇچىغا كېرەكلىك ئۇلانما تەمىنلەيدۇ',
 	'adminlinks_documentation' => '$1 پۈتۈك',
 	'adminlinks_general' => 'ئادەتتىكى',
 	'adminlinks_editsidebar' => 'يان ستون تەھرىر',
