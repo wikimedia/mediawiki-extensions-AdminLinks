@@ -592,6 +592,7 @@ $messages['et'] = array(
 	'adminlinks_documentation' => '$1 dokumentatsioon',
 	'adminlinks_users' => 'Kasutajad',
 	'adminlinks_createuser' => 'Loo uus kasutaja',
+	'adminlinks_browsesearch' => 'Lehitsemine ja otsimine',
 	'right-adminlinks' => 'Näha linki leheküljele [[Special:AdminLinks|administraatori lingid]]',
 );
 
