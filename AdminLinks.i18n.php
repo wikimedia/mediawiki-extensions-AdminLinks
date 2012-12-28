@@ -998,10 +998,11 @@ $messages['km'] = array(
 /** Korean (한국어)
  * @author Devunt
  * @author Kwj2772
+ * @author 아라
  */
 $messages['ko'] = array(
 	'adminlinks' => '관리용 링크 모음',
-	'adminlinks-desc' => '관리자들에게 유용한 링크들이 있는 [[Special:AdminLinks|특수 문서]]를 추가합니다',
+	'adminlinks-desc' => '관리자들에게 유용한 링크가 있는 [[Special:AdminLinks|특수 문서]]를 추가합니다',
 	'adminlinks_documentation' => '$1 설명문서',
 	'adminlinks_general' => '일반',
 	'adminlinks_editsidebar' => '사이드바 편집',
@@ -1157,6 +1158,24 @@ $messages['lzz'] = array(
  */
 $messages['mai'] = array(
 	'adminlinks' => 'एडमिन लिंक',
+);
+
+/** Basa Banyumasan (Basa Banyumasan)
+ * @author StefanusRA
+ */
+$messages['map-bms'] = array(
+	'adminlinks' => 'Pranala admin',
+	'adminlinks-desc' => 'Nambaih [[Special:AdminLinks|kaca astamiwa]] sing isine pranala-pranala sing migunani kanggo admin',
+	'adminlinks_documentation' => 'Dokumentasi $1',
+	'adminlinks_general' => 'Umum',
+	'adminlinks_editsidebar' => 'Sunting kotak samping',
+	'adminlinks_editcss' => 'Sunting berkas CSS',
+	'adminlinks_editmainpagename' => 'Sunting jeneng kaca utama',
+	'adminlinks_users' => 'Panganggo',
+	'adminlinks_createuser' => 'Nggawe panganggo',
+	'adminlinks_browsesearch' => 'Njelajaih lan nggoleti',
+	'adminlinks_importexport' => 'Ngimpor lang ngekspor',
+	'right-adminlinks' => 'Deleng pranala ming [[Special:AdminLinks|Pranala admin]]',
 );
 
 /** Malagasy (Malagasy)
@@ -1648,6 +1667,7 @@ $messages['si'] = array(
 	'adminlinks_createuser' => 'පරිශීලකයෙක් තනන්න',
 	'adminlinks_browsesearch' => 'ගවේෂණය කර සොයන්න',
 	'adminlinks_importexport' => 'ආයාත සහ නිර්යාත කෙරුම',
+	'right-adminlinks' => '[[Special:AdminLinks|පරිපාලක සබැඳි]] වෙත සබැඳිය බලන්න',
 );
 
 /** Slovak (slovenčina)
