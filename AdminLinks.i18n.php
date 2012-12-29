@@ -1658,6 +1658,7 @@ $messages['shi'] = array(
  */
 $messages['si'] = array(
 	'adminlinks' => 'පරිපාලක සබැඳුම්',
+	'adminlinks-desc' => 'පරිපාලකවරුන් සඳහා ප්‍රයෝජනවත් වන සබැඳි රඳවාගෙන සිටින [[Special:AdminLinks|විශේෂ පිටුවක්]] එක් කරයි',
 	'adminlinks_documentation' => '$1 ප්‍රලේඛනය',
 	'adminlinks_general' => 'සාමාන්‍ය',
 	'adminlinks_editsidebar' => 'පැතිබාරය සංස්කරණය කරන්න',
