@@ -87,6 +87,13 @@ $messages['aln'] = array(
 	'right-adminlinks' => 'Shih vegzën te [[Special:AdminLinks|Vegzat e administrimit]]',
 );
 
+/** Amharic (አማርኛ)
+ * @author Codex Sinaiticus
+ */
+$messages['am'] = array(
+	'adminlinks_users' => 'ተጠቃሚዎች',
+);
+
 /** Aragonese (aragonés)
  * @author Juanpabl
  */
@@ -788,14 +795,19 @@ $messages['he'] = array(
 );
 
 /** Hindi (हिन्दी)
+ * @author Ansumang
  * @author Kumar
  */
 $messages['hi'] = array(
+	'adminlinks_documentation' => '$1 प्रलेखन',
 	'adminlinks_general' => 'सामान्य',
 	'adminlinks_editsidebar' => 'साइडबार संपादित करें',
 	'adminlinks_editcss' => 'सीएसएस फ़ाइल संपादित करें',
 	'adminlinks_editmainpagename' => 'मुख्य पृष्ठ का नाम संपादित करें',
 	'adminlinks_users' => 'सदस्य',
+	'adminlinks_createuser' => 'एक सदस्य बनाएँ',
+	'adminlinks_browsesearch' => 'ब्राउज़ करें और खोजें',
+	'adminlinks_importexport' => 'आयात और निर्यात',
 );
 
 /** Croatian (hrvatski)
