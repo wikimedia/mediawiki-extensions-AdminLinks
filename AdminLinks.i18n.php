@@ -1370,8 +1370,8 @@ $messages['ne'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'adminlinks' => 'Verwijzingen voor beheerders',
-	'adminlinks-desc' => 'Voegt een [[Special:AdminLinks|speciale pagina]] toe met handige verwijzingen voor beheerders',
+	'adminlinks' => 'Koppelingen voor beheerders',
+	'adminlinks-desc' => 'Voegt een [[Special:AdminLinks|speciale pagina]] toe met handige koppelingen voor beheerders',
 	'adminlinks_documentation' => 'Documentatie voor $1',
 	'adminlinks_general' => 'Algemeen',
 	'adminlinks_editsidebar' => 'Zijbalk bewerken',
@@ -1381,7 +1381,7 @@ $messages['nl'] = array(
 	'adminlinks_createuser' => 'Gebruiker aanmaken',
 	'adminlinks_browsesearch' => 'Bekijken en zoeken',
 	'adminlinks_importexport' => 'Importeren en exporteren',
-	'right-adminlinks' => 'De verwijzing naar [[Special:AdminLinks|verwijzingen voor beheerders]] zien',
+	'right-adminlinks' => 'De koppeling naar [[Special:AdminLinks|koppeling voor beheerders]] zien',
 );
 
 /** Norwegian Nynorsk (norsk (nynorsk)‎)
