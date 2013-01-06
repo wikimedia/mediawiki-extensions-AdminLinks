@@ -53,6 +53,11 @@ $specialPageAliases['diq'] = array(
 	'AdminLinks' => array( 'GreyAdmini' ),
 );
 
+/** Greek (Ελληνικά) */
+$specialPageAliases['el'] = array(
+	'AdminLinks' => array( 'ΣύνδεσμοιΔιαχειριστών' ),
+);
+
 /** Esperanto (Esperanto) */
 $specialPageAliases['eo'] = array(
 	'AdminLinks' => array( 'Ligiloj_por_administrantoj' ),

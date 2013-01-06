@@ -1306,7 +1306,7 @@ $messages['myv'] = array(
 	'adminlinks_editmainpagename' => 'Витнемс-петнемс прякс лопанть лемензэ',
 	'adminlinks_users' => 'Совицят',
 	'adminlinks_createuser' => 'Шкамс совиця',
-	'adminlinks_browsesearch' => 'Якавтомат-пакавтомат ды вешнэма',
+	'adminlinks_browsesearch' => 'Якавтомат-пакавтомат ды вешнема',
 	'adminlinks_importexport' => 'Совавтомат-ливтемат',
 	'right-adminlinks' => 'Ваномс [[Special:AdminLinks|администраторонь сюлмавома пенетнень]]',
 );
