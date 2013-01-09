@@ -40,7 +40,8 @@ $messages['qqq'] = array(
 	'adminlinks-desc' => '{{desc|name=Admin Links|url=http://www.mediawiki.org/wiki/Extension:Admin_Links}}',
 	'adminlinks_documentation' => 'The label for a link to documentation for a certain extension, whose name is passed in.
 {{Identical|Documentation}}',
-	'adminlinks_general' => '{{Identical|General}}Section name for general links for administrators.',
+	'adminlinks_general' => 'Section name for general links for administrators.
+{{Identical|General}}',
 	'adminlinks_editsidebar' => "Link description that will lead to the page where the site's sidebar can be edited.",
 	'adminlinks_editcss' => 'Link description that will lead to the page where a CSS page can be edited.',
 	'adminlinks_editmainpagename' => 'Link description that will lead to the page where the name of the main page can be edited.',
