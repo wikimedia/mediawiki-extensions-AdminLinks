@@ -1330,7 +1330,7 @@ $messages['nb'] = array(
 	'right-adminlinks' => 'Se lenken til [[Special:AdminLinks|admin-lenker]]',
 );
 
-/** Nedersaksisch (Nedersaksisch)
+/** Nedersaksies (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
@@ -1445,6 +1445,18 @@ $messages['or'] = array(
 $messages['os'] = array(
 	'adminlinks_editcss' => 'CSS файл баив',
 	'adminlinks_users' => 'Архайджытæ',
+);
+
+/** Punjabi (ਪੰਜਾਬੀ)
+ * @author Raj Singh
+ */
+$messages['pa'] = array(
+	'adminlinks_documentation' => '$1 ਪ੍ਰਲੇਖਨ',
+	'adminlinks_general' => 'ਆਮ',
+	'adminlinks_editsidebar' => 'ਸਾਈਡਬਾਰ ਸੰਪਾਦਿਤ ਕਰੋ',
+	'adminlinks_users' => 'ਵਰਤੋਂਕਾਰਾਂ',
+	'adminlinks_createuser' => 'ਇੱਕ ਵਰਤੋਂਕਾਰ ਬਣਾਓ',
+	'adminlinks_browsesearch' => 'ਬ੍ਰਾਊਜ ਅਤੇ ਖੋਜੋ',
 );
 
 /** Deitsch (Deitsch)
