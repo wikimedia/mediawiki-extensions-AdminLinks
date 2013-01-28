@@ -173,7 +173,7 @@ $specialPageAliases['nb'] = array(
 	'AdminLinks' => array( 'Administratorlenker' ),
 );
 
-/** Nedersaksies (Nedersaksies) */
+/** Low Saxon (Netherlands) (Nedersaksies) */
 $specialPageAliases['nds-nl'] = array(
 	'AdminLinks' => array( 'Beheerdersverwiezingen' ),
 );
