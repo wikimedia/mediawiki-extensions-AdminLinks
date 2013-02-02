@@ -996,16 +996,20 @@ $messages['khw'] = array(
 );
 
 /** Khmer (ភាសាខ្មែរ)
+ * @author គីមស៊្រុន
  * @author វ័ណថារិទ្ធ
  */
 $messages['km'] = array(
-	'adminlinks' => 'តំណភ្ជាប់ រដ្ឋបាល​',
+	'adminlinks' => 'តំណភ្ជាប់អភិបាល',
+	'adminlinks-desc' => 'បន្ថែម[[Special:AdminLinks|ទំព័រពិសេស]]មួយដែលអាចដាក់តំណរភ្ជាប់មានប្រយោជន៍សំរាប់អភិបាល។',
+	'adminlinks_documentation' => 'កម្រងឯកសារ $1',
 	'adminlinks_general' => 'ទូទៅ​',
 	'adminlinks_editsidebar' => 'កែសម្រួល​របារ​ចំហៀង​',
 	'adminlinks_editcss' => 'កែសម្រួល​ឯកសារ CSS',
 	'adminlinks_editmainpagename' => 'កែសម្រួល​ឈ្មោះ​នៃ​ទំព័រ​ដើម​',
 	'adminlinks_users' => 'អ្នកប្រើប្រាស់',
 	'adminlinks_createuser' => 'បង្កើតអ្នកប្រើប្រាស់',
+	'adminlinks_browsesearch' => 'រាវរកនិងស្វែងរក',
 	'adminlinks_importexport' => 'កំពុង​នាំ​ចូល ​និងកំពុង​នាំ​ចេញ​',
 );
 
