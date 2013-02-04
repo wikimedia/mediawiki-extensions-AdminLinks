@@ -195,6 +195,7 @@ $messages['ast'] = array(
 
 /** Azerbaijani (azərbaycanca)
  * @author Cekli829
+ * @author Khan27
  * @author Vago
  */
 $messages['az'] = array(
@@ -205,7 +206,10 @@ $messages['az'] = array(
 	'adminlinks_editcss' => 'CSS faylını redaktə et',
 	'adminlinks_editmainpagename' => 'Baş səhifənin adını dəyişdir',
 	'adminlinks_users' => 'İstifadəçilər',
+	'adminlinks_createuser' => 'Hesab yarat',
+	'adminlinks_browsesearch' => 'Gəzinmə və axtarış',
 	'adminlinks_importexport' => 'İdxal və ixrac',
+	'right-adminlinks' => '[[Special:AdminLinks|Admin keçidləri]] linkinə bax',
 );
 
 /** South Azerbaijani (تورکجه)
