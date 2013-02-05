@@ -1024,7 +1024,7 @@ $messages['km'] = array(
  */
 $messages['ko'] = array(
 	'adminlinks' => '관리용 링크 모음',
-	'adminlinks-desc' => '관리자들에게 유용한 링크가 있는 [[Special:AdminLinks|특수 문서]]를 추가합니다',
+	'adminlinks-desc' => '관리자에게 유용한 링크가 있는 [[Special:AdminLinks|특수 문서]]를 추가합니다',
 	'adminlinks_documentation' => '$1 설명서',
 	'adminlinks_general' => '일반',
 	'adminlinks_editsidebar' => '사이드바 편집',
@@ -1439,7 +1439,7 @@ $messages['or'] = array(
 	'adminlinks' => 'ପରିଚାଳକ ଲିଙ୍କ ଗୁଡିକ',
 	'adminlinks_general' => 'ସାଧାରଣ',
 	'adminlinks_editsidebar' => 'ସାଇଡ ବାର ସମ୍ପାଦନ କରିବେ',
-	'adminlinks_editcss' => 'ଏଡିଟ ଫାଇଲ ସମ୍ପାଦନ କରିବେ',
+	'adminlinks_editcss' => 'ସିଏସଏସ ଫାଇଲ ସମ୍ପାଦନ କରିବେ',
 	'adminlinks_editmainpagename' => 'ପ୍ରଧାନ ପୃଷ୍ଠାର ନାମ ବଦଳାଇବେ',
 	'adminlinks_users' => 'ବ୍ୟବହାରକାରୀଗଣ',
 	'adminlinks_createuser' => 'ନୂଆ ଇଉଜର ତିଆରି କରିବେ',
