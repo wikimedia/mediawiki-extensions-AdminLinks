@@ -45,7 +45,8 @@ $messages['qqq'] = array(
 	'adminlinks_editsidebar' => "Link description that will lead to the page where the site's sidebar can be edited.",
 	'adminlinks_editcss' => 'Link description that will lead to the page where a CSS page can be edited.',
 	'adminlinks_editmainpagename' => 'Link description that will lead to the page where the name of the main page can be edited.',
-	'adminlinks_users' => '{{Identical|User}}Section name for links for administrators.',
+	'adminlinks_users' => 'Section name for links for administrators.
+{{Identical|User}}',
 	'adminlinks_createuser' => 'Link description that will lead to the page where a user can be created.',
 	'adminlinks_browsesearch' => 'Section name for links for administrators related to browsing and searching.',
 	'adminlinks_importexport' => 'Section name for links for administrators related to import and export of pages and data.',
