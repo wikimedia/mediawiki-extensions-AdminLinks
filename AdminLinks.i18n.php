@@ -36,7 +36,7 @@ $messages['en'] = array(
  * @author Umherirrender
  */
 $messages['qqq'] = array(
-	'adminlinks' => '{{doc-special|adminlinks}}',
+	'adminlinks' => '{{doc-special|AdminLinks}}',
 	'adminlinks-desc' => '{{desc|name=Admin Links|url=http://www.mediawiki.org/wiki/Extension:Admin_Links}}',
 	'adminlinks_documentation' => 'The label for a link to documentation for a certain extension, whose name is passed in.
 {{Identical|Documentation}}',
@@ -2019,6 +2019,13 @@ $messages['vi'] = array(
 	'adminlinks_browsesearch' => 'Duyệt và tìm kiếm',
 	'adminlinks_importexport' => 'Nhập và xuất',
 	'right-adminlinks' => 'Xem [[Special:AdminLinks|các liên kết quản lý]]',
+);
+
+/** Waray (Winaray)
+ * @author JinJian
+ */
+$messages['war'] = array(
+	'adminlinks_users' => 'Mga gumaramit',
 );
 
 /** Yiddish (ייִדיש)
