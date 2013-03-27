@@ -1339,6 +1339,15 @@ $messages['nb'] = array(
 	'right-adminlinks' => 'Se lenken til [[Special:AdminLinks|admin-lenker]]',
 );
 
+/** Low German (Plattdüütsch)
+ * @author Joachim Mos
+ */
+$messages['nds'] = array(
+	'adminlinks_editcss' => 'Änner CSS Datei',
+	'adminlinks_editmainpagename' => 'Änner Naam vun Hööftsied',
+	'adminlinks_users' => 'Brukers',
+);
+
 /** Nedersaksies (Nedersaksies)
  * @author Servien
  */
