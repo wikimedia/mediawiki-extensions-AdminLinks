@@ -28,7 +28,7 @@ $specialPageAliases['arz'] = array(
 	'AdminLinks' => array( 'لينكات_الاداره' ),
 );
 
-/** Assamese (অসমীয়া) */
+/** Assamese (অসমীয়া) */
 $specialPageAliases['as'] = array(
 	'AdminLinks' => array( 'প্ৰশাসনিক_সংযোগ' ),
 );
