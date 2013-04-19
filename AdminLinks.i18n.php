@@ -269,6 +269,24 @@ $messages['bar'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|Links für Administraatoren]] hernemmer',
 );
 
+/** Bikol Central (Bikol Central)
+ * @author Geopoet
+ */
+$messages['bcl'] = array(
+	'adminlinks' => 'Mga kasugpunan kan Admin',
+	'adminlinks-desc' => 'Nagdudugang nin sarong [[Espesyal:MgakasugpuankanAdmin|espesyal na pahina]] na nagkakapot kan nakakatabang na mga kasugpunan para sa mga administrador', # Fuzzy
+	'adminlinks_documentation' => 'Dokumentasyon kan $1',
+	'adminlinks_general' => 'Pankagabsan',
+	'adminlinks_editsidebar' => 'Liwaton an gilid-huyagan',
+	'adminlinks_editcss' => 'Liwaton an CSS na sagunson',
+	'adminlinks_editmainpagename' => 'Liwaton an pangaran kan pangenot na pahina',
+	'adminlinks_users' => 'Mga Paragamit',
+	'adminlinks_createuser' => 'Magmukna nin sarong paragamit',
+	'adminlinks_browsesearch' => 'Magbuklat asin maghanap',
+	'adminlinks_importexport' => 'Importaron asin eksportaron',
+	'right-adminlinks' => 'Hilngon an kasugpon sa [[Espesyal:MgakasugponkanAdmin|Mga Kasugpon kan Admin]]', # Fuzzy
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
