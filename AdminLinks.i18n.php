@@ -274,7 +274,7 @@ $messages['bar'] = array(
  */
 $messages['bcl'] = array(
 	'adminlinks' => 'Mga kasugpunan kan Admin',
-	'adminlinks-desc' => 'Nagdudugang nin sarong [[Espesyal:MgakasugpuankanAdmin|espesyal na pahina]] na nagkakapot kan nakakatabang na mga kasugpunan para sa mga administrador', # Fuzzy
+	'adminlinks-desc' => 'Nagdudugang nin sarong [[Special:AdminLinks|espesyal na pahina]] na nagkakapot nin nakakatabang na mga kasugpunan para sa mga administrador',
 	'adminlinks_documentation' => 'Dokumentasyon kan $1',
 	'adminlinks_general' => 'Pankagabsan',
 	'adminlinks_editsidebar' => 'Liwaton an gilid-huyagan',
@@ -284,7 +284,7 @@ $messages['bcl'] = array(
 	'adminlinks_createuser' => 'Magmukna nin sarong paragamit',
 	'adminlinks_browsesearch' => 'Magbuklat asin maghanap',
 	'adminlinks_importexport' => 'Importaron asin eksportaron',
-	'right-adminlinks' => 'Hilngon an kasugpon sa [[Espesyal:MgakasugponkanAdmin|Mga Kasugpon kan Admin]]', # Fuzzy
+	'right-adminlinks' => 'Hilngon an kasugpunan sa [[Special:AdminLinks|Mga Kasugpunan kan Admin]]',
 );
 
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
