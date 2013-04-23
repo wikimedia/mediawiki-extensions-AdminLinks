@@ -409,6 +409,7 @@ $messages['ca'] = array(
 
 /** Chechen (нохчийн)
  * @author Sasan700
+ * @author Умар
  */
 $messages['ce'] = array(
 	'adminlinks' => 'Хьажоригаш адманкуьйгалхошна',
@@ -416,7 +417,7 @@ $messages['ce'] = array(
 	'adminlinks_documentation' => 'хааманбаххаш $1',
 	'adminlinks_general' => 'Еригге',
 	'adminlinks_editsidebar' => 'Нисйе агlон тlийра чоь',
-	'adminlinks_editcss' => 'Нисйе CSS хlум',
+	'adminlinks_editcss' => 'Нисйе CSS файл',
 	'adminlinks_editmainpagename' => 'Нисйе коьрта агlон цlе',
 	'adminlinks_users' => 'Декъашхой',
 	'adminlinks_createuser' => 'Кхолла дlавазвалар',
