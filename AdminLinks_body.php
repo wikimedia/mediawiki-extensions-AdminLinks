@@ -254,13 +254,15 @@ class ALItem {
 	var $text;
 	var $label;
 
-	static function newFromPage( $page_name, $desc = null, $query = array() ) {
+	static function newFromPage( $page_name_or_title, $desc = null, $query = array() ) {
 		$item = new ALItem();
 		$item->label = $desc;
-		if ( count( $query ) ) {
-			$item->text = Linker::linkKnown( $page_name, $desc, array(), $query );
-		} else
-			$item->text = "[[$page_name|$desc]]";
+		if ( $page_name_or_title instanceof Title ) {
+			$title = $page_name_or_title;
+		} else {
+			$title = Title::newFromText( $page_name_or_title );
+		}
+		$item->text = Linker::linkKnown( $title, $desc, array(), $query );
 		return $item;
 	}
 
