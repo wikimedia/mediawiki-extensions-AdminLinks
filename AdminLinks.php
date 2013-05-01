@@ -11,7 +11,7 @@ if ( !defined( 'MEDIAWIKI' ) ) die();
 $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'Admin Links',
-	'version' => '0.1.7',
+	'version' => '0.1.8',
 	'author' => 'Yaron Koren',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Admin_Links',
 	'descriptionmsg' => 'adminlinks-desc',
