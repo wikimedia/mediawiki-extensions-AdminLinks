@@ -1486,12 +1486,13 @@ $messages['os'] = array(
 
 /** Punjabi (ਪੰਜਾਬੀ)
  * @author Raj Singh
+ * @author TariButtar
  */
 $messages['pa'] = array(
-	'adminlinks_documentation' => '$1 ਪ੍ਰਲੇਖਨ',
+	'adminlinks_documentation' => '$1 ਦਸਤਾਵੇਜ਼',
 	'adminlinks_general' => 'ਆਮ',
-	'adminlinks_editsidebar' => 'ਸਾਈਡਬਾਰ ਸੰਪਾਦਿਤ ਕਰੋ',
-	'adminlinks_users' => 'ਵਰਤੋਂਕਾਰਾਂ',
+	'adminlinks_editsidebar' => 'ਸਾਈਡਬਾਰ ਸੋਧੋ',
+	'adminlinks_users' => 'ਵਰਤੋਂਕਾਰ',
 	'adminlinks_createuser' => 'ਇੱਕ ਵਰਤੋਂਕਾਰ ਬਣਾਓ',
 	'adminlinks_browsesearch' => 'ਬ੍ਰਾਊਜ ਅਤੇ ਖੋਜੋ',
 );
