@@ -1489,10 +1489,10 @@ $messages['os'] = array(
  * @author TariButtar
  */
 $messages['pa'] = array(
-	'adminlinks_documentation' => '$1 ਦਸਤਾਵੇਜ਼',
+	'adminlinks_documentation' => '$1 ਪ੍ਰਲੇਖਨ',
 	'adminlinks_general' => 'ਆਮ',
 	'adminlinks_editsidebar' => 'ਸਾਈਡਬਾਰ ਸੋਧੋ',
-	'adminlinks_users' => 'ਵਰਤੋਂਕਾਰ',
+	'adminlinks_users' => 'ਵਰਤੋਂਕਾਰਾਂ',
 	'adminlinks_createuser' => 'ਇੱਕ ਵਰਤੋਂਕਾਰ ਬਣਾਓ',
 	'adminlinks_browsesearch' => 'ਬ੍ਰਾਊਜ ਅਤੇ ਖੋਜੋ',
 );
