@@ -157,7 +157,7 @@ $messages['arz'] = array(
 	'adminlinks_createuser' => 'ابتدى يوزر',
 );
 
-/** Assamese (অসমীয়া)
+/** Assamese (অসমীয়া)
  * @author Bishnu Saikia
  * @author Chaipau
  */
@@ -1343,7 +1343,7 @@ $messages['myv'] = array(
 	'right-adminlinks' => 'Ваномс [[Special:AdminLinks|администраторонь сюлмавома пенетнень]]',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1370,7 +1370,7 @@ $messages['nds'] = array(
 	'adminlinks_users' => 'Brukers',
 );
 
-/** Nedersaksies (Nedersaksies)
+/** Low Saxon (Netherlands) (Nedersaksies)
  * @author Servien
  */
 $messages['nds-nl'] = array(
@@ -1426,7 +1426,7 @@ $messages['nl'] = array(
 	'right-adminlinks' => 'De koppeling naar [[Special:AdminLinks|koppeling voor beheerders]] zien',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Gunnernett
  */
 $messages['nn'] = array(
@@ -1462,7 +1462,7 @@ $messages['oc'] = array(
 	'right-adminlinks' => "Vejatz lo ligam cap als [[Special:AdminLinks|ligams d'administracion]]",
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Ansumang
  * @author Odisha1
  * @author ଆଶୁତୋଷ କର
