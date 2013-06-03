@@ -776,11 +776,14 @@ $messages['gsw'] = array(
 );
 
 /** Gujarati (ગુજરાતી)
+ * @author Ashok modhvadia
  * @author Harsh4101991
  */
 $messages['gu'] = array(
+	'adminlinks_editmainpagename' => 'મુખ્ય પાનાનું નામ સંપાદિત કરો',
 	'adminlinks_users' => 'સભ્યો',
 	'adminlinks_createuser' => 'સભ્ય બનાવો',
+	'adminlinks_importexport' => 'આયાત અને નિર્યાત',
 );
 
 /** Manx (Gaelg)
@@ -1493,7 +1496,7 @@ $messages['pa'] = array(
 	'adminlinks_documentation' => '$1 ਦਸਤਾਵੇਜ਼',
 	'adminlinks_general' => 'ਆਮ',
 	'adminlinks_editsidebar' => 'ਸਾਈਡਬਾਰ ਸੋਧੋ',
-	'adminlinks_users' => 'ਵਰਤੋਂਕਾਰਾਂ',
+	'adminlinks_users' => 'ਵਰਤੋਂਕਾਰ',
 	'adminlinks_createuser' => 'ਇੱਕ ਵਰਤੋਂਕਾਰ ਬਣਾਓ',
 	'adminlinks_browsesearch' => 'ਬ੍ਰਾਊਜ ਅਤੇ ਖੋਜੋ',
 );
