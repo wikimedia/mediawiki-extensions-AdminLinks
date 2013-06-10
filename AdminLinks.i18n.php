@@ -234,10 +234,11 @@ $messages['azb'] = array(
 
 /** Bashkir (башҡортса)
  * @author Comp1089
+ * @author Рустам Нурыев
  */
 $messages['ba'] = array(
-	'adminlinks' => 'Хәкимдәр өсөн һылтанмалар',
-	'adminlinks-desc' => 'Хәкимдәр өсөн һылтанмалар индергән [[Special:AdminLinks|ярҙамсы бит]] булдыра',
+	'adminlinks' => 'Хакимдәр өсөн һылтанмалар',
+	'adminlinks-desc' => 'Хакимдәр өсөн һылтанмалар индергән [[Special:AdminLinks|ярҙамсы бит]] булдыра',
 	'adminlinks_documentation' => '$1 өсөн документация',
 	'adminlinks_general' => 'Дөйөм',
 	'adminlinks_editsidebar' => 'Ҡабырғалағы меню (Sidebar)-ҙы үҙгәртергә',
@@ -1011,6 +1012,13 @@ $messages['ka'] = array(
 	'adminlinks_browsesearch' => 'მიმოხილვა და ძიება',
 	'adminlinks_importexport' => 'იმპორტი და ექსპორტი',
 	'right-adminlinks' => '[[Special:AdminLinks|ადმინისტრატორის ბმულების]] ხილვა',
+);
+
+/** Kongo (Kongo)
+ * @author Rkupsala
+ */
+$messages['kg'] = array(
+	'adminlinks_editmainpagename' => 'Soba nkûmbu ya mukânda ya ngudid',
 );
 
 /** Khowar (کھوار)
