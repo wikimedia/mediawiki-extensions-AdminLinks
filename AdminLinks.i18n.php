@@ -724,6 +724,24 @@ $messages['frp'] = array(
 	'right-adminlinks' => 'Vêre lo lim de vers los [[Special:AdminLinks|lims d’administracion]]',
 );
 
+/** Northern Frisian (Nordfriisk)
+ * @author Murma174
+ */
+$messages['frr'] = array(
+	'adminlinks' => 'Ferwisangen för administratooren',
+	'adminlinks-desc' => 'Racht en [[Special:AdminLinks|spezial-sidj]] mä ferwisangen för administratooren iin',
+	'adminlinks_documentation' => 'Auersicht tu „$1“',
+	'adminlinks_general' => 'Algemian',
+	'adminlinks_editsidebar' => 'Sidjenliist bewerke',
+	'adminlinks_editcss' => 'CSS-datei bewerke',
+	'adminlinks_editmainpagename' => "Nööm faan't hoodsidj bewerke",
+	'adminlinks_users' => 'Brükern',
+	'adminlinks_createuser' => 'Brükerkonto iinracht',
+	'adminlinks_browsesearch' => 'Trochluke an schük',
+	'adminlinks_importexport' => 'Importiare an eksportiare',
+	'right-adminlinks' => '[[Special:AdminLinks|Ferwisangen för administratooren]] brük',
+);
+
 /** Irish (Gaeilge)
  * @author පසිඳු කාවින්ද
  */
