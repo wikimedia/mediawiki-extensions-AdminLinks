@@ -970,6 +970,7 @@ $messages['ig'] = array(
  * @author S.Örvarr.S
  */
 $messages['is'] = array(
+	'adminlinks_general' => 'Almennir',
 	'adminlinks_users' => 'Notendur',
 	'adminlinks_createuser' => 'Búa til notanda',
 	'adminlinks_browsesearch' => 'Vafra og leita',
