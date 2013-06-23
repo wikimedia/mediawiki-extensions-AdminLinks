@@ -413,8 +413,8 @@ $messages['ca'] = array(
  * @author Умар
  */
 $messages['ce'] = array(
-	'adminlinks' => 'Хьажоригаш адманкуьйгалхошна',
-	'adminlinks-desc' => 'Тlе туху [[Special:AdminLinks|белхан агlо]], йолуш пайде хьажоригаш адманкуьйгалхошна',
+	'adminlinks' => 'Хьажоригаш куьйгалхошна',
+	'adminlinks-desc' => 'Тlе туху [[Special:AdminLinks|белхан агlо]], йолуш пайде хьажоригаш куьйгалхошна',
 	'adminlinks_documentation' => 'хааманбаххаш $1',
 	'adminlinks_general' => 'Еригге',
 	'adminlinks_editsidebar' => 'Нисйе агlон тlийра чоь',
@@ -424,7 +424,7 @@ $messages['ce'] = array(
 	'adminlinks_createuser' => 'Кхолла дlавазвалар',
 	'adminlinks_browsesearch' => 'Гуш а лахар',
 	'adminlinks_importexport' => 'Чуйахар а арайахар',
-	'right-adminlinks' => 'гарна [[Special:AdminLinks|хьажоригаш адманкуьйгалхошна]]',
+	'right-adminlinks' => 'гарна [[Special:AdminLinks|хьажоригаш куьйгалхошна]]',
 );
 
 /** Czech (česky)
