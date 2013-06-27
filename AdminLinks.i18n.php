@@ -978,6 +978,7 @@ $messages['is'] = array(
 );
 
 /** Italian (italiano)
+ * @author Beta16
  * @author Darth Kule
  * @author Marco 27
  */
@@ -993,7 +994,7 @@ $messages['it'] = array(
 	'adminlinks_createuser' => 'Crea un account',
 	'adminlinks_browsesearch' => 'Visualizza e ricerca',
 	'adminlinks_importexport' => 'Importa ed esporta',
-	'right-adminlinks' => 'Vede il collegamento al [[Special:AdminLinks|Pannello Admin]]',
+	'right-adminlinks' => 'Visualizza il collegamento al [[Special:AdminLinks|Pannello Admin]]',
 );
 
 /** Japanese (日本語)
