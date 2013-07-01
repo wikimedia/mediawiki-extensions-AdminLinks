@@ -50,7 +50,7 @@ $specialPageAliases['de'] = array(
 
 /** Zazaki (Zazaki) */
 $specialPageAliases['diq'] = array(
-	'AdminLinks' => array( 'GreyAdmini' ),
+	'AdminLinks' => array( 'GreyéAdminan' ),
 );
 
 /** Greek (Ελληνικά) */
