@@ -446,6 +446,14 @@ $messages['cs'] = array(
 	'right-adminlinks' => 'Viditelný odkaz na stránku [[Special:AdminLinks|Odkazy pro správce]]',
 );
 
+/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+ * @author ОйЛ
+ */
+$messages['cu'] = array(
+	'adminlinks_users' => 'польꙃєватєлє',
+	'adminlinks_createuser' => 'сътвори польꙃєватєлъ',
+);
+
 /** Welsh (Cymraeg)
  * @author Lloffiwr
  */
