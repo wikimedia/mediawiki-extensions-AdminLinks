@@ -1379,6 +1379,15 @@ $messages['myv'] = array(
 	'right-adminlinks' => 'Ваномс [[Special:AdminLinks|администраторонь сюлмавома пенетнень]]',
 );
 
+/** Neapolitan (Nnapulitano)
+ * @author Chelin
+ */
+$messages['nap'] = array(
+	'adminlinks_general' => 'Generale',
+	'adminlinks_users' => 'Utente',
+	'adminlinks_createuser' => "Cria 'nu cunto",
+);
+
 /** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
