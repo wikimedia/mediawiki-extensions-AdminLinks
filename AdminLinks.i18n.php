@@ -1331,6 +1331,18 @@ $messages['ml'] = array(
 	'right-adminlinks' => '[[Special:AdminLinks|കാര്യനിവാഹക കണ്ണികളിലേക്കുള്ള]] കണ്ണികൾ കാണുക',
 );
 
+/** Marathi (मराठी)
+ * @author V.narsikar
+ */
+$messages['mr'] = array(
+	'adminlinks_general' => 'सर्वसामान्य',
+	'adminlinks_editmainpagename' => 'मुख्य पानाचे नाव संपादित करा',
+	'adminlinks_users' => 'सदस्य',
+	'adminlinks_createuser' => 'सदस्यत्व निर्माण करा',
+	'adminlinks_browsesearch' => 'न्याहाळा व शोधा',
+	'adminlinks_importexport' => 'आयात व निर्यात',
+);
+
 /** Malay (Bahasa Melayu)
  * @author Anakmalaysia
  * @author Zamwan
