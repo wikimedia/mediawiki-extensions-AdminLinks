@@ -148,6 +148,11 @@ $specialPageAliases['mg'] = array(
 	'AdminLinks' => array( 'Rohim-pandrindra' ),
 );
 
+/** Minangkabau (Baso Minangkabau) */
+$specialPageAliases['min'] = array(
+	'AdminLinks' => array( 'PautanPanguruih' ),
+);
+
 /** Macedonian (македонски) */
 $specialPageAliases['mk'] = array(
 	'AdminLinks' => array( 'АдминистраторскиВрски' ),
