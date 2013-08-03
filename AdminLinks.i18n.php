@@ -1058,6 +1058,13 @@ $messages['khw'] = array(
 	'adminlinks_createuser' => 'ای یوزر ساوزاوے',
 );
 
+/** Kazakh (Cyrillic script) (қазақша (кирил)‎)
+ * @author Arystanbek
+ */
+$messages['kk-cyrl'] = array(
+	'adminlinks' => 'Әкімші сілтемелері',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author គីមស៊្រុន
  * @author វ័ណថារិទ្ធ
