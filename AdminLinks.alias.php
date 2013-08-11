@@ -43,6 +43,11 @@ $specialPageAliases['br'] = array(
 	'AdminLinks' => array( 'LiammoùMerañ' ),
 );
 
+/** Min Dong Chinese (Mìng-dĕ̤ng-ngṳ̄) */
+$specialPageAliases['cdo'] = array(
+	'AdminLinks' => array( '管理員鏈接' ),
+);
+
 /** German (Deutsch) */
 $specialPageAliases['de'] = array(
 	'AdminLinks' => array( 'Admin-Links' ),
