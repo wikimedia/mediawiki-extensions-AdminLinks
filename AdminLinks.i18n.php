@@ -695,6 +695,20 @@ $messages['fi'] = array(
 	'right-adminlinks' => 'Nähdä linkki sivulle [[Special:AdminLinks|ylläpitäjien linkit]]',
 );
 
+/** Faroese (føroyskt)
+ * @author EileenSanda
+ */
+$messages['fo'] = array(
+	'adminlinks' => 'Administratorleinkjur',
+	'adminlinks-desc' => 'Leggur afturat eina [[Special:AdminLinks|serstaka síðu]] við leinkjum sum eru til stóra hjálp hjá administratorum',
+	'adminlinks_documentation' => '$1 dokumentasjón',
+	'adminlinks_general' => 'Sum heild',
+	'adminlinks_editcss' => 'Rætta CSS fílu',
+	'adminlinks_editmainpagename' => 'Broyt navnið á forsíðuni',
+	'adminlinks_users' => 'Brúkarar',
+	'adminlinks_createuser' => 'Upprætta ein brúkara',
+);
+
 /** French (français)
  * @author IAlex
  * @author Urhixidur
