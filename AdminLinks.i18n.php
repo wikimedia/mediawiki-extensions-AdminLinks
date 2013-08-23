@@ -38,7 +38,9 @@ $messages['en'] = array(
 $messages['qqq'] = array(
 	'adminlinks' => '{{doc-special|AdminLinks}}',
 	'adminlinks-desc' => '{{desc|name=Admin Links|url=http://www.mediawiki.org/wiki/Extension:Admin_Links}}',
-	'adminlinks_documentation' => 'The label for a link to documentation for a certain extension, whose name is passed in.
+	'adminlinks_documentation' => 'Unused at this time.
+
+The label for a link to documentation for a certain extension, whose name is passed in.
 {{Identical|Documentation}}',
 	'adminlinks_general' => 'Section name for general links for administrators.
 {{Identical|General}}',
