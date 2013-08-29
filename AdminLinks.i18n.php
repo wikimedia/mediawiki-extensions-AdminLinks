@@ -40,7 +40,8 @@ $messages['qqq'] = array(
 	'adminlinks-desc' => '{{desc|name=Admin Links|url=http://www.mediawiki.org/wiki/Extension:Admin_Links}}',
 	'adminlinks_documentation' => 'Unused at this time.
 
-The label for a link to documentation for a certain extension, whose name is passed in.
+The label for a link to documentation for a certain extension. Parameters:
+* $1 - extension name
 {{Identical|Documentation}}',
 	'adminlinks_general' => 'Section name for general links for administrators.
 {{Identical|General}}',
