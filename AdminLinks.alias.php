@@ -192,3 +192,78 @@ $specialPageAliases['nds-nl'] = array(
 $specialPageAliases['nl'] = array(
 	'AdminLinks' => array( 'Beheerdersverwijzingen' ),
 );
+
+/** Punjabi (ਪੰਜਾਬੀ) */
+$specialPageAliases['pa'] = array(
+	'AdminLinks' => array( 'ਪ੍ਰਬੰਧਕ_ਲਿੰਕ' ),
+);
+
+/** Portuguese (português) */
+$specialPageAliases['pt'] = array(
+	'AdminLinks' => array( 'Ligações_de_administração' ),
+);
+
+/** Brazilian Portuguese (português do Brasil) */
+$specialPageAliases['pt-br'] = array(
+	'AdminLinks' => array( 'Links_administrativos' ),
+);
+
+/** Romanian (română) */
+$specialPageAliases['ro'] = array(
+	'AdminLinks' => array( 'Legături_admini' ),
+);
+
+/** Sanskrit (संस्कृतम्) */
+$specialPageAliases['sa'] = array(
+	'AdminLinks' => array( 'कार्यकर्ता_सम्भन्दिन्' ),
+);
+
+/** Sicilian (sicilianu) */
+$specialPageAliases['scn'] = array(
+	'AdminLinks' => array( 'SysopLinks' ),
+);
+
+/** Sinhala (සිංහල) */
+$specialPageAliases['si'] = array(
+	'AdminLinks' => array( 'පරිපාලක_සබැඳි' ),
+);
+
+/** Slovak (slovenčina) */
+$specialPageAliases['sk'] = array(
+	'AdminLinks' => array( 'OdkazySprávcu' ),
+);
+
+/** Swedish (svenska) */
+$specialPageAliases['sv'] = array(
+	'AdminLinks' => array( 'Administratörslänkar' ),
+);
+
+/** Tagalog (Tagalog) */
+$specialPageAliases['tl'] = array(
+	'AdminLinks' => array( 'Mga_Kawing_sa_Tagapangasiwa' ),
+);
+
+/** Turkish (Türkçe) */
+$specialPageAliases['tr'] = array(
+	'AdminLinks' => array( 'HizmetliBağları', 'HizmetliBağlantıları' ),
+);
+
+/** Urdu (اردو) */
+$specialPageAliases['ur'] = array(
+	'AdminLinks' => array( 'انتظامی_روابط' ),
+);
+
+/** Vietnamese (Tiếng Việt) */
+$specialPageAliases['vi'] = array(
+	'AdminLinks' => array( 'Liên_kết_bảo_quản_viên' ),
+);
+
+/** Simplified Chinese (中文（简体）‎) */
+$specialPageAliases['zh-hans'] = array(
+	'AdminLinks' => array( '管理员链接' ),
+);
+
+/** Traditional Chinese (中文（繁體）‎) */
+$specialPageAliases['zh-hant'] = array(
+	'AdminLinks' => array( '管理員鏈接' ),
+);
