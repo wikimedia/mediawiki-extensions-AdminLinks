@@ -657,6 +657,7 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Ebraminio
  * @author Huji
  * @author Sahim
  * @author ZxxZxxZ
@@ -668,7 +669,7 @@ $messages['fa'] = array(
 	'adminlinks_general' => 'عمومی',
 	'adminlinks_editsidebar' => 'نوار ویرایش',
 	'adminlinks_editcss' => 'ویرایش فایل سی‌اس‌اس',
-	'adminlinks_editmainpagename' => 'ویرایش نام از طریق صفحه اصلی',
+	'adminlinks_editmainpagename' => 'ویرایش نام از طریق صفحهٔ اصلی',
 	'adminlinks_users' => 'کاربران',
 	'adminlinks_createuser' => 'ایجاد یک حساب',
 	'adminlinks_browsesearch' => 'مرور و جستجو',
@@ -824,10 +825,18 @@ $messages['gsw'] = array(
  * @author Harsh4101991
  */
 $messages['gu'] = array(
+	'adminlinks' => 'પ્રબંધન કડીઓ',
+	'adminlinks-desc' => '[[Special:AdminLinks|ખાસ પાનુ]] ઉમેરો જે પ્રબંધકો માટે ઉપયોગી કડીઓ ધરાવતુ હોય',
+	'adminlinks_documentation' => '$1 દસ્તાવેજીકરણ',
+	'adminlinks_general' => 'સામાન્ય',
+	'adminlinks_editsidebar' => 'સાઇડબાર સંપાદિત કરો',
+	'adminlinks_editcss' => 'CSS ફાઇલ સંપાદિત કરો',
 	'adminlinks_editmainpagename' => 'મુખ્ય પાનાનું નામ સંપાદિત કરો',
 	'adminlinks_users' => 'સભ્યો',
 	'adminlinks_createuser' => 'સભ્ય બનાવો',
+	'adminlinks_browsesearch' => 'ખંખોળો અને શોધો',
 	'adminlinks_importexport' => 'આયાત અને નિર્યાત',
+	'right-adminlinks' => '[[Special:AdminLinks|પ્રબંધન કડીઓ]]ની કડી જુઓ',
 );
 
 /** Manx (Gaelg)
