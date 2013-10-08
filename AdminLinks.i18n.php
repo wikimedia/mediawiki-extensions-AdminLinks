@@ -1155,7 +1155,7 @@ $messages['ku-latn'] = array(
 	'adminlinks_createuser' => 'Bikarhênerekî çêke',
 );
 
-/** Kirghiz (Кыргызча)
+/** Kyrgyz (Кыргызча)
  * @author Growingup
  */
 $messages['ky'] = array(
@@ -1430,7 +1430,7 @@ $messages['myv'] = array(
 	'right-adminlinks' => 'Ваномс [[Special:AdminLinks|администраторонь сюлмавома пенетнень]]',
 );
 
-/** Neapolitan (Nnapulitano)
+/** Neapolitan (Napulitano)
  * @author Chelin
  */
 $messages['nap'] = array(
