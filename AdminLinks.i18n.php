@@ -1715,7 +1715,7 @@ $messages['ro'] = array(
 	'adminlinks_createuser' => 'Creează un utilizator',
 	'adminlinks_browsesearch' => 'Răsfoire și căutare',
 	'adminlinks_importexport' => 'Importare și exportare',
-	'right-adminlinks' => 'Vede legătura către [[Special:AdminLinks|Legăturile administrative]]',
+	'right-adminlinks' => 'Vizualizează legătura către [[Special:AdminLinks|Legăturile administrative]]',
 );
 
 /** tarandíne (tarandíne)
