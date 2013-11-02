@@ -1165,13 +1165,14 @@ $messages['ky'] = array(
 /** Luxembourgish (Lëtzebuergesch)
  * @author Les Meloures
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
 	'adminlinks' => 'Linke fir Administrateuren',
 	'adminlinks-desc' => 'Setzt eng [[Special:AdminLinks|Spezialsäit]] derbäi mat nëtzleche Linke fir Administrateuren',
 	'adminlinks_documentation' => '$1 Dokumentatioun',
 	'adminlinks_general' => 'Allgemeng',
-	'adminlinks_editsidebar' => 'De säitleche Menu änneren',
+	'adminlinks_editsidebar' => 'De säitleche Menü änneren',
 	'adminlinks_editcss' => 'CSS-Fichier änneren',
 	'adminlinks_editmainpagename' => 'Den Numm vun der Haaptsäit änneren',
 	'adminlinks_users' => 'Benotzer',
