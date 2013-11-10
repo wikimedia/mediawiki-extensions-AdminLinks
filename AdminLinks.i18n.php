@@ -50,7 +50,8 @@ The label for a link to documentation for a certain extension. Parameters:
 	'adminlinks_editmainpagename' => 'Link description that will lead to the page where the name of the main page can be edited.',
 	'adminlinks_users' => 'Section name for links for administrators.
 {{Identical|User}}',
-	'adminlinks_createuser' => 'Link description that will lead to the page where a user can be created.',
+	'adminlinks_createuser' => 'Link description that will lead to the page where a user can be created.
+{{Identical|Create user}}',
 	'adminlinks_browsesearch' => 'Section name for links for administrators related to browsing and searching.',
 	'adminlinks_importexport' => 'Section name for links for administrators related to import and export of pages and data.',
 	'right-adminlinks' => '{{doc-right|adminlinks}}',
