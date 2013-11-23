@@ -1125,7 +1125,7 @@ $messages['ko'] = array(
 	'adminlinks_editmainpagename' => '대문 이름 편집',
 	'adminlinks_users' => '사용자',
 	'adminlinks_createuser' => '계정 만들기',
-	'adminlinks_browsesearch' => '둘러보기 및 찾기',
+	'adminlinks_browsesearch' => '찾아보기 및 검색',
 	'adminlinks_importexport' => '가져오기 및 내보내기',
 	'right-adminlinks' => '[[Special:AdminLinks|관리자용 링크]]를 보기',
 );
