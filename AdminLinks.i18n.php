@@ -477,6 +477,7 @@ $messages['cy'] = array(
 );
 
 /** Danish (dansk)
+ * @author Christian List
  * @author Masz
  */
 $messages['da'] = array(
@@ -486,7 +487,7 @@ $messages['da'] = array(
 	'adminlinks_general' => 'Generelt',
 	'adminlinks_editsidebar' => 'Redigér sidemenuen',
 	'adminlinks_editcss' => 'Redigér CSS-fil',
-	'adminlinks_editmainpagename' => 'Ændre navnet på forsiden',
+	'adminlinks_editmainpagename' => 'Redigér navnet på forsiden',
 	'adminlinks_users' => 'Brugere',
 	'adminlinks_createuser' => 'Opret en bruger',
 	'adminlinks_browsesearch' => 'Navigering og søgning',
