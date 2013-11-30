@@ -984,6 +984,24 @@ $messages['id'] = array(
 	'right-adminlinks' => 'Lihat pranala ke [[Special:AdminLinks|Pranala admin]]',
 );
 
+/** Interlingue (Interlingue)
+ * @author Makuba
+ */
+$messages['ie'] = array(
+	'adminlinks' => 'Links por administratores',
+	'adminlinks-desc' => 'Addí un [[Special:AdminLinks|special págine]] con auxiliari links por administratores',
+	'adminlinks_documentation' => 'Documentation pri «$1»',
+	'adminlinks_general' => 'General',
+	'adminlinks_editsidebar' => 'Editer lateral liste',
+	'adminlinks_editcss' => 'Editer CSS-file',
+	'adminlinks_editmainpagename' => 'Editer li nómine del principal págine',
+	'adminlinks_users' => 'Usatores',
+	'adminlinks_createuser' => 'Crear un usator',
+	'adminlinks_browsesearch' => 'Travider e serchar',
+	'adminlinks_importexport' => 'Importar e exportar',
+	'right-adminlinks' => 'Usar [[Special:AdminLinks|administratori links]]',
+);
+
 /** Igbo (Igbo)
  * @author Ukabia
  */
