@@ -431,7 +431,7 @@ $messages['ce'] = array(
 	'right-adminlinks' => 'гарна [[Special:AdminLinks|хьажорагаш куьйгалхошна]]',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Kuvaly
  * @author Reaperman
  */
@@ -450,7 +450,7 @@ $messages['cs'] = array(
 	'right-adminlinks' => 'Viditelný odkaz na stránku [[Special:AdminLinks|Odkazy pro správce]]',
 );
 
-/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author ОйЛ
  */
 $messages['cu'] = array(
