@@ -1189,7 +1189,7 @@ $messages['ky'] = array(
  */
 $messages['lb'] = array(
 	'adminlinks' => 'Linke fir Administrateuren',
-	'adminlinks-desc' => 'Setzt eng [[Special:AdminLinks|Spezialsäit]] dobäi mat nëtzleche Linke fir Administrateuren',
+	'adminlinks-desc' => 'Setzt eng [[Special:AdminLinks|Spezialsäit]] derbäi mat nëtzleche Linke fir Administrateuren',
 	'adminlinks_documentation' => '$1 Dokumentatioun',
 	'adminlinks_general' => 'Allgemeng',
 	'adminlinks_editsidebar' => 'De säitleche Menü änneren',
