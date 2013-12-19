@@ -21,6 +21,7 @@ $wgAdminLinksIP = __DIR__ . '/';
 $wgExtensionMessagesFiles['AdminLinks'] = $wgAdminLinksIP . 'AdminLinks.i18n.php';
 $wgExtensionMessagesFiles['AdminLinksAlias'] = $wgAdminLinksIP . 'AdminLinks.alias.php';
 $wgSpecialPages['AdminLinks'] = 'AdminLinks';
+$wgSpecialPageGroups['AdminLinks'] = 'users';
 $wgHooks['PersonalUrls'][] = 'AdminLinks::addURLToUserLinks';
 $wgAvailableRights[] = 'adminlinks';
 // by default, sysops see the link to this page
