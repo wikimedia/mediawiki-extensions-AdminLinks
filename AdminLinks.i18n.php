@@ -1055,7 +1055,7 @@ $messages['is'] = array(
  * @author Marco 27
  */
 $messages['it'] = array(
-	'adminlinks' => 'Pannello admin',
+	'adminlinks' => 'Pannello amministrazione',
 	'adminlinks-desc' => 'Aggiunge una [[Special:AdminLinks|pagina speciale]] che contiene link utili per gli amministratori',
 	'adminlinks_documentation' => 'documentazione di $1',
 	'adminlinks_general' => 'Generale',
@@ -1066,7 +1066,7 @@ $messages['it'] = array(
 	'adminlinks_createuser' => 'Crea un account',
 	'adminlinks_browsesearch' => 'Visualizza e ricerca',
 	'adminlinks_importexport' => 'Importa ed esporta',
-	'right-adminlinks' => 'Visualizza il collegamento al [[Special:AdminLinks|Pannello Admin]]',
+	'right-adminlinks' => 'Visualizza il collegamento al [[Special:AdminLinks|Pannello amministrazione]]',
 );
 
 /** Japanese (日本語)
