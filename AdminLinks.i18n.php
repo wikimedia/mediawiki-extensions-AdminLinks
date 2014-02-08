@@ -645,6 +645,7 @@ $messages['et'] = array(
 
 /** Basque (euskara)
  * @author An13sa
+ * @author Subi
  */
 $messages['eu'] = array(
 	'adminlinks' => 'Administratzaile loturak',
@@ -655,6 +656,7 @@ $messages['eu'] = array(
 	'adminlinks_editmainpagename' => 'Azalaren izena aldatu',
 	'adminlinks_users' => 'Erabiltzaileak',
 	'adminlinks_createuser' => 'Lankidea sortu',
+	'adminlinks_browsesearch' => 'Arakatu eta bilatu',
 	'adminlinks_importexport' => 'Inportatu eta esportatu',
 );
 
