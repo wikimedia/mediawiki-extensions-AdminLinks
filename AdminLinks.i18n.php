@@ -684,6 +684,7 @@ $messages['fa'] = array(
 /** Finnish (suomi)
  * @author Crt
  * @author Nike
+ * @author Pxos
  * @author Str4nd
  * @author Varusmies
  * @author ZeiP
@@ -692,7 +693,7 @@ $messages['fi'] = array(
 	'adminlinks' => 'Ylläpidon linkit',
 	'adminlinks-desc' => 'Lisää [[Special:AdminLinks|toimintosivun]], joka sisältää hyödyllisiä linkkejä ylläpitäjille.',
 	'adminlinks_documentation' => '$1 dokumentaatio',
-	'adminlinks_general' => 'Yleinen',
+	'adminlinks_general' => 'Yleiset',
 	'adminlinks_editsidebar' => 'Muokkaa sivupalkkia',
 	'adminlinks_editcss' => 'Muokkaa CSS-tiedostoa',
 	'adminlinks_editmainpagename' => 'Muokkaa etusivun nimeä',
