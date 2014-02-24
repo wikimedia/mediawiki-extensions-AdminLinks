@@ -1840,6 +1840,24 @@ $messages['scn'] = array(
 	'adminlinks_users' => 'Utenti',
 );
 
+/** Scots (Scots)
+ * @author John Reid
+ */
+$messages['sco'] = array(
+	'adminlinks' => 'Admin links.',
+	'adminlinks-desc' => 'Adds ae [[Special:AdminLinks|speecial page]] that hauds helpful links fer admeenistraters',
+	'adminlinks_documentation' => '$1 documentation.',
+	'adminlinks_general' => 'General.',
+	'adminlinks_editsidebar' => 'Eidit sidebaur',
+	'adminlinks_editcss' => 'Eidit CSS file',
+	'adminlinks_editmainpagename' => 'Eidit name o main page',
+	'adminlinks_users' => 'Uisers',
+	'adminlinks_createuser' => 'Mak ae uiser',
+	'adminlinks_browsesearch' => 'Brouse an rake',
+	'adminlinks_importexport' => 'Import an eixport',
+	'right-adminlinks' => 'See the link til [[Special:AdminLinks|Admin links]]',
+);
+
 /** Tachelhit (Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ)
  * @author Dalinanir
  */
