@@ -417,7 +417,7 @@ $messages['ca'] = array(
  * @author Умар
  */
 $messages['ce'] = array(
-	'adminlinks' => 'Хьажорагаш куьйгалхошна',
+	'adminlinks' => 'Хьажоргаш куьйгалхошна',
 	'adminlinks-desc' => 'ТӀе туху [[Special:AdminLinks|белхан агӀо]], йолуш пайде хьажорагаш куьйгалхошна',
 	'adminlinks_documentation' => 'хааманбаххаш $1',
 	'adminlinks_general' => 'Еригге',
@@ -672,7 +672,7 @@ $messages['fa'] = array(
 	'adminlinks_documentation' => 'مستندات $1',
 	'adminlinks_general' => 'عمومی',
 	'adminlinks_editsidebar' => 'نوار ویرایش',
-	'adminlinks_editcss' => 'ویرایش فایل سی‌اس‌اس',
+	'adminlinks_editcss' => 'ویرایش پروندهٔ سی‌اس‌اس',
 	'adminlinks_editmainpagename' => 'ویرایش نام از طریق صفحهٔ اصلی',
 	'adminlinks_users' => 'کاربران',
 	'adminlinks_createuser' => 'ایجاد یک حساب',
@@ -1853,8 +1853,8 @@ $messages['sco'] = array(
 	'adminlinks_editmainpagename' => 'Eidit name o main page',
 	'adminlinks_users' => 'Uisers',
 	'adminlinks_createuser' => 'Mak ae uiser',
-	'adminlinks_browsesearch' => 'Brouse an rake',
-	'adminlinks_importexport' => 'Import an eixport',
+	'adminlinks_browsesearch' => 'Brouse n rake',
+	'adminlinks_importexport' => 'Import n eexport',
 	'right-adminlinks' => 'See the link til [[Special:AdminLinks|Admin links]]',
 );
 
