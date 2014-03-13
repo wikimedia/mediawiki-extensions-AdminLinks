@@ -1780,6 +1780,7 @@ $messages['roa-tara'] = array(
 
 /** Russian (русский)
  * @author Ferrer
+ * @author Ilnur efende
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
