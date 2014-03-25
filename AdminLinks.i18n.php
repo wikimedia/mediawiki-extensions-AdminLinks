@@ -1859,6 +1859,16 @@ $messages['sco'] = array(
 	'right-adminlinks' => 'See the link til [[Special:AdminLinks|Admin links]]',
 );
 
+/** Serbo-Croatian (srpskohrvatski / српскохрватски)
+ * @author Kolega2357
+ */
+$messages['sh'] = array(
+	'adminlinks' => 'Administratorski linkovi',
+	'adminlinks_users' => 'Korisnici',
+	'adminlinks_createuser' => 'Kreiraj novog korisnika',
+	'adminlinks_importexport' => 'Uvezi i izvezi',
+);
+
 /** Tachelhit (Tašlḥiyt/ⵜⴰⵛⵍⵃⵉⵜ)
  * @author Dalinanir
  */
