@@ -1845,8 +1845,8 @@ $messages['scn'] = array(
  * @author John Reid
  */
 $messages['sco'] = array(
-	'adminlinks' => 'Admin links.',
-	'adminlinks-desc' => 'Adds ae [[Special:AdminLinks|speecial page]] that hauds helpful links fer admeenistraters',
+	'adminlinks' => 'Admeen airtins.',
+	'adminlinks-desc' => 'Eiks ae [[Special:AdminLinks|speecial page]] that hauds heelpfu airtins fer admeenistraters',
 	'adminlinks_documentation' => '$1 documentation.',
 	'adminlinks_general' => 'General.',
 	'adminlinks_editsidebar' => 'Eidit sidebaur',
