@@ -11,13 +11,14 @@ if ( !defined( 'MEDIAWIKI' ) ) die();
 $wgExtensionCredits['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'Admin Links',
-	'version' => '0.1.8',
+	'version' => '0.2.0',
 	'author' => 'Yaron Koren',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Admin_Links',
 	'descriptionmsg' => 'adminlinks-desc',
 );
 
 $wgAdminLinksIP = __DIR__ . '/';
+$wgMessagesDirs['AdminLinks'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['AdminLinks'] = $wgAdminLinksIP . 'AdminLinks.i18n.php';
 $wgExtensionMessagesFiles['AdminLinksAlias'] = $wgAdminLinksIP . 'AdminLinks.alias.php';
 $wgSpecialPages['AdminLinks'] = 'AdminLinks';
