@@ -94,6 +94,11 @@ $specialPageAliases['gsw'] = array(
 	'AdminLinks' => array( 'Ammane-Links' ),
 );
 
+/** Hawaiian (Hawai`i) */
+$specialPageAliases['haw'] = array(
+	'AdminLinks' => array( 'LoulouKahu' ),
+);
+
 /** 湘语 (湘语) */
 $specialPageAliases['hsn'] = array(
 	'AdminLinks' => array( '管理链接' ),
