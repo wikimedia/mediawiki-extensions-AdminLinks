@@ -5,6 +5,7 @@
         ]
     },
     "adminlinks": "Links für Administratore",
+    "adminlinks_documentation": "Dokumentation zu \"$1\"",
     "adminlinks_general": "Allgemein",
     "adminlinks_editsidebar": "Seiteleist beoorbeite",
     "adminlinks_editcss": "CSS beoorbeite",
