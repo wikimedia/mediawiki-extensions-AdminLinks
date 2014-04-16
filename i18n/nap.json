@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Chelin"
-        ]
-    },
-    "adminlinks_general": "Generale",
-    "adminlinks_users": "Utente",
-    "adminlinks_createuser": "Cria 'nu cunto"
+	"@metadata": {
+		"authors": [
+			"Chelin"
+		]
+	},
+	"adminlinks_general": "Generale",
+	"adminlinks_users": "Utente",
+	"adminlinks_createuser": "Cria 'nu cunto"
 }

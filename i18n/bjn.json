@@ -1,10 +1,10 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ezagren",
-            "J Subhi"
-        ]
-    },
-    "adminlinks_users": "Papamakai",
-    "adminlinks_createuser": "Ulah pamakai"
+	"@metadata": {
+		"authors": [
+			"Ezagren",
+			"J Subhi"
+		]
+	},
+	"adminlinks_users": "Papamakai",
+	"adminlinks_createuser": "Ulah pamakai"
 }

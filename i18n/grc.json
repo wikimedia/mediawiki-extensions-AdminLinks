@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Omnipaedista"
-        ]
-    },
-    "adminlinks_general": "Γενικά",
-    "adminlinks_users": "Χρώμενοι"
+	"@metadata": {
+		"authors": [
+			"Omnipaedista"
+		]
+	},
+	"adminlinks_general": "Γενικά",
+	"adminlinks_users": "Χρώμενοι"
 }

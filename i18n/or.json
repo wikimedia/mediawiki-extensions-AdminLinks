@@ -1,18 +1,18 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ansumang",
-            "Odisha1",
-            "ଆଶୁତୋଷ କର"
-        ]
-    },
-    "adminlinks": "ପରିଚାଳକ ଲିଙ୍କ ଗୁଡିକ",
-    "adminlinks_general": "ସାଧାରଣ",
-    "adminlinks_editsidebar": "ସାଇଡ ବାର ସମ୍ପାଦନ କରିବେ",
-    "adminlinks_editcss": "ସିଏସଏସ ଫାଇଲ ସମ୍ପାଦନ କରିବେ",
-    "adminlinks_editmainpagename": "ପ୍ରଧାନ ପୃଷ୍ଠାର ନାମ ବଦଳାଇବେ",
-    "adminlinks_users": "ବ୍ୟବହାରକାରୀଗଣ",
-    "adminlinks_createuser": "ନୂଆ ଇଉଜର ତିଆରି କରିବେ",
-    "adminlinks_browsesearch": "ବ୍ରାଉଜ ଓ ଖୋଜନ୍ତୁ",
-    "adminlinks_importexport": "ଇମ୍ପୋର୍ଟ ଓ ଏକ୍ସପୋର୍ଟ"
+	"@metadata": {
+		"authors": [
+			"Ansumang",
+			"Odisha1",
+			"ଆଶୁତୋଷ କର"
+		]
+	},
+	"adminlinks": "ପରିଚାଳକ ଲିଙ୍କ ଗୁଡିକ",
+	"adminlinks_general": "ସାଧାରଣ",
+	"adminlinks_editsidebar": "ସାଇଡ ବାର ସମ୍ପାଦନ କରିବେ",
+	"adminlinks_editcss": "ସିଏସଏସ ଫାଇଲ ସମ୍ପାଦନ କରିବେ",
+	"adminlinks_editmainpagename": "ପ୍ରଧାନ ପୃଷ୍ଠାର ନାମ ବଦଳାଇବେ",
+	"adminlinks_users": "ବ୍ୟବହାରକାରୀଗଣ",
+	"adminlinks_createuser": "ନୂଆ ଇଉଜର ତିଆରି କରିବେ",
+	"adminlinks_browsesearch": "ବ୍ରାଉଜ ଓ ଖୋଜନ୍ତୁ",
+	"adminlinks_importexport": "ଇମ୍ପୋର୍ଟ ଓ ଏକ୍ସପୋର୍ଟ"
 }
