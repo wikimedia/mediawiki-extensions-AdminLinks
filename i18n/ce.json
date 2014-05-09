@@ -6,7 +6,7 @@
 		]
 	},
 	"adminlinks": "Хьажоргаш куьйгалхошна",
-	"adminlinks-desc": "ТӀе туху [[Special:AdminLinks|белхан агӀо]], йолуш пайде хьажорагаш куьйгалхошна",
+	"adminlinks-desc": "ТӀе туху [[Special:AdminLinks|белхан агӀо]], йолуш пайде хьажоргаш куьйгалхошна",
 	"adminlinks_documentation": "хааманбаххаш $1",
 	"adminlinks_general": "Еригге",
 	"adminlinks_editsidebar": "Нисъе агӀон тӀийра чоь",
@@ -16,5 +16,5 @@
 	"adminlinks_createuser": "Кхолла дlавазвалар",
 	"adminlinks_browsesearch": "Гуш а лахар",
 	"adminlinks_importexport": "Чуйахар а арайахар",
-	"right-adminlinks": "гарна [[Special:AdminLinks|хьажорагаш куьйгалхошна]]"
+	"right-adminlinks": "гарна [[Special:AdminLinks|хьажоргаш куьйгалхошна]]"
 }
