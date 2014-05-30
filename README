@@ -1,6 +1,6 @@
 Admin Links extension
 
-        Version 0.1.8
+        Version 0.2
         Yaron Koren
 
 This is free software licensed under the GNU General Public License. Please
@@ -13,8 +13,8 @@ Admin Links is an extension to MediaWiki that provides a new special page
 meant to hold links that are useful to an administrator; it attempts to
 function as a "control panel" for the actions that a wiki administrator
 typically has to perform. Any user can access this page, but for
-administrators a new link to this page is placed within their "navigation
-links" (between "my talk" and "my preferences").
+administrators a new link to this page is placed within their "personal
+URLs" (between "Talk" and "Preferences").
 
 Admin Links provides an API that other extensions can call in order to
 add their own sections and links to the page; links can be to both special
