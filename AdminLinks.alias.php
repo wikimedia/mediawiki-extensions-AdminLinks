@@ -254,6 +254,11 @@ $specialPageAliases['tr'] = array(
 	'AdminLinks' => array( 'HizmetliBağları', 'HizmetliBağlantıları' ),
 );
 
+/** Ukrainian (українська) */
+$specialPageAliases['uk'] = array(
+	'AdminLinks' => array( 'Адмінпосилання' ),
+);
+
 /** Urdu (اردو) */
 $specialPageAliases['ur'] = array(
 	'AdminLinks' => array( 'انتظامی_روابط' ),
