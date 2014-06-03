@@ -3,7 +3,8 @@
 		"authors": [
 			"Ferrer",
 			"Ilnur efende",
-			"Александр Сигачёв"
+			"Александр Сигачёв",
+			"NBS"
 		]
 	},
 	"adminlinks": "Ссылки для администраторов",
@@ -17,5 +18,5 @@
 	"adminlinks_createuser": "Создать учётную запись",
 	"adminlinks_browsesearch": "Обзор и поиск",
 	"adminlinks_importexport": "Импорт и экспорт",
-	"right-adminlinks": "видеть [[Special:AdminLinks|ссылки для администраторов]]"
+	"right-adminlinks": "доступ к странице [[Special:AdminLinks|ссылки для администраторов]]"
 }
