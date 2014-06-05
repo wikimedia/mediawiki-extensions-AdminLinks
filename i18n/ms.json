@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Anakmalaysia",
-			"Zamwan"
+			"Zamwan",
+			"Pizza1016"
 		]
 	},
 	"adminlinks": "Pautan pentadbir",
 	"adminlinks-desc": "Menambahkan [[Special:AdminLinks|laman khas]] yang menyimpan pautan-pautan yang berguna untuk pentadbir",
-	"adminlinks_documentation": "Dokumentasi $1",
+	"adminlinks_documentation": "Pendokumenan $1",
 	"adminlinks_general": "Umum",
 	"adminlinks_editsidebar": "Sunting bar sisi",
 	"adminlinks_editcss": "Sunting fail CSS",
