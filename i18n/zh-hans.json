@@ -3,11 +3,12 @@
 		"authors": [
 			"Franklsf95",
 			"Xiaomingyan",
-			"Yfdyh000"
+			"Yfdyh000",
+			"Liuxinyu970226"
 		]
 	},
 	"adminlinks": "管理链接",
-	"adminlinks-desc": "添加一个[[Special:AdminLinks|特殊页面]]为管理员提供有用的链接",
+	"adminlinks-desc": "为管理员添加一个包含有用连接的[[Special:AdminLinks|特殊页面]]",
 	"adminlinks_documentation": "$1说明文件",
 	"adminlinks_general": "常规",
 	"adminlinks_editsidebar": "编辑侧边栏",
