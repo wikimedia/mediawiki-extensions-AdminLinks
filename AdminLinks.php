@@ -8,27 +8,28 @@
 if ( !defined( 'MEDIAWIKI' ) ) die();
 
 // credits
-$wgExtensionCredits['specialpage'][] = array(
+$GLOBALS['wgExtensionCredits']['specialpage'][] = array(
 	'path' => __FILE__,
 	'name' => 'Admin Links',
-	'version' => '0.2.1',
+	'version' => '0.3.0',
 	'author' => 'Yaron Koren',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Admin_Links',
 	'descriptionmsg' => 'adminlinks-desc',
 );
 
-$wgAdminLinksIP = __DIR__ . '/';
-$wgMessagesDirs['AdminLinks'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['AdminLinks'] = $wgAdminLinksIP . 'AdminLinks.i18n.php';
-$wgExtensionMessagesFiles['AdminLinksAlias'] = $wgAdminLinksIP . 'AdminLinks.alias.php';
-$wgSpecialPages['AdminLinks'] = 'AdminLinks';
-$wgHooks['PersonalUrls'][] = 'AdminLinks::addURLToUserLinks';
-$wgAvailableRights[] = 'adminlinks';
+$GLOBALS['wgAdminLinksIP'] = __DIR__ . '/';
+$GLOBALS['wgMessagesDirs']['AdminLinks'] = __DIR__ . '/i18n';
+$GLOBALS['wgExtensionMessagesFiles']['AdminLinks'] = $GLOBALS['wgAdminLinksIP'] . 'AdminLinks.i18n.php';
+$GLOBALS['wgExtensionMessagesFiles']['AdminLinksAlias'] = $GLOBALS['wgAdminLinksIP'] . 'AdminLinks.alias.php';
+$GLOBALS['wgSpecialPages']['AdminLinks'] = 'AdminLinks';
+$GLOBALS['wgSpecialPageGroups']['AdminLinks'] = 'users';
+$GLOBALS['wgHooks']['PersonalUrls'][] = 'AdminLinks::addURLToUserLinks';
+$GLOBALS['wgAvailableRights'][] = 'adminlinks';
 // by default, sysops see the link to this page
-$wgGroupPermissions['sysop']['adminlinks'] = true;
-$wgAutoloadClasses['AdminLinks']
-	= $wgAutoloadClasses['ALTree']
-	= $wgAutoloadClasses['ALSection']
-	= $wgAutoloadClasses['ALRow']
-	= $wgAutoloadClasses['ALItem']
-	= $wgAdminLinksIP . 'AdminLinks_body.php';
+$GLOBALS['wgGroupPermissions']['sysop']['adminlinks'] = true;
+$GLOBALS['wgAutoloadClasses']['AdminLinks']
+	= $GLOBALS['wgAutoloadClasses']['ALTree']
+	= $GLOBALS['wgAutoloadClasses']['ALSection']
+	= $GLOBALS['wgAutoloadClasses']['ALRow']
+	= $GLOBALS['wgAutoloadClasses']['ALItem']
+	= $GLOBALS['wgAdminLinksIP'] . 'AdminLinks_body.php';

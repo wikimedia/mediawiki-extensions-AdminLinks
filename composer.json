@@ -1,0 +1,25 @@
+{
+	"name": "mediawiki/admin-links",
+	"type": "mediawiki-extension",
+	"description": "A MediaWiki special page holding special convenience links for sysops",
+	"keywords": [
+		"MediaWiki"
+	],
+	"homepage": "https://www.mediawiki.org/wiki/Extension:AdminLinks",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Yaron Koren",
+			"role": "Author"
+		}
+	],
+	"support": {
+		"issues": "https://bugzilla.wikimedia.org/"
+	},
+	"require": {
+		"composer/installers": ">=1.0.1"
+	},
+	"autoload": {
+		"files": ["AdminLinks.php"]
+	}
+}
