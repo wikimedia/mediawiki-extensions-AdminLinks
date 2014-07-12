@@ -99,6 +99,11 @@ $specialPageAliases['haw'] = array(
 	'AdminLinks' => array( 'LoulouKahu' ),
 );
 
+/** Hebrew (עברית) */
+$specialPageAliases['he'] = array(
+	'AdminLinks' => array( 'קישורי_מפעיל' ),
+);
+
 /** Upper Sorbian (hornjoserbsce) */
 $specialPageAliases['hsb'] = array(
 	'AdminLinks' => array( 'Administratorowe_wotkazy' ),
