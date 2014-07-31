@@ -286,5 +286,5 @@ $specialPageAliases['zh-hans'] = array(
 
 /** Traditional Chinese (中文（繁體）‎) */
 $specialPageAliases['zh-hant'] = array(
-	'AdminLinks' => array( '管理員鏈接' ),
+	'AdminLinks' => array( '管理員連結' ),
 );
