@@ -6,7 +6,7 @@
 			"Pizza1016"
 		]
 	},
-	"adminlinks": "Pautan pentadbir",
+	"adminlinks": "Pautan penyelia",
 	"adminlinks-desc": "Menambahkan [[Special:AdminLinks|laman khas]] yang menyimpan pautan-pautan yang berguna untuk pentadbir",
 	"adminlinks_documentation": "Pendokumenan $1",
 	"adminlinks_general": "Umum",
@@ -17,5 +17,5 @@
 	"adminlinks_createuser": "Cipta pengguna",
 	"adminlinks_browsesearch": "Layari dan cari",
 	"adminlinks_importexport": "Import dan eksport",
-	"right-adminlinks": "Melihat pautan ke [[Special:AdminLinks|Pautan pentadbir]]"
+	"right-adminlinks": "Melihat pautan ke [[Special:AdminLinks|pautan penyelia]]"
 }
