@@ -125,7 +125,7 @@ class AdminLinks extends SpecialPage {
  * page
  */
 class ALTree {
-	var $sections;
+	public $sections;
 
 	function __construct() {
 		$this->sections = array();
@@ -167,8 +167,8 @@ class ALTree {
  * A single section of the Admin Links 'tree', composed of a header and rows
  */
 class ALSection {
-	var $header;
-	var $rows;
+	public $header;
+	public $rows;
 
 	function __construct( $header ) {
 		$this->header = $header;
@@ -212,8 +212,8 @@ class ALSection {
  * for organizing the rows), and a set of "items" (links)
  */
 class ALRow {
-	var $name;
-	var $items;
+	public $name;
+	public $items;
 
 	function __construct( $name ) {
 		$this->name = $name;
@@ -251,8 +251,8 @@ class ALRow {
  * is not displayed and is only used for organizational purposes.
  */
 class ALItem {
-	var $text;
-	var $label;
+	public $text;
+	public $label;
 
 	static function newFromPage( $page_name_or_title, $desc = null, $query = array() ) {
 		$item = new ALItem();
