@@ -7,7 +7,7 @@
 		]
 	},
 	"adminlinks": "Pautan penyelia",
-	"adminlinks-desc": "Menambahkan [[Special:AdminLinks|laman khas]] yang menyimpan pautan-pautan yang berguna untuk pentadbir",
+	"adminlinks-desc": "Menambahkan sebuah [[Special:AdminLinks|laman khas]] yang menyediakan pautan-pautan yang berguna kepada penyelia",
 	"adminlinks_documentation": "Pendokumenan $1",
 	"adminlinks_general": "Umum",
 	"adminlinks_editsidebar": "Sunting bar sisi",
