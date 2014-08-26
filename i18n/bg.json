@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"DCLXVI",
-			"Stanqo"
+			"Stanqo",
+			"StanProg"
 		]
 	},
-	"adminlinks": "административни препратки",
+	"adminlinks": "Административни препратки",
 	"adminlinks-desc": "Добавя [[Special:AdminLinks|специална страница]], която съдържа полезни препратки за администраторите",
 	"adminlinks_documentation": "$1 документация",
 	"adminlinks_general": "Основни",
