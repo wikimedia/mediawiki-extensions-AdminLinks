@@ -166,7 +166,7 @@ $specialPageAliases['lb'] = array(
 
 /** Malagasy (Malagasy) */
 $specialPageAliases['mg'] = array(
-	'AdminLinks' => array( 'Rohim-pandrindra' ),
+	'AdminLinks' => array( 'Rohim-pandrindra', 'Rohimpandrindra' ),
 );
 
 /** Minangkabau (Baso Minangkabau) */
