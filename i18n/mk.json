@@ -5,7 +5,7 @@
 		]
 	},
 	"adminlinks": "администраторски врски",
-	"adminlinks-desc": "Додава [[Special:AdminLinks|специјална страница]] која содржи корисни врски за администратори.",
+	"adminlinks-desc": "Додава [[Special:AdminLinks|службена страница]] која содржи корисни врски за администратори.",
 	"adminlinks_documentation": "Документација за $1",
 	"adminlinks_general": "Општо",
 	"adminlinks_editsidebar": "Уреди странична лента",
