@@ -109,7 +109,7 @@ $specialPageAliases['hsb'] = array(
 	'AdminLinks' => array( 'Administratorowe_wotkazy' ),
 );
 
-/** 湘语 (湘语) */
+/** Xiang Chinese (湘语) */
 $specialPageAliases['hsn'] = array(
 	'AdminLinks' => array( '管理链接' ),
 );
