@@ -7,7 +7,7 @@
 	},
 	"adminlinks": "Хьажоргаш куьйгалхошна",
 	"adminlinks-desc": "ТӀе туху [[Special:AdminLinks|белхан агӀо]], йолуш пайде хьажоргаш куьйгалхошна",
-	"adminlinks_documentation": "хааманбаххаш $1",
+	"adminlinks_documentation": "документаци $1",
 	"adminlinks_general": "Еригге",
 	"adminlinks_editsidebar": "Нисъе агӀон тӀийра чоь",
 	"adminlinks_editcss": "Нисъе CSS файл",
