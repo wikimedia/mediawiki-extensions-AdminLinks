@@ -1,10 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chrisportelli"
+			"Chrisportelli",
+			"Leli Forte"
 		]
 	},
 	"adminlinks_general": "Ġenerali",
+	"adminlinks_editmainpagename": "Immodifika l-isem tal-paġna prinċipali",
+	"adminlinks_users": "Utenti",
 	"adminlinks_createuser": "Oħloq kont",
 	"adminlinks_browsesearch": "Esplora u fittex",
 	"adminlinks_importexport": "Importa u esporta",
