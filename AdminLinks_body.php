@@ -28,8 +28,14 @@ class AdminLinks extends SpecialPage {
 			'Sidebar',
 			$this->msg( 'adminlinks_editsidebar' )->text()
 		) );
-		$main_row->addItem( ALItem::newFromEditLink( 'Common.css', $this->msg( 'adminlinks_editcss' ) ) );
-		$main_row->addItem( ALItem::newFromEditLink( 'Mainpage', $this->msg( 'adminlinks_editmainpagename' ) ) );
+		$main_row->addItem( ALItem::newFromEditLink(
+			'Common.css',
+			$this->msg( 'adminlinks_editcss' )->text()
+		) );
+		$main_row->addItem( ALItem::newFromEditLink(
+			'Mainpage',
+			$this->msg( 'adminlinks_editmainpagename' )->text()
+		) );
 		$general_section->addRow( $main_row );
 		$tree->addSection( $general_section );
 
@@ -199,7 +205,8 @@ class ALSection {
 	}
 
 	function toString() {
-		$text = '	<h2 class="mw-specialpagesgroup">' . $this->header . "</h2>\n";
+		$text = '	<h2 class="mw-specialpagesgroup">' .
+			htmlspecialchars( $this->header ) . "</h2>\n";
 		foreach ( $this->rows as $row ) {
 			$text .= $row->toString();
 		}
@@ -262,7 +269,8 @@ class ALItem {
 		} else {
 			$title = Title::newFromText( $page_name_or_title );
 		}
-		$item->text = Linker::linkKnown( $title, $desc, array(), $query );
+		$item->text = Linker::linkKnown( $title, htmlspecialchars( $desc ),
+			array(), $query );
 		return $item;
 	}
 
@@ -270,7 +278,8 @@ class ALItem {
 		$item = new ALItem();
 		$item->label = $page_name;
 		$page = SpecialPageFactory::getPage( $page_name );
-		$item->text = Linker::linkKnown( $page->getTitle(), $page->getDescription() );
+		$item->text = Linker::linkKnown( $page->getTitle(),
+			htmlspecialchars( $page->getDescription() ) );
 		return $item;
 	}
 
@@ -279,14 +288,15 @@ class ALItem {
 		$item->label = $page_name;
 		$title = Title::makeTitleSafe( NS_MEDIAWIKI, $page_name );
 		$edit_link = $title->getFullURL( 'action=edit' );
-		$item->text = "<a href=\"$edit_link\">$desc</a>";
+		$item->text = "<a href=\"$edit_link\">" . htmlspecialchars( $desc ) . "</a>";
 		return $item;
 	}
 
 	static function newFromExternalLink( $url, $label ) {
 		$item = new ALItem();
 		$item->label = $label;
-		$item->text = "<a class=\"external text\" rel=\"nofollow\" href=\"$url\">$label</a>";
+		$item->text = "<a class=\"external text\" rel=\"nofollow\" href=\"" .
+			Sanitizer::encodeAttribute( $url ) . "\">" . htmlspecialchars( $label ) . "</a>";
 		return $item;
 	}
 }
