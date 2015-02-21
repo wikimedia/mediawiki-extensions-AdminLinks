@@ -94,6 +94,11 @@ $specialPageAliases['gsw'] = array(
 	'AdminLinks' => array( 'Ammane-Links' ),
 );
 
+/** Gujarati (ગુજરાતી) */
+$specialPageAliases['gu'] = array(
+	'AdminLinks' => array( 'પ્રબંધકડીઓ' ),
+);
+
 /** Hawaiian (Hawai`i) */
 $specialPageAliases['haw'] = array(
 	'AdminLinks' => array( 'LoulouKahu' ),
