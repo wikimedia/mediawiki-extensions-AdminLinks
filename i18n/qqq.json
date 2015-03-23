@@ -10,7 +10,7 @@
 		]
 	},
 	"adminlinks": "{{doc-special|AdminLinks}}",
-	"adminlinks-desc": "{{desc|name=Admin Links|url=http://www.mediawiki.org/wiki/Extension:Admin_Links}}",
+	"adminlinks-desc": "{{desc|name=Admin Links|url=https://www.mediawiki.org/wiki/Extension:Admin_Links}}",
 	"adminlinks_documentation": "Unused at this time.\n\nThe label for a link to documentation for a certain extension. Parameters:\n* $1 - extension name\n{{Identical|Documentation}}",
 	"adminlinks_general": "Section name for general links for administrators.\n{{Identical|General}}",
 	"adminlinks_editsidebar": "Link description that will lead to the page where the site's sidebar can be edited.",
