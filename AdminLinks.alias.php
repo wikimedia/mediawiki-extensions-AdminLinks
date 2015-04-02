@@ -169,6 +169,11 @@ $specialPageAliases['lb'] = array(
 	'AdminLinks' => array( 'Linke_fir_Administrateuren' ),
 );
 
+/** لوری (لوری) */
+$specialPageAliases['lrc'] = array(
+	'AdminLinks' => array( 'هوم_پیوندیا_دیوونیار' ),
+);
+
 /** Malagasy (Malagasy) */
 $specialPageAliases['mg'] = array(
 	'AdminLinks' => array( 'Rohim-pandrindra', 'Rohimpandrindra' ),
