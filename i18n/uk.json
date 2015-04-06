@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"NickK",
-			"Prima klasy4na"
+			"Prima klasy4na",
+			"Ahonc"
 		]
 	},
 	"adminlinks": "Посилання для адміністраторів",
@@ -16,5 +17,5 @@
 	"adminlinks_createuser": "Створити обліковий запис",
 	"adminlinks_browsesearch": "Перегляд і пошук",
 	"adminlinks_importexport": "Імпорт та експорт",
-	"right-adminlinks": "Бачити [[Special:AdminLinks|посилання для адміністраторів]]"
+	"right-adminlinks": "перегляд [[Special:AdminLinks|посилань для адміністраторів]]"
 }

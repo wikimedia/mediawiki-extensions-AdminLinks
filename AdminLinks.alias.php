@@ -34,6 +34,11 @@ $specialPageAliases['as'] = array(
 	'AdminLinks' => array( 'প্ৰশাসনিক_সংযোগ' ),
 );
 
+/** Western Balochi (بلوچی رخشانی) */
+$specialPageAliases['bgn'] = array(
+	'AdminLinks' => array( 'مدیر_ئی_لینکان' ),
+);
+
 /** Banjar (Bahasa Banjar) */
 $specialPageAliases['bjn'] = array(
 	'AdminLinks' => array( 'Tautan_admin' ),
