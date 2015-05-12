@@ -24,7 +24,7 @@ $specialPageAliases['ar'] = array(
 	'AdminLinks' => array( 'وصلات_الإدارة' ),
 );
 
-/** Egyptian Spoken Arabic (مصرى) */
+/** Egyptian Arabic (مصرى) */
 $specialPageAliases['arz'] = array(
 	'AdminLinks' => array( 'لينكات_الاداره' ),
 );
@@ -174,7 +174,7 @@ $specialPageAliases['lb'] = array(
 	'AdminLinks' => array( 'Linke_fir_Administrateuren' ),
 );
 
-/** لوری (لوری) */
+/** لوری مینجایی (لوری مینجایی) */
 $specialPageAliases['lrc'] = array(
 	'AdminLinks' => array( 'هوم_پیوندیا_دیوونیار' ),
 );
