@@ -174,7 +174,7 @@ $specialPageAliases['lb'] = array(
 	'AdminLinks' => array( 'Linke_fir_Administrateuren' ),
 );
 
-/** Northern Luri (لوری مینجایی) */
+/** Northern Luri (لۊری شومالی) */
 $specialPageAliases['lrc'] = array(
 	'AdminLinks' => array( 'ھوم_پئیڤأندیا_دیڤوٙنیار' ),
 );
