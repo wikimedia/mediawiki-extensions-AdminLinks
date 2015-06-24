@@ -22,7 +22,6 @@ $GLOBALS['wgMessagesDirs']['AdminLinks'] = __DIR__ . '/i18n';
 $GLOBALS['wgExtensionMessagesFiles']['AdminLinks'] = $GLOBALS['wgAdminLinksIP'] . 'AdminLinks.i18n.php';
 $GLOBALS['wgExtensionMessagesFiles']['AdminLinksAlias'] = $GLOBALS['wgAdminLinksIP'] . 'AdminLinks.alias.php';
 $GLOBALS['wgSpecialPages']['AdminLinks'] = 'AdminLinks';
-$GLOBALS['wgSpecialPageGroups']['AdminLinks'] = 'users';
 $GLOBALS['wgHooks']['PersonalUrls'][] = 'AdminLinks::addURLToUserLinks';
 $GLOBALS['wgAvailableRights'][] = 'adminlinks';
 // by default, sysops see the link to this page
