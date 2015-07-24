@@ -1,8 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Aushulz"
+			"Aushulz",
+			"Pippinu"
 		]
 	},
-	"adminlinks_users": "Utenti"
+	"adminlinks": "Liami pi’ l’amministratura",
+	"adminlinks-desc": "Agghiunci nâ [[Special:AdminLinks|pàggina spiciali]] chi’ havi liami ùtili pi’ l’amministratura",
+	"adminlinks_documentation": "Ducumintazzioni di $1",
+	"adminlinks_general": "Ginirali",
+	"adminlinks_editsidebar": "Cancia la sbarra latirali",
+	"adminlinks_editcss": "Cancia lu file CSS",
+	"adminlinks_editmainpagename": "Cancia lu nomu dâ pàggina mastra",
+	"adminlinks_users": "Utenti",
+	"adminlinks_createuser": "Crìa n’utenti",
+	"adminlinks_browsesearch": "Esplurazzioni e risciduta",
+	"adminlinks_importexport": "Impurtazzioni ed espurtazzioni",
+	"right-adminlinks": "Vìdiri la liami versu [[Special:AdminLinks|li liami pi’ l’amministratura]]"
 }
