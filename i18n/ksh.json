@@ -5,7 +5,7 @@
 		]
 	},
 	"adminlinks": "Lengks för Wiki-Köbesse",
-	"adminlinks-desc": "Deiht en [[Special:AdminLinks|Söndersigg]] en et Wiki met extra Lengks för Wiki-Köbesse.",
+	"adminlinks-desc": "Deiht en [[Special:AdminLinks|{{int:specialpage}}]] en et Wiki met äxtra Lengks för Wikki-Köhbeße.",
 	"adminlinks_documentation": "De Dokkemäntazjuhn vum $1",
 	"adminlinks_general": "Alljemein",
 	"adminlinks_editsidebar": "<code lang=\"en\">sidebar</code> Ändere",
