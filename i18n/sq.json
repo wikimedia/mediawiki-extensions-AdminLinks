@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ammartivari"
+		]
+	},
+	"adminlinks_documentation": "Dokumentacioni $1",
+	"adminlinks_general": "Të përgjithshme",
+	"adminlinks_editcss": "Redakto skedën CSS",
+	"adminlinks_users": "Përdoruesit",
+	"adminlinks_createuser": "Krijo një përdorues",
+	"adminlinks_importexport": "Importi dhe eksporti"
+}
