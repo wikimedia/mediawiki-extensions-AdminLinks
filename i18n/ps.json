@@ -5,6 +5,7 @@
 		]
 	},
 	"adminlinks": "د پازوال تړنې",
+	"adminlinks-desc": "يو [[Special:AdminLinks|ځانگړی مخ]] ورگډوي چې د پازوالانو لپاره گټورې تړنې لري",
 	"adminlinks_documentation": "$1 لاسوند",
 	"adminlinks_general": "ټولگړی",
 	"adminlinks_editsidebar": "څنګپټه سمول",
