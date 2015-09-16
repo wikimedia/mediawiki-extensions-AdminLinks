@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Papuass"
+			"Papuass",
+			"Edgars2007"
 		]
 	},
 	"adminlinks": "Administrācijas saites",
@@ -11,7 +12,7 @@
 	"adminlinks_editsidebar": "Labot sānjoslu",
 	"adminlinks_editcss": "Labot CSS failu",
 	"adminlinks_editmainpagename": "Labot galvenās lapas nosaukumu",
-	"adminlinks_users": "Lietotāji",
+	"adminlinks_users": "Dalībnieki",
 	"adminlinks_createuser": "Izveidot lietotāju",
 	"adminlinks_browsesearch": "Pārlūkot un meklēt",
 	"adminlinks_importexport": "Imports un eksports",
