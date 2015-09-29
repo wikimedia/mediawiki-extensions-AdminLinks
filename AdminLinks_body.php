@@ -118,7 +118,8 @@ class AdminLinks extends SpecialPage {
 			array_splice( $tab_values, $prefs_location, 0, array( $admin_links_vals ) );
 
 			$personal_urls = array();
-			for ( $i = 0; $i < count( $tab_keys ); $i++ ) {
+			$tabKeysCount = count( $tab_keys );
+			for ( $i = 0; $i < $tabKeysCount; $i++ ) {
 				$personal_urls[$tab_keys[$i]] = $tab_values[$i];
 			}
 		}
