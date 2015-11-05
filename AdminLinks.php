@@ -5,7 +5,9 @@
  * @author Yaron Koren
  */
 
-if ( !defined( 'MEDIAWIKI' ) ) die();
+if ( !defined( 'MEDIAWIKI' ) ) {
+	die();
+}
 
 // credits
 $GLOBALS['wgExtensionCredits']['specialpage'][] = array(
