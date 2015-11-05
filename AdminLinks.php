@@ -19,8 +19,6 @@ $GLOBALS['wgExtensionCredits']['specialpage'][] = array(
 
 $GLOBALS['wgAdminLinksIP'] = __DIR__ . '/';
 $GLOBALS['wgMessagesDirs']['AdminLinks'] = __DIR__ . '/i18n';
-$GLOBALS['wgExtensionMessagesFiles']['AdminLinks'] =
-	$GLOBALS['wgAdminLinksIP'] . 'AdminLinks.i18n.php';
 $GLOBALS['wgExtensionMessagesFiles']['AdminLinksAlias'] =
 	$GLOBALS['wgAdminLinksIP'] . 'AdminLinks.alias.php';
 $GLOBALS['wgSpecialPages']['AdminLinks'] = 'AdminLinks';
