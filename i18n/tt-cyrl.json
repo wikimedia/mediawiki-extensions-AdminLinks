@@ -1,10 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Рашат Якупов"
+			"Рашат Якупов",
+			"Ильнар"
 		]
 	},
 	"adminlinks": "Идарәчеләр өчен сылтамалар",
+	"adminlinks-desc": "Идарәчеләр өчен кирәкле булган [[Special:AdminLinks|махсус биткә]] сылтама өсти",
+	"adminlinks_documentation": "$1 өчен документация",
+	"adminlinks_general": "Гомуми",
+	"adminlinks_editsidebar": "Ян өлгене төзәтү",
+	"adminlinks_editcss": "CSS файлны төзәтү",
+	"adminlinks_editmainpagename": "Баш битнең исемен төзәтү",
 	"adminlinks_users": "Катнашучылар",
-	"adminlinks_createuser": "Катнашучы хисабын төзү"
+	"adminlinks_createuser": "Катнашучы хисабын төзү",
+	"adminlinks_browsesearch": "Карау һәм эзләү",
+	"adminlinks_importexport": "Импорт һәм экспорт",
+	"right-adminlinks": "[[Special:AdminLinks|Идарәчеләр өчен сылтамаларны]] карау"
 }
