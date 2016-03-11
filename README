@@ -4,7 +4,7 @@ Admin Links extension
         Yaron Koren
 
 This is free software licensed under the GNU General Public License. Please
-see http://www.gnu.org/copyleft/gpl.html for further details, including the
+see https://www.gnu.org/copyleft/gpl.html for further details, including the
 full text and terms of the license.
 
 == Overview ==
@@ -21,7 +21,7 @@ add their own sections and links to the page; links can be to both special
 pages and outside documentation URLs, among others.
 
 For more information, see the extension homepage at:
-http://www.mediawiki.org/wiki/Extension:Admin_Links
+https://www.mediawiki.org/wiki/Extension:Admin_Links
 
 == Requirements ==
 

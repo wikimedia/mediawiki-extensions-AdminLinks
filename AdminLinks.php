@@ -17,6 +17,7 @@ $GLOBALS['wgExtensionCredits']['specialpage'][] = array(
 	'author' => 'Yaron Koren',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Admin_Links',
 	'descriptionmsg' => 'adminlinks-desc',
+	'license-name' => 'GPL-2.0+'
 );
 
 $GLOBALS['wgAdminLinksIP'] = __DIR__ . '/';
