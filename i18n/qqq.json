@@ -20,5 +20,6 @@
 	"adminlinks_createuser": "Link description that will lead to the page where a user can be created.\n{{Identical|Create user}}",
 	"adminlinks_browsesearch": "Section name for links for administrators related to browsing and searching.",
 	"adminlinks_importexport": "Section name for links for administrators related to import and export of pages and data.",
+	"adminlinks_pagenotfound": "Error message when $1 is not a special page object. Parameters: \n* $1 - special page",
 	"right-adminlinks": "{{doc-right|adminlinks}}"
 }

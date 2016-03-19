@@ -281,11 +281,17 @@ class ALItem {
 	}
 
 	static function newFromSpecialPage( $page_name ) {
+		global $wgOut;
 		$item = new ALItem();
 		$item->label = $page_name;
 		$page = SpecialPageFactory::getPage( $page_name );
-		$item->text = Linker::linkKnown( $page->getTitle(),
-			htmlspecialchars( $page->getDescription() ) );
+		if ( $page ) {
+			$item->text = Linker::linkKnown( $page->getTitle(),
+				htmlspecialchars( $page->getDescription() ) );
+		} else {
+			$wgOut->addHTML( "<span class=\"error\">" .
+			    wfMessage( 'adminlinks_pagenotfound', $page_name )->escaped() . "<br></span>" );
+		}
 		return $item;
 	}
 
