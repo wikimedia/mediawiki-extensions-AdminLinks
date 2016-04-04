@@ -18,5 +18,6 @@
 	"adminlinks_createuser": "创建用户",
 	"adminlinks_browsesearch": "浏览与搜索",
 	"adminlinks_importexport": "导入和导出",
+	"adminlinks_pagenotfound": "查找此名称的特殊页面失败：$1。",
 	"right-adminlinks": "查看[[Special:AdminLinks|管理链接]]"
 }

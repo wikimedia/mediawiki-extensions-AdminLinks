@@ -17,5 +17,6 @@
 	"adminlinks_createuser": "Crea un utente",
 	"adminlinks_browsesearch": "Visualizza e ricerca",
 	"adminlinks_importexport": "Importa ed esporta",
+	"adminlinks_pagenotfound": "Impossibile trovare la pagina speciale con nome: $1.",
 	"right-adminlinks": "Visualizza il collegamento al [[Special:AdminLinks|Pannello amministrazione]]"
 }
