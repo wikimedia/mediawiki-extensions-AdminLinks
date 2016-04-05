@@ -3,7 +3,8 @@
 		"authors": [
 			"NickK",
 			"Prima klasy4na",
-			"Ahonc"
+			"Ahonc",
+			"Piramidion"
 		]
 	},
 	"adminlinks": "Посилання для адміністраторів",
@@ -17,5 +18,6 @@
 	"adminlinks_createuser": "Створити обліковий запис",
 	"adminlinks_browsesearch": "Перегляд і пошук",
 	"adminlinks_importexport": "Імпорт та експорт",
+	"adminlinks_pagenotfound": "Не вдалося знайти спеціальну сторінку з назвою: $1.",
 	"right-adminlinks": "перегляд [[Special:AdminLinks|посилань для адміністраторів]]"
 }

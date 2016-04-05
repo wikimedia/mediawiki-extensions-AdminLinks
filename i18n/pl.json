@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sp5uhe"
+			"Sp5uhe",
+			"Chrumps"
 		]
 	},
 	"adminlinks": "Linki dla administratorów",
@@ -15,5 +16,6 @@
 	"adminlinks_createuser": "Utwórz użytkownika",
 	"adminlinks_browsesearch": "Przeglądanie i wyszukiwanie",
 	"adminlinks_importexport": "Importowanie i eksportowanie",
+	"adminlinks_pagenotfound": "Nie udało się znaleźć strony specjalnej o nazwie: $1.",
 	"right-adminlinks": "Podgląd zawartości strony [[Special:AdminLinks|Linki dla administratorów]]"
 }
