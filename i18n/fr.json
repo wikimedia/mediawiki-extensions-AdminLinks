@@ -3,7 +3,8 @@
 		"authors": [
 			"IAlex",
 			"Urhixidur",
-			"Wladek92"
+			"Wladek92",
+			"Verdy p"
 		]
 	},
 	"adminlinks": "Liens d’administration",
@@ -17,6 +18,6 @@
 	"adminlinks_createuser": "Créer un utilisateur",
 	"adminlinks_browsesearch": "Navigation et recherche",
 	"adminlinks_importexport": "Importer et exporter",
-	"adminlinks_pagenotfound": "Echec pour trouver une page spéciale avec le nom : $1.",
+	"adminlinks_pagenotfound": "Impossible de trouver une page spéciale avec le nom : $1.",
 	"right-adminlinks": "Voir le lien vers les [[Special:AdminLinks|Liens d’administration]]"
 }
