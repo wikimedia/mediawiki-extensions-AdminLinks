@@ -15,5 +15,6 @@
 	"adminlinks_createuser": "Crear un usuariu",
 	"adminlinks_browsesearch": "Navegación y gueta",
 	"adminlinks_importexport": "Importación y esportación",
+	"adminlinks_pagenotfound": "Nun pudo alcontrase la páxina especial col nome: $1.",
 	"right-adminlinks": "Ver l'enllaz a [[Special:AdminLinks|enllaces d'alministrador]]"
 }
