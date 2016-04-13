@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Rotemliss",
-			"YaronSh"
+			"YaronSh",
+			"Guycn2"
 		]
 	},
 	"adminlinks": "קישורים למפעילי מערכת",
@@ -16,5 +17,6 @@
 	"adminlinks_createuser": "יצירת משתמש",
 	"adminlinks_browsesearch": "עיון וחיפוש",
 	"adminlinks_importexport": "ייבוא וייצוא",
+	"adminlinks_pagenotfound": "לא ניתן היה למצוא דף מיוחד בשם: $1.",
 	"right-adminlinks": "הצגת הקישור לדף [[Special:AdminLinks|קישורים למפעילי מערכת]]"
 }
