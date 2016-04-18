@@ -3,7 +3,8 @@
 		"authors": [
 			"Hamilton Abreu",
 			"Malafaya",
-			"Waldir"
+			"Waldir",
+			"Vitorvicentevalente"
 		]
 	},
 	"adminlinks": "Links para administradores",
@@ -17,5 +18,6 @@
 	"adminlinks_createuser": "Criar um utilizador",
 	"adminlinks_browsesearch": "Navegação e pesquisa",
 	"adminlinks_importexport": "Importação e exportação",
+	"adminlinks_pagenotfound": "Falha ao localizar a página especial $1.",
 	"right-adminlinks": "Ver o link para a página [[Special:AdminLinks|Links para administradores]]"
 }
