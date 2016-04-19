@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand"
+			"Siebrand",
+			"Jeleniccz"
 		]
 	},
 	"adminlinks": "Koppelingen voor beheerders",
@@ -15,5 +16,6 @@
 	"adminlinks_createuser": "Gebruiker aanmaken",
 	"adminlinks_browsesearch": "Bekijken en zoeken",
 	"adminlinks_importexport": "Importeren en exporteren",
+	"adminlinks_pagenotfound": "Geen speciale pagina met de naam: $1.",
 	"right-adminlinks": "De koppeling naar [[Special:AdminLinks|koppeling voor beheerders]] zien"
 }
