@@ -6,7 +6,8 @@
 			"Pxos",
 			"Str4nd",
 			"Varusmies",
-			"ZeiP"
+			"ZeiP",
+			"01miki10"
 		]
 	},
 	"adminlinks": "Ylläpidon linkit",
@@ -20,5 +21,6 @@
 	"adminlinks_createuser": "Luo uusi käyttäjä",
 	"adminlinks_browsesearch": "Selaaminen ja hakeminen",
 	"adminlinks_importexport": "Tuonti ja vienti",
+	"adminlinks_pagenotfound": "Toimintosivua nimellä $1 ei löydetty.",
 	"right-adminlinks": "Nähdä linkin sivulle [[Special:AdminLinks|ylläpitäjien linkit]]"
 }
