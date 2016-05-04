@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Chase me ladies, I'm the Cavalry"
+			"Chase me ladies, I'm the Cavalry",
+			"Andibing"
 		]
 	},
 	"adminlinks": "Admin links",
@@ -15,5 +16,6 @@
 	"adminlinks_createuser": "Create a user",
 	"adminlinks_browsesearch": "Browse and search",
 	"adminlinks_importexport": "Import and export",
+	"adminlinks_pagenotfound": "Failed to find special page with name: $1.",
 	"right-adminlinks": "See the link to [[Special:AdminLinks|Admin links]]"
 }
