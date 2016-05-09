@@ -14,6 +14,6 @@
 	"adminlinks_users": "Gebrukers",
 	"adminlinks_createuser": "Gebruker anmaken",
 	"adminlinks_browsesearch": "Bekieken en zeuken",
-	"adminlinks_importexport": "Invoeren en uutvoeren",
+	"adminlinks_importexport": "Importeren en exporteren",
 	"right-adminlinks": "De verwiezing naor [[Special:AdminLinks|verwiezingen veur beheerders]] zien"
 }
