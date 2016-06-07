@@ -1,6 +1,6 @@
 Admin Links extension
 
-        Version 0.2.2
+        Version 0.2.3
         Yaron Koren
 
 This is free software licensed under the GNU General Public License. Please
@@ -25,7 +25,7 @@ https://www.mediawiki.org/wiki/Extension:Admin_Links
 
 == Requirements ==
 
-This version of the Admin Links extension requires MediaWiki 1.18 or higher
+This version of the Admin Links extension requires MediaWiki 1.23 or higher
 and PHP 5.3.0 or later.
 
 == Installation ==
