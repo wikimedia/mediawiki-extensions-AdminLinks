@@ -6,12 +6,13 @@
 			"Fryed-peach",
 			"Purodha",
 			"Shirayuki",
-			"Umherirrender"
+			"Umherirrender",
+			"Kghbln"
 		]
 	},
 	"adminlinks": "{{doc-special|AdminLinks}}",
 	"adminlinks-desc": "{{desc|name=Admin Links|url=https://www.mediawiki.org/wiki/Extension:Admin_Links}}",
-	"adminlinks_documentation": "Unused at this time.\n\nThe label for a link to documentation for a certain extension. Parameters:\n* $1 - extension name\n{{Identical|Documentation}}",
+	"adminlinks_documentation": "The label of a link to the documentation for a certain extension. This message is not used by \"Admin Links\" itself but provided for usage by other extensions. Currently (June 2016) \"Semantic MediaWiki\", \"Semantic Forms\" and \"Semantic Drilldown\" are using this message.\n\nParameter:\n* $1 - extension name, thus the <code><nowiki>{{GRAMMAR:}}</nowiki></code> parser function may be used. If unsure an alternate approach may be to translate like \"Documentation for $1\".\n\n{{Identical|Documentation}}",
 	"adminlinks_general": "Section name for general links for administrators.\n{{Identical|General}}",
 	"adminlinks_editsidebar": "Link description that will lead to the page where the site's sidebar can be edited.",
 	"adminlinks_editcss": "Link description that will lead to the page where a CSS page can be edited.",
