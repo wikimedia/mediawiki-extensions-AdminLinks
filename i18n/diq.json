@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Erdemaslancan",
-			"Mirzali"
+			"Mirzali",
+			"Kumkumuk"
 		]
 	},
 	"adminlinks": "Grey admini",
@@ -16,5 +17,6 @@
 	"adminlinks_createuser": "Karber vırazê",
 	"adminlinks_browsesearch": "Geyrayin u cı geyrayış",
 	"adminlinks_importexport": "Zere u teber dayış",
+	"adminlinks_pagenotfound": "Xısusi pelaya ke şıma geyrenê cı nameyonxırabo :$1",
 	"right-adminlinks": "Şo ri [[Special:AdminLinks|Gran dê xizmetkaran]] bıvin"
 }
