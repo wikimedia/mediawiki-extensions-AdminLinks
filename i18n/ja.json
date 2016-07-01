@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Fryed-peach",
-			"Shirayuki"
+			"Shirayuki",
+			"Otokoume"
 		]
 	},
 	"adminlinks": "管理者用リンク集",
@@ -16,5 +17,6 @@
 	"adminlinks_createuser": "利用者を作成",
 	"adminlinks_browsesearch": "閲覧と検索",
 	"adminlinks_importexport": "取り込みと書き出し",
+	"adminlinks_pagenotfound": "指定した特別ページが見つかりませんでした: $1",
 	"right-adminlinks": "[[Special:AdminLinks|管理者用リンク集]]へのリンクが表示される"
 }

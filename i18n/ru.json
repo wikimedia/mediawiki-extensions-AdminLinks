@@ -6,7 +6,8 @@
 			"Александр Сигачёв",
 			"NBS",
 			"Гизатуллина",
-			"Ильнар"
+			"Ильнар",
+			"Mailman"
 		]
 	},
 	"adminlinks": "Ссылки для администраторов",
@@ -20,6 +21,6 @@
 	"adminlinks_createuser": "Создать учётную запись",
 	"adminlinks_browsesearch": "Обзор и поиск",
 	"adminlinks_importexport": "Импорт и экспорт",
-	"adminlinks_pagenotfound": "Не удалось найти специальную страницу с именем: $ 1.",
+	"adminlinks_pagenotfound": "Не удалось найти специальную страницу с именем: $1.",
 	"right-adminlinks": "доступ к странице [[Special:AdminLinks|ссылки для администраторов]]"
 }
