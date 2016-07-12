@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Papuass",
-			"Edgars2007"
+			"Edgars2007",
+			"Silraks"
 		]
 	},
 	"adminlinks": "Administrācijas saites",
@@ -16,5 +17,6 @@
 	"adminlinks_createuser": "Izveidot lietotāju",
 	"adminlinks_browsesearch": "Pārlūkot un meklēt",
 	"adminlinks_importexport": "Imports un eksports",
+	"adminlinks_pagenotfound": "Neizdevās atrast īpašo lapu ar nosaukumu: $1.",
 	"right-adminlinks": "Redzēt saiti uz [[Special:AdminLinks|Administrācijas saitēm]]"
 }
