@@ -15,5 +15,6 @@
 	"adminlinks_createuser": "Wužiwarja wutworić",
 	"adminlinks_browsesearch": "Přehladowanje a pytanje",
 	"adminlinks_importexport": "Importowanje a eksportowanje",
+	"adminlinks_pagenotfound": "Specialna strona z mjenom $1 njeda so namakać.",
 	"right-adminlinks": "Hlej wotkaz k [[Special:AdminLinks|wotkazam za administratorow]]"
 }
