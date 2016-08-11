@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Jagwar",
-			"Yekrats"
+			"Yekrats",
+			"Robin van der Vliet"
 		]
 	},
 	"adminlinks": "Ligiloj por administrantoj",
@@ -12,7 +13,7 @@
 	"adminlinks_editsidebar": "eldoni iltrabon",
 	"adminlinks_editcss": "eldoni dosieron CSS",
 	"adminlinks_editmainpagename": "Redakti nomon de ĉefpaĝo",
-	"adminlinks_users": "uzantoj",
+	"adminlinks_users": "Uzantoj",
 	"adminlinks_createuser": "krei uzanton",
 	"adminlinks_browsesearch": "Tralego kaj Serĉo",
 	"adminlinks_importexport": "Importi kaj Eksporti",
