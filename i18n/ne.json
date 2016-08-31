@@ -4,11 +4,12 @@
 			"Bhawani Gautam",
 			"Bhawani Gautam Rhk",
 			"सरोज कुमार ढकाल",
-			"बिप्लब आनन्द"
+			"बिप्लब आनन्द",
+			"राम प्रसाद जोशी"
 		]
 	},
-	"adminlinks": "प्रवन्धक लिङ्कहरु",
-	"adminlinks-desc": "एउटा [[Special:AdminLinks|विशेष पृष्ठ]] थप्छ जसले प्रबन्धककर्ताहरूको  लागि सहयोगी लिङ्कहरु समेटेको छ।",
+	"adminlinks": "प्रवन्धक लिङ्कहरू",
+	"adminlinks-desc": "एउटा [[Special:AdminLinks|विशेष पृष्ठ]] थप्छ जसले प्रबन्धकहरूको लागि सहयोगी लिङ्कहरू समेटेको छ ।",
 	"adminlinks_documentation": "$1 मिसिलिकरण",
 	"adminlinks_general": "साधारण",
 	"adminlinks_editsidebar": "साइडबार सम्पादन गर्ने",
