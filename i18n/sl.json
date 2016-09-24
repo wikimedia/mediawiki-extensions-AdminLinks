@@ -15,5 +15,6 @@
 	"adminlinks_createuser": "Ustvari uporabnika",
 	"adminlinks_browsesearch": "Brskanje in iskanje",
 	"adminlinks_importexport": "Uvoz in izvoz",
+	"adminlinks_pagenotfound": "Nismo uspeli najti posebne strani z imenom: $1.",
 	"right-adminlinks": "Ogled povezav na [[Special:AdminLinks|Skrbniških povezavah]]"
 }
