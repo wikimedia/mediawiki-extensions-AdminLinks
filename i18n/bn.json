@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Wikitanvir"
+			"Wikitanvir",
+			"Bodhisattwa"
 		]
 	},
 	"adminlinks": "প্রশাসকের সংযোগ",
@@ -15,5 +16,6 @@
 	"adminlinks_createuser": "ব্যবহারকারী সৃষ্টি",
 	"adminlinks_browsesearch": "ব্রাউজ ও অনুসন্ধান",
 	"adminlinks_importexport": "আমদানি ও রপ্তানি",
+	"adminlinks_pagenotfound": "$1 নামে বিশেষ পাতা খুঁজতে ব্যর্থ হয়েছে।",
 	"right-adminlinks": "সংযোগটি [[Special:AdminLinks|প্রশাসক লিংকে]] দেখুন"
 }
