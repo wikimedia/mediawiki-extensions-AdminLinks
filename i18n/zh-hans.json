@@ -9,7 +9,7 @@
 	},
 	"adminlinks": "管理链接",
 	"adminlinks-desc": "为管理员添加一个包含有用连接的[[Special:AdminLinks|特殊页面]]",
-	"adminlinks_documentation": "$1说明文件",
+	"adminlinks_documentation": "$1文档",
 	"adminlinks_general": "常规",
 	"adminlinks_editsidebar": "编辑侧边栏",
 	"adminlinks_editcss": "编辑CSS文件",
