@@ -15,5 +15,6 @@
 	"adminlinks_createuser": "Brükerkonto iinracht",
 	"adminlinks_browsesearch": "Trochluke an schük",
 	"adminlinks_importexport": "Importiare an eksportiare",
+	"adminlinks_pagenotfound": "Det spezial-sidj mä di nööm „$1“ koon ei fünjen wurd.",
 	"right-adminlinks": "[[Special:AdminLinks|Ferwisangen för administratooren]] brük"
 }
