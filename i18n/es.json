@@ -3,10 +3,11 @@
 		"authors": [
 			"Crazymadlover",
 			"Locos epraix",
-			"Macofe"
+			"Macofe",
+			"Dgstranz"
 		]
 	},
-	"adminlinks": "Administrar vínculos",
+	"adminlinks": "Enlaces de administración",
 	"adminlinks-desc": "Añade una [[Special:AdminLinks|página especial]] con enlaces útiles para administradores",
 	"adminlinks_documentation": "documentación de $1",
 	"adminlinks_general": "General",
