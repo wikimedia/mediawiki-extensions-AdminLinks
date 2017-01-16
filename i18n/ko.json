@@ -4,7 +4,8 @@
 			"Devunt",
 			"Kwj2772",
 			"아라",
-			"Jerrykim306"
+			"Jerrykim306",
+			"Ykhwong"
 		]
 	},
 	"adminlinks": "관리용 링크 모음",
@@ -18,6 +19,6 @@
 	"adminlinks_createuser": "계정 만들기",
 	"adminlinks_browsesearch": "찾아보기 및 검색",
 	"adminlinks_importexport": "가져오기 및 내보내기",
-	"adminlinks_pagenotfound": "$1이라는 특수문서 찾기 실패.",
+	"adminlinks_pagenotfound": "$1 이름의 특수문서 찾기를 실패했습니다.",
 	"right-adminlinks": "[[Special:AdminLinks|관리자용 링크]]를 보기"
 }
