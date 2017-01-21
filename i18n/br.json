@@ -15,5 +15,6 @@
 	"adminlinks_createuser": "Krouiñ un implijer",
 	"adminlinks_browsesearch": "Furchal ha klask",
 	"adminlinks_importexport": "Enporzhiañ hag ezporzhiañ",
+	"adminlinks_pagenotfound": "N'eus ket bet gallet kavout ar bajenn dibar : $1",
 	"right-adminlinks": "Gwelet al liamm war-du [[Special:AdminLinks|liammoù merañ]]"
 }
