@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Azim"
+			"Azim",
+			"Санюн Вадик"
 		]
 	},
 	"adminlinks": "Сайтвиктарыше кылвер-влак",
@@ -15,5 +16,6 @@
 	"adminlinks_createuser": "Пайдаланыше лияш",
 	"adminlinks_browsesearch": "Ончен налмаш да кычалмаш",
 	"adminlinks_importexport": "Импорт ден экспорт",
+	"adminlinks_pagenotfound": "\"$1\" лӱман спецлаштыкым кычалын муымо огыл.",
 	"right-adminlinks": "[[Special:AdminLinks|Сайтвиктарыше кылвер-влакым]] ужаш"
 }
