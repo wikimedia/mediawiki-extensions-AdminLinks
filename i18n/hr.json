@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ex13"
+			"Ex13",
+			"Bugoslav"
 		]
 	},
 	"adminlinks": "Administratorske poveznice",
@@ -15,5 +16,6 @@
 	"adminlinks_createuser": "Stvori suradnika",
 	"adminlinks_browsesearch": "Pregledavanje i pretraživanje",
 	"adminlinks_importexport": "Uvoz i izvoz",
+	"adminlinks_pagenotfound": "Pretragom nije bilo moguće pronaći posebnu stranicu s nazivom: $1.",
 	"right-adminlinks": "Pogledajte poveznicu na [[Special:AdminLinks|administratorske poveznice]]"
 }
