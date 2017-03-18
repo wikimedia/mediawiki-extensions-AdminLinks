@@ -3,7 +3,8 @@
 		"authors": [
 			"DCLXVI",
 			"Stanqo",
-			"StanProg"
+			"StanProg",
+			"Vodnokon4e"
 		]
 	},
 	"adminlinks": "Административни препратки",
@@ -17,5 +18,6 @@
 	"adminlinks_createuser": "Създаване на потребител",
 	"adminlinks_browsesearch": "Разглеждане и търсене",
 	"adminlinks_importexport": "Внасяне и изнасяне",
+	"adminlinks_pagenotfound": "Не беше намерена специална страница с име: $1.",
 	"right-adminlinks": "Показване на препратката към [[Special:AdminLinks|Административни препратки]]"
 }
