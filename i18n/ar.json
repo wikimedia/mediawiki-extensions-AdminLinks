@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Meno25",
-			"OsamaK"
+			"OsamaK",
+			"Mido"
 		]
 	},
 	"adminlinks": "وصلات الإداريين",
@@ -16,5 +17,6 @@
 	"adminlinks_createuser": "أنشئ مستخدمًا",
 	"adminlinks_browsesearch": "التصفح والبحث",
 	"adminlinks_importexport": "الاستيراد والتصدير",
+	"adminlinks_pagenotfound": "فشل العثور على صفحة خاصة باسم: $1.",
 	"right-adminlinks": "انظر الوصلة إلى [[Special:AdminLinks|وصلات الإدارة]]"
 }
