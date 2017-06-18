@@ -16,5 +16,6 @@
 	"adminlinks_createuser": "સભ્ય બનાવો",
 	"adminlinks_browsesearch": "ખંખોળો અને શોધો",
 	"adminlinks_importexport": "આયાત અને નિર્યાત",
+	"adminlinks_pagenotfound": "$1:નામનું ખાસ પાનું મળતું નથી.",
 	"right-adminlinks": "[[Special:AdminLinks|પ્રબંધન કડીઓ]]ની કડી જુઓ"
 }
