@@ -1,13 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dalinanir"
+			"Dalinanir",
+			"Amara-Amaziɣ"
 		]
 	},
 	"adminlinks": "Izdayn imsfttutn",
 	"adminlinks-desc": "Zaydn i [[Special:AdminLinks|tasna tamzlayt]] izdayn li ra yaws imɣarn",
 	"adminlinks_documentation": "$1 assultm  (documentation)",
-	"adminlinks_general": "Ikka kullu",
+	"adminlinks_general": "ⴰⵎⴰⵜⴰⵢ",
 	"adminlinks_editsidebar": "Ara tannalt n tasga (colonne= tannalt)",
 	"adminlinks_editcss": "Ara asdaw CSS",
 	"adminlinks_editmainpagename": "Sbadl assaɣ n tasna tamuqqrant",
