@@ -290,7 +290,7 @@ class ALItem {
 				htmlspecialchars( $page->getDescription() ) );
 		} else {
 			$wgOut->addHTML( "<span class=\"error\">" .
-			    wfMessage( 'adminlinks_pagenotfound', $page_name )->escaped() . "<br></span>" );
+				wfMessage( 'adminlinks_pagenotfound', $page_name )->escaped() . "<br></span>" );
 		}
 		return $item;
 	}
