@@ -14,7 +14,7 @@
 		}
 	],
 	"support": {
-		"issues": "https://bugzilla.wikimedia.org/"
+		"issues": "https://phabricator.wikimedia.org/"
 	},
 	"require": {
 		"composer/installers": ">=1.0.1"
