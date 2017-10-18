@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Christian List",
-			"Masz"
+			"Masz",
+			"Joedalton"
 		]
 	},
 	"adminlinks": "Administrationslinks",
@@ -16,5 +17,6 @@
 	"adminlinks_createuser": "Opret en bruger",
 	"adminlinks_browsesearch": "Navigering og søgning",
 	"adminlinks_importexport": "Importering og eksportering",
+	"adminlinks_pagenotfound": "Fandt ikke specialside med navnet: $1.",
 	"right-adminlinks": "Se linket til [[Special:AdminLinks|administrationslinkene]]"
 }
