@@ -7,8 +7,8 @@
 			"Vitorvicentevalente"
 		]
 	},
-	"adminlinks": "Links para administradores",
-	"adminlinks-desc": "Adiciona uma [[Special:AdminLinks|página especial]] que contém links úteis para administradores",
+	"adminlinks": "Hiperligações para administradores",
+	"adminlinks-desc": "Adiciona uma [[Special:AdminLinks|página especial]] que contém hiperligações úteis para administradores",
 	"adminlinks_documentation": "Documentação sobre $1",
 	"adminlinks_general": "Geral",
 	"adminlinks_editsidebar": "Editar barra lateral",
