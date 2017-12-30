@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sadik Khalid"
+			"Sadik Khalid",
+			"Jacob.jose"
 		]
 	},
 	"adminlinks": "കാര്യനിർവാഹക കണ്ണികൾ",
@@ -15,5 +16,6 @@
 	"adminlinks_createuser": "ഒരു ഉപയോക്താവിനെ സൃഷ്ടിക്കുക",
 	"adminlinks_browsesearch": "തിരച്ചിലും മേച്ചിലും",
 	"adminlinks_importexport": "കയറ്റുമതിയും ഇറക്കുമതിയും",
-	"right-adminlinks": "[[Special:AdminLinks|കാര്യനിവാഹക കണ്ണികളിലേക്കുള്ള]] കണ്ണികൾ കാണുക"
+	"adminlinks_pagenotfound": "$1 എന്ന പേരിലുള്ള പ്രത്യേക താൾ കണ്ടെത്താൻ സാധിച്ചില്ല",
+	"right-adminlinks": "[[Special:AdminLinks|കാര്യനിവാഹക കണ്ണികളിലേയ്ക്കുള്ള]] കണ്ണികൾ കാണുക"
 }
