@@ -3,8 +3,9 @@
 	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
 		<exclude name="MediaWiki.Commenting.FunctionComment" />
 		<exclude name="MediaWiki.Files.ClassMatchesFilename.NotMatch" />
-		<exclude name="MediaWiki.Files.OneClassPerFile.MultipleFound" />
+		<exclude name="Generic.Files.OneObjectStructurePerFile.MultipleFound" />
 		<exclude name="Generic.Arrays.DisallowLongArraySyntax" />
+		<exclude name="Squiz.Scope.MethodScope.Missing" />
 	</rule>
 	<!-- keep support for php 5.3 -->
 	<rule ref="Generic.Arrays.DisallowShortArraySyntax" />
