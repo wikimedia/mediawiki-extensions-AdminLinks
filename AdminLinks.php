@@ -14,7 +14,7 @@ if ( defined( 'MEDIAWIKI' ) ) {
 		'author' => 'Yaron Koren',
 		'url' => 'https://www.mediawiki.org/wiki/Extension:Admin_Links',
 		'descriptionmsg' => 'adminlinks-desc',
-		'license-name' => 'GPL-2.0+'
+		'license-name' => 'GPL-2.0-or-later'
 	);
 
 	$GLOBALS['wgAdminLinksIP'] = __DIR__ . '/';
