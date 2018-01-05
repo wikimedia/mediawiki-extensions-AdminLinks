@@ -5,19 +5,21 @@
 			"Homo",
 			"Ignas693",
 			"Perkunas",
-			"Vpovilaitis"
+			"Vpovilaitis",
+			"Manvydasz"
 		]
 	},
 	"adminlinks": "Administravimo nuorodos",
-	"adminlinks-desc": "Prideda [[Special:AdminLinks|Specialųjį puslapį]], kuriame yra naudingos nuorodos administratoriams",
+	"adminlinks-desc": "Prideda [[Special:AdminLinks|specialųjį puslapį]], kuriame yra naudingos nuorodos administratoriams",
 	"adminlinks_documentation": "$1 dokumentacija",
 	"adminlinks_general": "Bendrosios",
-	"adminlinks_editsidebar": "Redaguoti šoninės juostos",
+	"adminlinks_editsidebar": "Redaguoti šonines juostas",
 	"adminlinks_editcss": "Redaguoti CSS failą",
 	"adminlinks_editmainpagename": "Redaguoti pagrindinio puslapio pavadinimą",
 	"adminlinks_users": "Vartotojai",
 	"adminlinks_createuser": "Sukurti naudotoją",
 	"adminlinks_browsesearch": "Naršyti ir ieškoti",
 	"adminlinks_importexport": "Importas ir eksportas",
-	"right-adminlinks": "Žr. nuorodą į [[Special:AdminLinks|Administravimo priemonės]]"
+	"adminlinks_pagenotfound": "Nepavyko rasti specialaus puslapio su pavadinimu $1.",
+	"right-adminlinks": "Žr. [[Special:AdminLinks|Administravimo nuorodų]] puslapį"
 }
