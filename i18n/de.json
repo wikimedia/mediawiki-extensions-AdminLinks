@@ -7,7 +7,7 @@
 			"Metalhead64"
 		]
 	},
-	"adminlinks": "Links für Administratoren",
+	"adminlinks": "Adminlinks",
 	"adminlinks-desc": "Ergänzt eine [[Special:AdminLinks|Spezialseite]] mit hilfreichen Links für Administratoren",
 	"adminlinks_documentation": "Dokumentation zu „$1“",
 	"adminlinks_general": "Allgemein",
@@ -18,6 +18,6 @@
 	"adminlinks_createuser": "Benutzerkonto anlegen",
 	"adminlinks_browsesearch": "Durchsehen und Suchen",
 	"adminlinks_importexport": "Importieren und Exportieren",
-	"adminlinks_pagenotfound": "Die Spezialseite mit dem Namen „$1“ kann nicht gefunden werden.",
+	"adminlinks_pagenotfound": "Die Spezialseite mit der Bezeichnung „$1“ wurde nicht gefunden.",
 	"right-adminlinks": "[[Special:AdminLinks|Links für Administratoren]] nutzen"
 }
