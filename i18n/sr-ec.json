@@ -4,7 +4,8 @@
 			"Charmed94",
 			"Rancher",
 			"Михајло Анђелковић",
-			"Obsuser"
+			"Obsuser",
+			"Acamicamacaraca"
 		]
 	},
 	"adminlinks": "Административне везе",
@@ -18,6 +19,6 @@
 	"adminlinks_createuser": "Направи корисника",
 	"adminlinks_browsesearch": "Претраживање",
 	"adminlinks_importexport": "Увоз и извоз",
-	"adminlinks_pagenotfound": "Није пронађена специјална страница са називом: $1.",
+	"adminlinks_pagenotfound": "Није пронађена посебна страница са називом: „$1”.",
 	"right-adminlinks": "прегледање везе до [[Special:AdminLinks|администраторских веза]]"
 }

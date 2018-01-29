@@ -2,9 +2,12 @@
 	"@metadata": {
 		"authors": [
 			"Ansumang",
-			"Kumar"
+			"Kumar",
+			"Innocentbunny"
 		]
 	},
+	"adminlinks": "प्रबंधकीय कड़ियाँ",
+	"adminlinks-desc": "यह एक [[Special:AdminLinks|ख़ास पृष्ठ]] जोड़ता है, जिसमें प्रबंधकों हेतु सहायक कड़ियाँ होती हैं",
 	"adminlinks_documentation": "$1 प्रलेखन",
 	"adminlinks_general": "सामान्य",
 	"adminlinks_editsidebar": "साइडबार संपादित करें",
@@ -13,5 +16,7 @@
 	"adminlinks_users": "सदस्य",
 	"adminlinks_createuser": "एक सदस्य बनाएँ",
 	"adminlinks_browsesearch": "ब्राउज़ करें और खोजें",
-	"adminlinks_importexport": "आयात और निर्यात"
+	"adminlinks_importexport": "आयात और निर्यात",
+	"adminlinks_pagenotfound": "\"$1\" नाम का विशेष पृष्ठ खोजने में अक्षम रहे।",
+	"right-adminlinks": "\"[[Special:AdminLinks|प्रबंधकीय कड़ियाँ]]\" की लिंक देखें"
 }
