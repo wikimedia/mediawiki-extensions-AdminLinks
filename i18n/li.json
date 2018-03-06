@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pahles"
+			"Pahles",
+			"Ooswesthoesbes"
 		]
 	},
 	"adminlinks": "Verwiezinge veur systeemwèrkers",
@@ -15,5 +16,6 @@
 	"adminlinks_createuser": "Gebroeker aanmake",
 	"adminlinks_browsesearch": "Betrachte en zeuke",
 	"adminlinks_importexport": "Importere en exportere",
+	"adminlinks_pagenotfound": "Gein speciaal pagina mit de naam: $1.",
 	"right-adminlinks": "De verwiezing nao [[Special:AdminLinks|verwiezinge veur systeemwèrkers]] betrachte"
 }
