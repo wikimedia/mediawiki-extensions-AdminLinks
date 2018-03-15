@@ -5,6 +5,8 @@
  * @author Yaron Koren
  */
 
+use MediaWiki\MediaWikiServices;
+
 class AdminLinks extends SpecialPage {
 	/**
 	 * Constructor
@@ -275,8 +277,12 @@ class ALItem {
 		} else {
 			$title = Title::newFromText( $page_name_or_title );
 		}
-		$item->text = Linker::linkKnown( $title, htmlspecialchars( $desc ),
-			array(), $query );
+		$item->text = MediaWikiServices::getInstance()->getLinkRenderer()->makeKnownLink(
+			$title,
+			htmlspecialchars( $desc ),
+			array(),
+			$query
+		);
 		return $item;
 	}
 
@@ -286,8 +292,10 @@ class ALItem {
 		$item->label = $page_name;
 		$page = SpecialPageFactory::getPage( $page_name );
 		if ( $page ) {
-			$item->text = Linker::linkKnown( $page->getTitle(),
-				htmlspecialchars( $page->getDescription() ) );
+			$item->text = MediaWikiServices::getInstance()->getLinkRenderer()->makeKnownLink(
+				$page->getPageTitle(),
+				htmlspecialchars( $page->getDescription() )
+			);
 		} else {
 			$wgOut->addHTML( "<span class=\"error\">" .
 				wfMessage( 'adminlinks_pagenotfound', $page_name )->escaped() . "<br></span>" );
