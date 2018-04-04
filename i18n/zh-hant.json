@@ -5,7 +5,8 @@
 			"Mark85296341",
 			"Oapbtommy",
 			"Waihorace",
-			"Cwlin0416"
+			"Cwlin0416",
+			"Sanmosa"
 		]
 	},
 	"adminlinks": "管理連結",
@@ -15,8 +16,8 @@
 	"adminlinks_editsidebar": "編輯側邊欄",
 	"adminlinks_editcss": "編輯 CSS 檔案",
 	"adminlinks_editmainpagename": "編輯首頁名稱",
-	"adminlinks_users": "使用者",
-	"adminlinks_createuser": "建立使用者",
+	"adminlinks_users": "用戶",
+	"adminlinks_createuser": "建立用戶",
 	"adminlinks_browsesearch": "瀏覽與搜尋",
 	"adminlinks_importexport": "匯入與匯出",
 	"adminlinks_pagenotfound": "找不到名為 $1 的特殊頁面。",
