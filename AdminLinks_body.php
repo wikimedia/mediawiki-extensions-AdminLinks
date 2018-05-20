@@ -279,7 +279,7 @@ class ALItem {
 		}
 		$item->text = MediaWikiServices::getInstance()->getLinkRenderer()->makeKnownLink(
 			$title,
-			htmlspecialchars( $desc ),
+			$desc,
 			array(),
 			$query
 		);
@@ -294,7 +294,7 @@ class ALItem {
 		if ( $page ) {
 			$item->text = MediaWikiServices::getInstance()->getLinkRenderer()->makeKnownLink(
 				$page->getPageTitle(),
-				htmlspecialchars( $page->getDescription() )
+				$page->getDescription()
 			);
 		} else {
 			$wgOut->addHTML( "<span class=\"error\">" .
