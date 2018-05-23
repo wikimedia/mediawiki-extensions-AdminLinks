@@ -31,8 +31,10 @@ and PHP 5.3.0 or later.
 == Installation ==
 
 To install the extension, place the entire 'AdminLinks' directory
-within your MediaWiki 'extensions' directory, then add the following
-line to your 'LocalSettings.php' file:
+within your MediaWiki 'extensions' directory, then add either one of the
+following lines to your 'LocalSettings.php' file:
+
+     wfLoadExtension( 'AdminLinks' );
 
      require_once( "$IP/extensions/AdminLinks/AdminLinks.php" );
 
