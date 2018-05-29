@@ -45,10 +45,7 @@ class AdminLinks extends SpecialPage {
 		$users_section = new ALSection( $this->msg( 'adminlinks_users' )->text() );
 		$main_row = new ALRow( 'main' );
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Listusers' ) );
-		$ul = SpecialPage::getTitleFor( 'Userlogin' );
-		$al = SpecialPage::getTitleFor( 'AdminLinks' );
-		$main_row->addItem( AlItem::newFromPage( $ul, $this->msg( 'adminlinks_createuser' )->text(),
-			array( 'type' => 'signup', 'returnto' => $al->getPrefixedText() ) ) );
+		$main_row->addItem( ALItem::newFromSpecialPage( 'CreateAccount' ) );
 		$main_row->addItem( ALItem::newFromSpecialPage( 'Userrights' ) );
 		$users_section->addRow( $main_row );
 		$tree->addSection( $users_section );

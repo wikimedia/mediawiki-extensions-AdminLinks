@@ -18,7 +18,6 @@
 	"adminlinks_editcss": "Link description that will lead to the page where a CSS page can be edited.",
 	"adminlinks_editmainpagename": "Link description that will lead to the page where the name of the main page can be edited.",
 	"adminlinks_users": "Section name for links for administrators.\n{{Identical|User}}",
-	"adminlinks_createuser": "Link description that will lead to the page where a user can be created.\n{{Identical|Create user}}",
 	"adminlinks_browsesearch": "Section name for links for administrators related to browsing and searching.",
 	"adminlinks_importexport": "Section name for links for administrators related to import and export of pages and data.",
 	"adminlinks_pagenotfound": "Error message when $1 is not a special page object. Parameters: \n* $1 - special page",
