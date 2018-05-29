@@ -12,7 +12,6 @@
 	"adminlinks_editcss": "Uredi CSS datoteku",
 	"adminlinks_editmainpagename": "Izmeni naziv glavne stranice",
 	"adminlinks_users": "Korisnici",
-	"adminlinks_createuser": "Napravi korisnika",
 	"adminlinks_browsesearch": "Pretraživanje",
 	"adminlinks_importexport": "Uvoz i izvoz",
 	"right-adminlinks": "pregledanje veze do [[Special:AdminLinks|administratorskih veza]]"

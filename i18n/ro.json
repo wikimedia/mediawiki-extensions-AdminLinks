@@ -15,7 +15,6 @@
 	"adminlinks_editcss": "Modifică fișierul CSS",
 	"adminlinks_editmainpagename": "Modifică numele paginii principale",
 	"adminlinks_users": "Utilizatori",
-	"adminlinks_createuser": "Creează un utilizator",
 	"adminlinks_browsesearch": "Răsfoire și căutare",
 	"adminlinks_importexport": "Importare și exportare",
 	"right-adminlinks": "Vizualizează legătura către [[Special:AdminLinks|Legăturile administrative]]"

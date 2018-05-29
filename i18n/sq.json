@@ -13,7 +13,6 @@
 	"adminlinks_editcss": "Redakto skedën CSS",
 	"adminlinks_editmainpagename": "Redakoton emrin e faqes kryesore",
 	"adminlinks_users": "Përdoruesit",
-	"adminlinks_createuser": "Krijo një përdorues",
 	"adminlinks_browsesearch": "Shfleton dhe të kërkon",
 	"adminlinks_importexport": "Importo dhe eksporto",
 	"right-adminlinks": "Shih lidhjen në [[Special:AdminLinks|Admin lidhjet]]"

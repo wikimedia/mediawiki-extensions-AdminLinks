@@ -14,7 +14,6 @@
 	"adminlinks_editcss": "Redigér CSS-fil",
 	"adminlinks_editmainpagename": "Redigér navnet på forsiden",
 	"adminlinks_users": "Brugere",
-	"adminlinks_createuser": "Opret en bruger",
 	"adminlinks_browsesearch": "Navigering og søgning",
 	"adminlinks_importexport": "Importering og eksportering",
 	"adminlinks_pagenotfound": "Fandt ikke specialside med navnet: $1.",

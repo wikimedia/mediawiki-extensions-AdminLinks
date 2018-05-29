@@ -15,7 +15,6 @@
 	"adminlinks_editcss": "Редагувати CSS-файл",
 	"adminlinks_editmainpagename": "Змінити назву головної сторінки",
 	"adminlinks_users": "Користувачі",
-	"adminlinks_createuser": "Створити обліковий запис",
 	"adminlinks_browsesearch": "Перегляд і пошук",
 	"adminlinks_importexport": "Імпорт та експорт",
 	"adminlinks_pagenotfound": "Не вдалося знайти спеціальну сторінку з назвою: $1.",

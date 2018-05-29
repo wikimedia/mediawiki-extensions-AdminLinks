@@ -12,7 +12,6 @@
 	"adminlinks_editcss": "CSS dosyasını düzenle",
 	"adminlinks_editmainpagename": "Ana sayfanın adını düzenle",
 	"adminlinks_users": "Kullanıcılar",
-	"adminlinks_createuser": "Kullanıcı oluştur",
 	"adminlinks_browsesearch": "Gezinme ve arama",
 	"adminlinks_importexport": "İçe ve dışa aktarma",
 	"right-adminlinks": "[[Special:AdminLinks|Hizmetli bağlantılarına]] giden bağlantıyı gör"

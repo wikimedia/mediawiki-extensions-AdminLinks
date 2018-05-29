@@ -15,7 +15,6 @@
 	"adminlinks_editcss": "Редактиране на CSS файл",
 	"adminlinks_editmainpagename": "Редактиране името на началната страница",
 	"adminlinks_users": "Потребители",
-	"adminlinks_createuser": "Създаване на потребител",
 	"adminlinks_browsesearch": "Разглеждане и търсене",
 	"adminlinks_importexport": "Внасяне и изнасяне",
 	"adminlinks_pagenotfound": "Не беше намерена специална страница с име: $1.",

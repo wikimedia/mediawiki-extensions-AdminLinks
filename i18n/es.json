@@ -15,7 +15,6 @@
 	"adminlinks_editcss": "Editar archivo CSS",
 	"adminlinks_editmainpagename": "Editar nombre de página principal",
 	"adminlinks_users": "Usuarios",
-	"adminlinks_createuser": "Crear un usuario",
 	"adminlinks_browsesearch": "Exploración y búsqueda",
 	"adminlinks_importexport": "Importación y exportación",
 	"adminlinks_pagenotfound": "No se pudo encontrar la página especial con nombre: $1.",

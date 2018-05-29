@@ -16,7 +16,6 @@
 	"adminlinks_editcss": "सिएसएस फाइल सम्पादन गर्ने",
 	"adminlinks_editmainpagename": "मुख्य पृष्ठको नाम सम्पादन गर्ने",
 	"adminlinks_users": "प्रयोगकर्ताहरू",
-	"adminlinks_createuser": "प्रयोगकर्ता सृजना गर्ने",
 	"adminlinks_browsesearch": "ब्राउज र खोजी गर्ने",
 	"adminlinks_importexport": "आयात तथा निर्यात",
 	"right-adminlinks": "यो लिङ्क हेर्नुहोस [[Special:AdminLinks|प्रबन्धक लिङ्क]]"

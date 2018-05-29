@@ -14,7 +14,6 @@
 	"adminlinks_editcss": "حرّر ملف CSS",
 	"adminlinks_editmainpagename": "عدّل اسم الصفحة الرئيسية",
 	"adminlinks_users": "مستخدمون",
-	"adminlinks_createuser": "أنشئ مستخدمًا",
 	"adminlinks_browsesearch": "التصفح والبحث",
 	"adminlinks_importexport": "الاستيراد والتصدير",
 	"adminlinks_pagenotfound": "فشل العثور على صفحة خاصة باسم: $1.",

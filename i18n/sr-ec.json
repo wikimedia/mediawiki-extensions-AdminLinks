@@ -16,7 +16,6 @@
 	"adminlinks_editcss": "Уреди CSS датотеку",
 	"adminlinks_editmainpagename": "Измени назив главне странице",
 	"adminlinks_users": "Корисници",
-	"adminlinks_createuser": "Направи корисника",
 	"adminlinks_browsesearch": "Претраживање",
 	"adminlinks_importexport": "Увоз и извоз",
 	"adminlinks_pagenotfound": "Није пронађена посебна страница са називом: $1.",

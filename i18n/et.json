@@ -14,7 +14,6 @@
 	"adminlinks_editcss": "Muuda CSS-faili",
 	"adminlinks_editmainpagename": "Muuda esilehe pealkirja",
 	"adminlinks_users": "Kasutajad",
-	"adminlinks_createuser": "Loo uus kasutajakonto",
 	"adminlinks_browsesearch": "Lehitsemine ja otsimine",
 	"adminlinks_importexport": "Import ja eksport",
 	"right-adminlinks": "Näha linki leheküljele [[Special:AdminLinks|administraatori lingid]]"

@@ -12,7 +12,6 @@
 	"adminlinks_editcss": "Endre CSS-fila",
 	"adminlinks_editmainpagename": "Endre namn på hovudsida",
 	"adminlinks_users": "Brukarar",
-	"adminlinks_createuser": "Opprett ein brukar",
 	"adminlinks_browsesearch": "Lesing og søking",
 	"adminlinks_importexport": "Importering og eksportering",
 	"right-adminlinks": "Sjå lenka til [[Special:AdminLinks|admin-lenker]]"

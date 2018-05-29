@@ -12,7 +12,6 @@
 	"adminlinks_editcss": "\n<i lang=\"en\" xml:lang=\"en\" dir=\"ltr\" title=\"Cascading Style Sheet\">CSS</i>-Dattei änndere",
 	"adminlinks_editmainpagename": "Dä Houpsigk iere Nahme ändere",
 	"adminlinks_users": "Metmaacher",
-	"adminlinks_createuser": "Donn ene neuje Metmaacher aanlääje",
 	"adminlinks_browsesearch": "Bläddere un Söhke",
 	"adminlinks_importexport": "Empoteere un Äxpoteere",
 	"adminlinks_pagenotfound": "Mer kunnte keijn {{int:specialpage}} fenge mem Nahme: $1",

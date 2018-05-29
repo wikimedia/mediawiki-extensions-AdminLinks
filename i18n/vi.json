@@ -13,7 +13,6 @@
 	"adminlinks_editcss": "Sửa đổi tập tin CSS",
 	"adminlinks_editmainpagename": "Sửa đổi tên trang đầu",
 	"adminlinks_users": "Người dùng",
-	"adminlinks_createuser": "Mở tài khoản",
 	"adminlinks_browsesearch": "Duyệt và tìm kiếm",
 	"adminlinks_importexport": "Nhập và xuất",
 	"right-adminlinks": "Xem [[Special:AdminLinks|các liên kết quản lý]]"

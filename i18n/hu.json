@@ -12,7 +12,6 @@
 	"adminlinks_editcss": "CSS fájl szerkesztése",
 	"adminlinks_editmainpagename": "Főoldal nevének szerkesztése",
 	"adminlinks_users": "Felhasználók",
-	"adminlinks_createuser": "Felhasználó létrehozása",
 	"adminlinks_browsesearch": "Böngészés és keresés",
 	"adminlinks_importexport": "Importálás és exportálás",
 	"right-adminlinks": "látja az [[Special:AdminLinks|adminlinkeket]]"

@@ -14,7 +14,6 @@
 	"adminlinks_editcss": "Ändra CSS-fil",
 	"adminlinks_editmainpagename": "Byt namn på huvudsidan",
 	"adminlinks_users": "Användare",
-	"adminlinks_createuser": "Skapa en användare",
 	"adminlinks_browsesearch": "Bläddra och sök",
 	"adminlinks_importexport": "Importera och exportera",
 	"adminlinks_pagenotfound": "Misslyckades att hitta specialsida med namn: $1",

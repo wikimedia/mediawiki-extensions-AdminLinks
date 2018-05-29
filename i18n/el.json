@@ -15,7 +15,6 @@
 	"adminlinks_editcss": "Επεξεργασία αρχείου CSS",
 	"adminlinks_editmainpagename": "Επεξεργασία ονόματος κύριας σελίδας",
 	"adminlinks_users": "Χρήστες",
-	"adminlinks_createuser": "Δημιουργία χρήστη",
 	"adminlinks_browsesearch": "Πλοήγηση και αναζήτηση",
 	"adminlinks_importexport": "Εισαγωγή και εξαγωγή",
 	"right-adminlinks": "Δείτε τον σύνδεσμο στους [[Special:AdminLinks|Συνδέσμους διαχειριστών]]"

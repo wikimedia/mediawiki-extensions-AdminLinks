@@ -13,7 +13,6 @@
 	"adminlinks_editcss": "Uredi CSS datoteku",
 	"adminlinks_editmainpagename": "Uredi ime glavne stranice",
 	"adminlinks_users": "Suradnici",
-	"adminlinks_createuser": "Stvori suradnika",
 	"adminlinks_browsesearch": "Pregledavanje i pretraživanje",
 	"adminlinks_importexport": "Uvoz i izvoz",
 	"adminlinks_pagenotfound": "Pretragom nije bilo moguće pronaći posebnu stranicu s nazivom: $1.",

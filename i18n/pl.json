@@ -13,7 +13,6 @@
 	"adminlinks_editcss": "Edycja pliku CSS",
 	"adminlinks_editmainpagename": "Zmiana nazwy strony głównej",
 	"adminlinks_users": "Użytkownicy",
-	"adminlinks_createuser": "Utwórz użytkownika",
 	"adminlinks_browsesearch": "Przeglądanie i wyszukiwanie",
 	"adminlinks_importexport": "Importowanie i eksportowanie",
 	"adminlinks_pagenotfound": "Nie udało się znaleźć strony specjalnej o nazwie: $1.",

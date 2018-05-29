@@ -15,7 +15,6 @@
 	"adminlinks_editcss": "编辑CSS文件",
 	"adminlinks_editmainpagename": "编辑首页名称",
 	"adminlinks_users": "用户",
-	"adminlinks_createuser": "创建用户",
 	"adminlinks_browsesearch": "浏览与搜索",
 	"adminlinks_importexport": "导入和导出",
 	"adminlinks_pagenotfound": "查找此名称的特殊页面失败：$1。",

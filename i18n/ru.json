@@ -18,7 +18,6 @@
 	"adminlinks_editcss": "Править файл CSS",
 	"adminlinks_editmainpagename": "Править имя заглавной страницы",
 	"adminlinks_users": "Участники",
-	"adminlinks_createuser": "Создать учётную запись",
 	"adminlinks_browsesearch": "Обзор и поиск",
 	"adminlinks_importexport": "Импорт и экспорт",
 	"adminlinks_pagenotfound": "Не удалось найти специальную страницу с именем: $1.",

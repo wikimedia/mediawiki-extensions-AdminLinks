@@ -13,7 +13,6 @@
 	"adminlinks_editcss": "Upravit globální CSS",
 	"adminlinks_editmainpagename": "Upravit název hlavní stránky",
 	"adminlinks_users": "Uživatelé",
-	"adminlinks_createuser": "Vytvořit uživatelský účet",
 	"adminlinks_browsesearch": "Prohlížení a vyhledávání",
 	"adminlinks_importexport": "Import a export stránek",
 	"right-adminlinks": "Viditelný odkaz na stránku [[Special:AdminLinks|Odkazy pro správce]]"

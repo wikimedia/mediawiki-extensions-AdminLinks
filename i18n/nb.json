@@ -13,7 +13,6 @@
 	"adminlinks_editcss": "Rediger CSS-filen",
 	"adminlinks_editmainpagename": "Endre navnet på hovedsiden",
 	"adminlinks_users": "Brukere",
-	"adminlinks_createuser": "Opprett en bruker",
 	"adminlinks_browsesearch": "Lesing og søking",
 	"adminlinks_importexport": "Importering og eksportering",
 	"adminlinks_pagenotfound": "Fant ikke spesialside med navn: $1.",
