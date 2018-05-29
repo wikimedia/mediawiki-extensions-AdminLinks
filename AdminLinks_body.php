@@ -128,6 +128,28 @@ class AdminLinks extends SpecialPage {
 		return true;
 	}
 
+	/**
++        * Helper function for backward compatibility.
++        *
++        * @param LinkRenderer $linkRenderer
++        * @param string $title
++        * @param string|null $msg
++        * @param array $attrs
++        * @param array $params
+	 * @return string
++        */
+	public static function makeLink( $linkRenderer, $title, $msg = null, $attrs = array(),
+			$params = array() ) {
+		if ( !is_null( $linkRenderer ) ) {
+			// MW 1.28+
+			// Is there a makeLinkKnown() method? We'll just do it
+			// manually.
+			return $linkRenderer->makeLink( $title, $msg, $attrs, $params, array( 'known' ) );
+		} else {
+			return Linker::linkKnown( $title, $msg, $attrs, $params );
+		}
+	}
+
 	protected function getGroupName() {
 		return 'users';
 	}
@@ -277,12 +299,12 @@ class ALItem {
 		} else {
 			$title = Title::newFromText( $page_name_or_title );
 		}
-		$item->text = MediaWikiServices::getInstance()->getLinkRenderer()->makeKnownLink(
-			$title,
-			$desc,
-			array(),
-			$query
-		);
+		if ( function_exists( 'MediaWiki\MediaWikiServices::getLinkRenderer' ) ) {
+			$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
+		} else {
+			$linkRenderer = null;
+		}
+		$item->text = AdminLinks::makeLink( $linkRenderer, $title, $desc, array(), $query );
 		return $item;
 	}
 
@@ -292,10 +314,13 @@ class ALItem {
 		$item->label = $page_name;
 		$page = SpecialPageFactory::getPage( $page_name );
 		if ( $page ) {
-			$item->text = MediaWikiServices::getInstance()->getLinkRenderer()->makeKnownLink(
-				$page->getPageTitle(),
-				$page->getDescription()
-			);
+			if ( function_exists( 'MediaWiki\MediaWikiServices::getLinkRenderer' ) ) {
+				$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
+			} else {
+				$linkRenderer = null;
+			}
+			$item->text = AdminLinks::makeLink( $linkRenderer, $page->getPageTitle(),
+				$page->getDescription() );
 		} else {
 			$wgOut->addHTML( "<span class=\"error\">" .
 				wfMessage( 'adminlinks_pagenotfound', $page_name )->escaped() . "<br></span>" );
