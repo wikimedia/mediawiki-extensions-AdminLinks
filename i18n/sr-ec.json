@@ -5,7 +5,8 @@
 			"Rancher",
 			"Михајло Анђелковић",
 			"Obsuser",
-			"Acamicamacaraca"
+			"Acamicamacaraca",
+			"BadDog"
 		]
 	},
 	"adminlinks": "Административне везе",
@@ -14,7 +15,7 @@
 	"adminlinks_general": "Опште",
 	"adminlinks_editsidebar": "Уреди бочну траку",
 	"adminlinks_editcss": "Уреди CSS датотеку",
-	"adminlinks_editmainpagename": "Измени назив главне странице",
+	"adminlinks_editmainpagename": "Уреди назив главне стране",
 	"adminlinks_users": "Корисници",
 	"adminlinks_browsesearch": "Претраживање",
 	"adminlinks_importexport": "Увоз и извоз",
