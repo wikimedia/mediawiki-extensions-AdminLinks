@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tgr"
+			"Tgr",
+			"Bencemac"
 		]
 	},
 	"adminlinks": "Adminlinkek",
@@ -14,5 +15,6 @@
 	"adminlinks_users": "Felhasználók",
 	"adminlinks_browsesearch": "Böngészés és keresés",
 	"adminlinks_importexport": "Importálás és exportálás",
+	"adminlinks_pagenotfound": "Nem sikerült megtalálni a(z) $1 nevű speciális lapot.",
 	"right-adminlinks": "látja az [[Special:AdminLinks|adminlinkeket]]"
 }
