@@ -10,7 +10,7 @@
 	"adminlinks-desc": "Aggiunge una [[Special:AdminLinks|pagina speciale]] che contiene link utili per gli amministratori",
 	"adminlinks_documentation": "documentazione di $1",
 	"adminlinks_general": "Generale",
-	"adminlinks_editsidebar": "Modifica sidebar",
+	"adminlinks_editsidebar": "Modifica barra laterale",
 	"adminlinks_editcss": "Modifica file CSS",
 	"adminlinks_editmainpagename": "Modifica il nome della pagina principale",
 	"adminlinks_users": "Utenti",
