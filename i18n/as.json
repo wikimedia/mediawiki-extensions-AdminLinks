@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Bishnu Saikia",
-			"Chaipau"
+			"Chaipau",
+			"Gitartha.bordoloi"
 		]
 	},
 	"adminlinks": "প্ৰশাসকৰ সংযোগসমূহ",
@@ -15,5 +16,6 @@
 	"adminlinks_users": "সদস্যসকল",
 	"adminlinks_browsesearch": "ব্ৰাউজ আৰু সন্ধান",
 	"adminlinks_importexport": "আমদানি আৰু ৰপ্তানি",
+	"adminlinks_pagenotfound": "$1 নামৰ কোনো বিশেষ পৃষ্ঠা পোৱা নগ'ল।",
 	"right-adminlinks": "সংযোগটো [[Special:AdminLinks|প্ৰশাসক সংযোগসমূহত]] চাওক"
 }

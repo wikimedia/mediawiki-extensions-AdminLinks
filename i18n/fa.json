@@ -18,6 +18,6 @@
 	"adminlinks_users": "کاربران",
 	"adminlinks_browsesearch": "مرور و جستجو",
 	"adminlinks_importexport": "درون‌ریزی و برون‌بری",
-	"adminlinks_pagenotfound": "تلاش برای یافتن صفحه با این نام ناموفق بود: $1.",
+	"adminlinks_pagenotfound": "تلاش برای یافتن صفحهٔ ویژه با این نام ناموفق بود: $1.",
 	"right-adminlinks": "پیوند به [[Special:AdminLinks|پیوندهای مدیران]] را ببینید"
 }
