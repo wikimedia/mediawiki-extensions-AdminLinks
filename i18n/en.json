@@ -15,5 +15,6 @@
 	"adminlinks_browsesearch": "Browse and search",
 	"adminlinks_importexport": "Import and export",
 	"adminlinks_pagenotfound": "Failed to find special page with name: $1.",
+	"action-adminlinks": "see admin links",
 	"right-adminlinks": "See the link to [[Special:AdminLinks|Admin links]]"
 }
