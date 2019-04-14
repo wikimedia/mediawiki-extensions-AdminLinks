@@ -4,7 +4,8 @@
 			"NickK",
 			"Prima klasy4na",
 			"Ahonc",
-			"Piramidion"
+			"Piramidion",
+			"Vlad5250"
 		]
 	},
 	"adminlinks": "Посилання для адміністраторів",
@@ -18,5 +19,6 @@
 	"adminlinks_browsesearch": "Перегляд і пошук",
 	"adminlinks_importexport": "Імпорт та експорт",
 	"adminlinks_pagenotfound": "Не вдалося знайти спеціальну сторінку з назвою: $1.",
+	"action-adminlinks": "перегляд посилань для адміністраторів",
 	"right-adminlinks": "перегляд [[Special:AdminLinks|посилань для адміністраторів]]"
 }

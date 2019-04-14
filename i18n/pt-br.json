@@ -3,7 +3,8 @@
 		"authors": [
 			"Eduardo.mps",
 			"555",
-			"!Silent"
+			"!Silent",
+			"Eduardo Addad de Oliveira"
 		]
 	},
 	"adminlinks": "Links administrativos",
@@ -17,5 +18,6 @@
 	"adminlinks_browsesearch": "Navegação e pesquisa",
 	"adminlinks_importexport": "Importação e exportação",
 	"adminlinks_pagenotfound": "Falha ao buscar a página especial com o nome: $1.",
+	"action-adminlinks": "ver links de administrador",
 	"right-adminlinks": "Ver o link para a página [[Special:AdminLinks|Links para administradores]]"
 }

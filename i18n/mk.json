@@ -15,5 +15,6 @@
 	"adminlinks_browsesearch": "Прелистување и пребарување",
 	"adminlinks_importexport": "Увоз и извоз",
 	"adminlinks_pagenotfound": "Не успеав да пронајдам службена страница со името: $1.",
+	"action-adminlinks": "гледате администраторски врски",
 	"right-adminlinks": "Приказ на врската до [[Special:AdminLinks|Администраторските врски]]"
 }

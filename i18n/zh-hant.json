@@ -7,7 +7,8 @@
 			"Waihorace",
 			"Cwlin0416",
 			"Sanmosa",
-			"A2093064"
+			"A2093064",
+			"Kly"
 		]
 	},
 	"adminlinks": "管理連結",
@@ -21,5 +22,6 @@
 	"adminlinks_browsesearch": "瀏覽與搜尋",
 	"adminlinks_importexport": "匯入與匯出",
 	"adminlinks_pagenotfound": "找不到名為 $1 的特殊頁面。",
+	"action-adminlinks": "查看管理連結",
 	"right-adminlinks": "檢視 [[Special:AdminLinks|管理連結]] 頁面"
 }

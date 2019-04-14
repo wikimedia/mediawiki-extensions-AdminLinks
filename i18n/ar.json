@@ -17,5 +17,6 @@
 	"adminlinks_browsesearch": "التصفح والبحث",
 	"adminlinks_importexport": "الاستيراد والتصدير",
 	"adminlinks_pagenotfound": "فشل العثور على صفحة خاصة باسم: $1.",
+	"action-adminlinks": "رؤية وصلات الإدارة",
 	"right-adminlinks": "انظر الوصلة إلى [[Special:AdminLinks|وصلات الإدارة]]"
 }
