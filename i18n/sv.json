@@ -17,5 +17,6 @@
 	"adminlinks_browsesearch": "Bläddra och sök",
 	"adminlinks_importexport": "Importera och exportera",
 	"adminlinks_pagenotfound": "Misslyckades att hitta specialsida med namn: $1",
+	"action-adminlinks": "se administratörslänkar",
 	"right-adminlinks": "Se länken till [[Special:AdminLinks|administrationslänkarna]]"
 }
