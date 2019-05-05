@@ -5,7 +5,8 @@
 			"Kwj2772",
 			"아라",
 			"Jerrykim306",
-			"Ykhwong"
+			"Ykhwong",
+			"Son77391"
 		]
 	},
 	"adminlinks": "관리용 링크 모음",
@@ -19,5 +20,6 @@
 	"adminlinks_browsesearch": "찾아보기 및 검색",
 	"adminlinks_importexport": "가져오기 및 내보내기",
 	"adminlinks_pagenotfound": "$1 이름의 특수문서 찾기를 실패했습니다.",
+	"action-adminlinks": "관리자 링크 보기",
 	"right-adminlinks": "[[Special:AdminLinks|관리자용 링크]]를 보기"
 }
