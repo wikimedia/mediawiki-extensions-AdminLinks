@@ -3,7 +3,8 @@
 		"authors": [
 			"Rotemliss",
 			"YaronSh",
-			"Guycn2"
+			"Guycn2",
+			"Steeve815"
 		]
 	},
 	"adminlinks": "קישורים למפעילי מערכת",
@@ -17,5 +18,6 @@
 	"adminlinks_browsesearch": "עיון וחיפוש",
 	"adminlinks_importexport": "ייבוא וייצוא",
 	"adminlinks_pagenotfound": "לא ניתן היה למצוא דף מיוחד בשם: $1.",
+	"action-adminlinks": "צפייה בקישורים למפעילי מערכת",
 	"right-adminlinks": "צפייה ב[[Special:AdminLinks|קישורים למפעילי מערכת]]"
 }
