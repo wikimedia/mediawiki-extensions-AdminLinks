@@ -2,19 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Рашат Якупов",
-			"Ильнар"
+			"Ильнар",
+			"Ерней"
 		]
 	},
 	"adminlinks": "Идарәчеләр өчен сылтамалар",
-	"adminlinks-desc": "Идарәчеләр өчен кирәкле булган [[Special:AdminLinks|махсус биткә]] сылтама өсти",
+	"adminlinks-desc": "Идарәчеләр өчен кирәкле булган сылтамалар белән [[Special:AdminLinks|махсус битне]] өсти",
 	"adminlinks_documentation": "$1 өчен документация",
 	"adminlinks_general": "Гомуми",
-	"adminlinks_editsidebar": "Ян өлгене төзәтү",
-	"adminlinks_editcss": "CSS файлны төзәтү",
-	"adminlinks_editmainpagename": "Баш битнең исемен төзәтү",
-	"adminlinks_users": "Катнашучылар",
+	"adminlinks_editsidebar": "Ян өлгене үзгәртү",
+	"adminlinks_editcss": "CSS файлны үзгәртү",
+	"adminlinks_editmainpagename": "Баш битнең исемен үзгәртү",
+	"adminlinks_users": "Кулланучылар",
 	"adminlinks_browsesearch": "Карау һәм эзләү",
-	"adminlinks_importexport": "Импорт һәм экспорт",
-	"adminlinks_pagenotfound": "$1- исемле махсус битте табып булмады.",
+	"adminlinks_importexport": "Кертү һәм чыгару",
+	"adminlinks_pagenotfound": "$1 исемле махсус битне табып булмады.",
+	"action-adminlinks": "идарә сылтамаларын карау",
 	"right-adminlinks": "[[Special:AdminLinks|Идарәчеләр өчен сылтамаларны]] карау"
 }
