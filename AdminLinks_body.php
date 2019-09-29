@@ -5,6 +5,7 @@
  * @author Yaron Koren
  */
 
+use MediaWiki\Linker\LinkTarget;
 use MediaWiki\MediaWikiServices;
 
 class AdminLinks extends SpecialPage {
@@ -128,17 +129,23 @@ class AdminLinks extends SpecialPage {
 	/**
 	 * Helper function for backward compatibility.
 	 *
-	 * @param string $title
-	 * @param string|null $msg
+	 * @param LinkTarget|Title $title
+	 * @param string|null $msg Must be HTML escaped already
 	 * @param array $attrs
-	 * @param array $params
+	 * @param array $params Query parameters
 	 * @return string
 	 */
 	public static function makeLink( $title, $msg = null, $attrs = array(), $params = array() ) {
 		if ( function_exists( 'MediaWiki\MediaWikiServices::getLinkRenderer' ) ) {
 			// MW 1.28+
 			$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
-			return $linkRenderer->makeKnownLink( $title, $msg, $attrs, $params );
+			if ( $msg !== null ) {
+				$html = new HtmlArmor( $msg );
+			} else {
+				// null
+				$html = $msg;
+			}
+			return $linkRenderer->makeKnownLink( $title, $html, $attrs, $params );
 		} else {
 			return Linker::linkKnown( $title, $msg, $attrs, $params );
 		}
@@ -293,7 +300,7 @@ class ALItem {
 		} else {
 			$title = Title::newFromText( $page_name_or_title );
 		}
-		$item->text = AdminLinks::makeLink( $title, $desc, array(), $query );
+		$item->text = AdminLinks::makeLink( $title, htmlspecialchars( $desc ), array(), $query );
 		return $item;
 	}
 
@@ -303,7 +310,8 @@ class ALItem {
 		$item->label = $page_name;
 		$page = SpecialPageFactory::getPage( $page_name );
 		if ( $page ) {
-			$item->text = AdminLinks::makeLink( $page->getPageTitle(), $page->getDescription() );
+			$item->text = AdminLinks::makeLink( $page->getPageTitle(),
+				htmlspecialchars( $page->getDescription() ) );
 		} else {
 			$wgOut->addHTML( "<span class=\"error\">" .
 				wfMessage( 'adminlinks_pagenotfound', $page_name )->escaped() . "<br></span>" );
