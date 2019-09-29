@@ -126,14 +126,14 @@ class AdminLinks extends SpecialPage {
 	}
 
 	/**
-+        * Helper function for backward compatibility.
-+        *
-+        * @param string $title
-+        * @param string|null $msg
-+        * @param array $attrs
-+        * @param array $params
+	 * Helper function for backward compatibility.
+	 *
+	 * @param string $title
+	 * @param string|null $msg
+	 * @param array $attrs
+	 * @param array $params
 	 * @return string
-+        */
+	 */
 	public static function makeLink( $title, $msg = null, $attrs = array(), $params = array() ) {
 		if ( function_exists( 'MediaWiki\MediaWikiServices::getLinkRenderer' ) ) {
 			// MW 1.28+
