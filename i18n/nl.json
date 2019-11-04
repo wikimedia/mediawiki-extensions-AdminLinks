@@ -4,7 +4,8 @@
 			"Siebrand",
 			"Jeleniccz",
 			"Mar(c)",
-			"Mainframe98"
+			"Mainframe98",
+			"McDutchie"
 		]
 	},
 	"adminlinks": "Koppelingen voor beheerders",
@@ -18,6 +19,6 @@
 	"adminlinks_browsesearch": "Bekijken en zoeken",
 	"adminlinks_importexport": "Importeren en exporteren",
 	"adminlinks_pagenotfound": "Geen speciale pagina met de naam: $1.",
-	"action-adminlinks": "de koppeling naar koppeling voor beheerders te zien",
+	"action-adminlinks": "beheerderskoppelingen te zien",
 	"right-adminlinks": "De koppeling naar [[Special:AdminLinks|koppeling voor beheerders]] zien"
 }

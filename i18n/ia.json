@@ -15,5 +15,6 @@
 	"adminlinks_browsesearch": "Navigation e recerca",
 	"adminlinks_importexport": "Importation e exportation",
 	"adminlinks_pagenotfound": "Non se trova un pagina special con nomine: $1.",
+	"action-adminlinks": "vider ligamines de administrator",
 	"right-adminlinks": "Vider le ligamine verso [[Special:AdminLinks|Ligamines pro administratores]]"
 }
