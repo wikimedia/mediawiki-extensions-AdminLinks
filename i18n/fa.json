@@ -5,19 +5,21 @@
 			"Huji",
 			"Sahim",
 			"ZxxZxxZ",
-			"Hamisun"
+			"Hamisun",
+			"Alireza Ivaz"
 		]
 	},
 	"adminlinks": "پیوندهای مدیران",
 	"adminlinks-desc": "[[Special:AdminLinks|صفحه‌ای ویژه]] دارای پیوندهایی مفید برای مدیران اضافه می‌کند",
 	"adminlinks_documentation": "مستندات $1",
 	"adminlinks_general": "عمومی",
-	"adminlinks_editsidebar": "نوار ویرایش",
+	"adminlinks_editsidebar": "ویرایش نوار کناری",
 	"adminlinks_editcss": "ویرایش پروندهٔ سی‌اس‌اس",
-	"adminlinks_editmainpagename": "ویرایش نام از طریق صفحهٔ اصلی",
+	"adminlinks_editmainpagename": "ویرایش نام صفحۀ اصلی",
 	"adminlinks_users": "کاربران",
 	"adminlinks_browsesearch": "مرور و جستجو",
 	"adminlinks_importexport": "درون‌ریزی و برون‌بری",
 	"adminlinks_pagenotfound": "تلاش برای یافتن صفحهٔ ویژه با این نام ناموفق بود: $1.",
+	"action-adminlinks": "پیوندهای مدیران را ببینید",
 	"right-adminlinks": "پیوند به [[Special:AdminLinks|پیوندهای مدیران]] را ببینید"
 }
