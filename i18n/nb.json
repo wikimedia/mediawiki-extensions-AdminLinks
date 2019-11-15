@@ -7,7 +7,7 @@
 	},
 	"adminlinks": "Adminlenker",
 	"adminlinks-desc": "Legger til en [[Special:AdminLinks|spesialside]] som inneholder nyttige lenker for administratorer",
-	"adminlinks_documentation": "dokumentasjon for $1",
+	"adminlinks_documentation": "{{GRAMMAR:genitive|$1}} dokumentasjon",
 	"adminlinks_general": "Generelt",
 	"adminlinks_editsidebar": "Endre sidespalten",
 	"adminlinks_editcss": "Rediger CSS-filen",
