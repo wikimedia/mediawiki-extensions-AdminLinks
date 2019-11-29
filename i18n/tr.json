@@ -16,5 +16,6 @@
 	"adminlinks_browsesearch": "Gezinme ve arama",
 	"adminlinks_importexport": "İçe ve dışa aktarma",
 	"adminlinks_pagenotfound": "$1 adında özel bir sayfa bulunamadı.",
+	"action-adminlinks": "yönetici bağlantılarına bakın",
 	"right-adminlinks": "[[Special:AdminLinks|Hizmetli bağlantılarına]] giden bağlantıyı gör"
 }
