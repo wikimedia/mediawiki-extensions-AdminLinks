@@ -90,17 +90,21 @@ class AdminLinks extends SpecialPage {
 	 *
 	 * @param array $personal_urls
 	 * @param Title $title
+	 * @param SkinTemplate $skinTemplate
 	 *
 	 * @return bool true
 	 */
-	public static function addURLToUserLinks( array &$personal_urls, Title &$title ) {
-		global $wgUser;
+	public static function addURLToUserLinks(
+		array &$personal_urls,
+		Title &$title,
+		SkinTemplate $skinTemplate
+	) {
 		// if user is a sysop, add link
-		if ( $wgUser->isAllowed( 'adminlinks' ) ) {
+		if ( $skinTemplate->getUser()->isAllowed( 'adminlinks' ) ) {
 			$al = SpecialPage::getTitleFor( 'AdminLinks' );
 			$href = $al->getLocalURL();
 			$admin_links_vals = array(
-				'text' => wfMessage( 'adminlinks' )->text(),
+				'text' => $skinTemplate->msg( 'adminlinks' )->text(),
 				'href' => $href,
 				'active' => ( $href == $title->getLocalURL() )
 			);
