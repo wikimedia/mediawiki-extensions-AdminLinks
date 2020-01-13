@@ -9,7 +9,7 @@ full text and terms of the license.
 
 == Overview ==
 
-Admin Links is an extension to MediaWiki that provides a new special page
+Admin Links is an extension to MediaWiki that provides a special page
 meant to hold links that are useful to an administrator; it attempts to
 function as a "control panel" for the actions that a wiki administrator
 typically has to perform. Any user can access this page, but for
@@ -25,18 +25,15 @@ https://www.mediawiki.org/wiki/Extension:Admin_Links
 
 == Requirements ==
 
-This version of the Admin Links extension requires MediaWiki 1.23 or higher
-and PHP 5.3.0 or later.
+This version of the Admin Links extension requires MediaWiki 1.28 or higher.
 
 == Installation ==
 
-To install the extension, place the entire 'AdminLinks' directory
-within your MediaWiki 'extensions' directory, then add either one of the
-following lines to your 'LocalSettings.php' file:
+To install the extension, place the entire 'AdminLinks' directory within
+your MediaWiki 'extensions' directory, then add the following line to your
+LocalSettings.php file:
 
      wfLoadExtension( 'AdminLinks' );
-
-     require_once( "$IP/extensions/AdminLinks/AdminLinks.php" );
 
 == Contact ==
 

@@ -140,19 +140,14 @@ class AdminLinks extends SpecialPage {
 	 * @return string
 	 */
 	public static function makeLink( $title, $msg = null, $attrs = array(), $params = array() ) {
-		if ( function_exists( 'MediaWiki\MediaWikiServices::getLinkRenderer' ) ) {
-			// MW 1.28+
-			$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
-			if ( $msg !== null ) {
-				$html = new HtmlArmor( $msg );
-			} else {
-				// null
-				$html = $msg;
-			}
-			return $linkRenderer->makeKnownLink( $title, $html, $attrs, $params );
+		$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
+		if ( $msg !== null ) {
+			$html = new HtmlArmor( $msg );
 		} else {
-			return Linker::linkKnown( $title, $msg, $attrs, $params );
+			// null
+			$html = $msg;
 		}
+		return $linkRenderer->makeKnownLink( $title, $html, $attrs, $params );
 	}
 
 	protected function getGroupName() {
