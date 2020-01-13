@@ -28,11 +28,11 @@
 		"AdminLinksAlias": "AdminLinks.alias.php"
 	},
 	"AutoloadClasses": {
-		"AdminLinks": "AdminLinks_body.php",
-		"ALTree": "AdminLinks_body.php",
-		"ALSection": "AdminLinks_body.php",
-		"ALRow": "AdminLinks_body.php",
-		"ALItem": "AdminLinks_body.php"
+		"AdminLinks": "includes/AdminLinks.php",
+		"ALTree": "includes/ALTree.php",
+		"ALSection": "includes/ALSection.php",
+		"ALRow": "includes/ALRow.php",
+		"ALItem": "includes/ALItem.php"
 	},
 	"Hooks": {
 		"PersonalUrls": "AdminLinks::addURLToUserLinks"
