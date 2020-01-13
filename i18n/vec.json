@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Candalua",
-			"Vajotwo"
+			"Vajotwo",
+			"Conky77"
 		]
 	},
 	"adminlinks": "Paneło admin",
@@ -10,7 +11,7 @@
 	"adminlinks_general": "Xenerałe",
 	"adminlinks_editsidebar": "Modifega sidebar",
 	"adminlinks_editcss": "Modifega file CSS",
-	"adminlinks_editmainpagename": "Modifega el nome deła pajina prinsipałe",
+	"adminlinks_editmainpagename": "Modifega el nome de ƚa pàgina prinsipaƚe",
 	"adminlinks_users": "Utenti",
 	"adminlinks_browsesearch": "Visuałisa e riserca",
 	"adminlinks_importexport": "Inporta ed esporta",
