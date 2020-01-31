@@ -5,14 +5,15 @@
 			"Prima klasy4na",
 			"Ahonc",
 			"Piramidion",
-			"Vlad5250"
+			"Vlad5250",
+			"VolodymyrF"
 		]
 	},
 	"adminlinks": "Посилання для адміністраторів",
 	"adminlinks-desc": "Додає [[Special:AdminLinks|спеціальну сторінку]], яка містить корисні посилання для адміністраторів",
 	"adminlinks_documentation": "документація $1",
 	"adminlinks_general": "Загальні",
-	"adminlinks_editsidebar": "Редагувати бічну панелель",
+	"adminlinks_editsidebar": "Редагувати бічну панель",
 	"adminlinks_editcss": "Редагувати CSS-файл",
 	"adminlinks_editmainpagename": "Змінити назву головної сторінки",
 	"adminlinks_users": "Користувачі",
