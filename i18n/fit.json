@@ -16,5 +16,5 @@
 	"adminlinks_importexport": "Importeeraus ja eksporteeraus",
 	"adminlinks_pagenotfound": "Spesiaalisivua nimellä $1 ei löyetty.",
 	"action-adminlinks": "nähä ylläpitäjän länkkejä",
-	"right-adminlinks": "Nähä länkin sivule [[Special:AdminLinks|ylläpitäjien länkit]]"
+	"right-adminlinks": "Nähä länkin sivule [[Special:AdminLinks|ylläpitäjitten länkit]]"
 }
