@@ -1,4 +1,7 @@
 <?php
+
+use MediaWiki\MediaWikiServices;
+
 /**
  * A single 'item' in the AdminLinks page, most likely representing a link
  * but also conceivably containing other text; also contains a label, which
@@ -24,7 +27,16 @@ class ALItem {
 		global $wgOut;
 		$item = new ALItem();
 		$item->label = $page_name;
-		$page = SpecialPageFactory::getPage( $page_name );
+
+		if ( class_exists( 'MediaWiki\Special\SpecialPageFactory' ) ) {
+			// MW 1.32+
+			$page = MediaWikiServices::getInstance()
+				->getSpecialPageFactory()
+				->getPage( $page_name );
+		} else {
+			$page = SpecialPageFactory::getPage( $page_name );
+		}
+
 		if ( $page ) {
 			$item->text = AdminLinks::makeLink( $page->getPageTitle(),
 				htmlspecialchars( $page->getDescription() ) );
