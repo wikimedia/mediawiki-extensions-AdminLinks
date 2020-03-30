@@ -16,5 +16,6 @@
 	"adminlinks_browsesearch": "เรียกดูและค้นหา",
 	"adminlinks_importexport": "นำเข้าและส่งออก",
 	"adminlinks_pagenotfound": "ไม่สามารถค้นหาหน้าพิเศษที่มีชื่อ: $1",
+	"action-adminlinks": "ดูลิงก์ผู้ดูแลระบบ",
 	"right-adminlinks": "ดูลิงก์ไปยัง[[Special:AdminLinks|ลิงก์สำหรับผู้ดูแลระบบ]]"
 }
