@@ -1,11 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Siebrand",
 			"Jeleniccz",
-			"Mar(c)",
 			"Mainframe98",
-			"McDutchie"
+			"Mar(c)",
+			"McDutchie",
+			"Siebrand"
 		]
 	},
 	"adminlinks": "Koppelingen voor beheerders",
