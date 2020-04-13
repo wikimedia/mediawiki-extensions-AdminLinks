@@ -8,7 +8,7 @@
 		]
 	},
 	"adminlinks": "Adminlinks",
-	"adminlinks-desc": "Ergänzt eine [[Special:AdminLinks|Spezialseite]] mit hilfreichen Links für Administratoren",
+	"adminlinks-desc": "Erweitert das Wiki um eine [[Special:AdminLinks|Spezialseite]] mit hilfreichen Links für Administratoren",
 	"adminlinks_documentation": "Dokumentation zu „$1“",
 	"adminlinks_general": "Allgemein",
 	"adminlinks_editsidebar": "Seitenleiste bearbeiten",
