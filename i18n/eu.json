@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"An13sa",
+			"Manex",
 			"Subi"
 		]
 	},
@@ -13,5 +14,7 @@
 	"adminlinks_editmainpagename": "Azalaren izena aldatu",
 	"adminlinks_users": "Erabiltzaileak",
 	"adminlinks_browsesearch": "Arakatu eta bilatu",
-	"adminlinks_importexport": "Inportatu eta esportatu"
+	"adminlinks_importexport": "Inportatu eta esportatu",
+	"adminlinks_pagenotfound": "Porrota orrialde berezia izen honekin bilatzerakoan: $1.",
+	"action-adminlinks": "ikusi administratzaileen loturak"
 }
