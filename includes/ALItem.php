@@ -18,6 +18,9 @@ class ALItem {
 			$title = $page_name_or_title;
 		} else {
 			$title = Title::newFromText( $page_name_or_title );
+			if ( !$title ) {
+				return null;
+			}
 		}
 		$item->text = AdminLinks::makeLink( $title, htmlspecialchars( $desc ), array(), $query );
 		return $item;
