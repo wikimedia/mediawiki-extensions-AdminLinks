@@ -72,15 +72,14 @@ class AdminLinks extends SpecialPage {
 	}
 
 	function execute( $query ) {
+		$out = $this->getOutput();
+
 		$this->setHeaders();
+		$out->addModuleStyles( 'mediawiki.special' );
+
 		$admin_links_tree = $this->createInitialTree();
 		Hooks::run( 'AdminLinks', array( &$admin_links_tree ) );
-		global $wgOut;
-		if ( method_exists( $wgOut, 'addModuleStyles' ) &&
-			( $wgOut->getResourceLoader()->getModule( 'mediawiki.special' ) ) !== null ) {
-			$wgOut->addModuleStyles( 'mediawiki.special' );
-		}
-		$wgOut->addHTML( $admin_links_tree->toString() );
+		$out->addHTML( $admin_links_tree->toString() );
 	}
 
 	/**
