@@ -31,12 +31,13 @@ class ALItem {
 		$item = new ALItem();
 		$item->label = $page_name;
 
-		if ( class_exists( 'MediaWiki\Special\SpecialPageFactory' ) ) {
+		if ( method_exists( 'MediaWiki\MediaWikiServices', 'getSpecialPageFactory' ) ) {
 			// MW 1.32+
 			$page = MediaWikiServices::getInstance()
 				->getSpecialPageFactory()
 				->getPage( $page_name );
 		} else {
+			/** @phan-suppress-next-line PhanUndeclaredClassMethod */
 			$page = SpecialPageFactory::getPage( $page_name );
 		}
 
