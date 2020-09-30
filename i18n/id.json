@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Bennylin"
+			"Bennylin",
+			"Daud I.F. Argana"
 		]
 	},
 	"adminlinks": "Pranala admin",
@@ -14,5 +15,7 @@
 	"adminlinks_users": "Pengguna",
 	"adminlinks_browsesearch": "Menjelajah dan mencari",
 	"adminlinks_importexport": "Mengimpor dan ekspor",
+	"adminlinks_pagenotfound": "Gagal menemukan halaman spesial dengan nama: $1.",
+	"action-adminlinks": "melihat pranala admin",
 	"right-adminlinks": "Lihat pranala ke [[Special:AdminLinks|Pranala admin]]"
 }
