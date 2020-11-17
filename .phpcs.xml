@@ -2,12 +2,13 @@
 <ruleset>
 	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
 		<exclude name="MediaWiki.Commenting.FunctionComment" />
+		<exclude name="MediaWiki.Commenting.PropertyDocumentation" />
 		<exclude name="Generic.Arrays.DisallowLongArraySyntax" />
 		<exclude name="Squiz.Scope.MethodScope.Missing" />
 	</rule>
 	<!-- keep support for php 5.3 -->
 	<rule ref="Generic.Arrays.DisallowShortArraySyntax" />
 	<file>.</file>
-	<arg name="extensions" value="php,php5,inc"/>
+	<arg name="extensions" value="php"/>
 	<arg name="encoding" value="UTF-8"/>
 </ruleset>
