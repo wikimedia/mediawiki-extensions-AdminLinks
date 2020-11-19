@@ -22,6 +22,7 @@ class ALItem {
 				return null;
 			}
 		}
+		// @phan-suppress-next-line SecurityCheck-DoubleEscaped
 		$item->text = AdminLinks::makeLink( $title, htmlspecialchars( $desc ), array(), $query );
 		return $item;
 	}
@@ -42,6 +43,7 @@ class ALItem {
 		}
 
 		if ( $page ) {
+			// @phan-suppress-next-line SecurityCheck-DoubleEscaped
 			$item->text = AdminLinks::makeLink( $page->getPageTitle(),
 				htmlspecialchars( $page->getDescription() ) );
 		} else {
