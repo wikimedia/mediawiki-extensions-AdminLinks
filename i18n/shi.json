@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Amara-Amaziɣ",
+			"Amire80",
 			"Dalinanir",
 			"Lhoussine AIT TAYFST"
 		]
@@ -10,7 +11,7 @@
 	"adminlinks-desc": "Zaydn i [[Special:AdminLinks|tasna tamzlayt]] izdayn li ra yaws imɣarn",
 	"adminlinks_documentation": "antam n $1",
 	"adminlinks_general": "amatay",
-	"adminlinks_editsidebar": "Ara tannalt n tasga (colonne= tannalt)",
+	"adminlinks_editsidebar": "Ara tannalt n tasga",
 	"adminlinks_editcss": "Ara asdaw CSS",
 	"adminlinks_editmainpagename": "Sbadl assaɣ n tasna tamuqqrant",
 	"adminlinks_users": "ismrasn",
