@@ -3,11 +3,15 @@
 	<rule ref="./vendor/mediawiki/mediawiki-codesniffer/MediaWiki">
 		<exclude name="MediaWiki.Commenting.FunctionComment" />
 		<exclude name="MediaWiki.Commenting.PropertyDocumentation" />
-		<exclude name="Generic.Arrays.DisallowLongArraySyntax" />
 		<exclude name="Squiz.Scope.MethodScope.Missing" />
 	</rule>
+
 	<!-- keep support for php 5.3 -->
 	<rule ref="Generic.Arrays.DisallowShortArraySyntax" />
+	<rule ref="Generic.Arrays.DisallowLongArraySyntax">
+		<severity>0</severity>
+	</rule>
+
 	<file>.</file>
 	<arg name="extensions" value="php"/>
 	<arg name="encoding" value="UTF-8"/>
