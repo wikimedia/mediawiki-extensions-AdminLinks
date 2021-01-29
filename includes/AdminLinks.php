@@ -87,8 +87,8 @@ class AdminLinks extends SpecialPage {
 	 * among the user's "personal URLs" at the top, if they have
 	 * the 'adminlinks' permission.
 	 *
-	 * @param array $personal_urls
-	 * @param Title $title
+	 * @param array &$personal_urls
+	 * @param Title &$title
 	 * @param SkinTemplate $skinTemplate
 	 *
 	 * @return bool true
