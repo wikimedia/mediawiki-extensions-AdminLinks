@@ -149,6 +149,7 @@ class AdminLinks extends SpecialPage {
 		return $linkRenderer->makeKnownLink( $title, $html, $attrs, $params );
 	}
 
+	/** @inheritDoc */
 	protected function getGroupName() {
 		return 'users';
 	}
