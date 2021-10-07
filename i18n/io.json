@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"JSantos",
 			"Joao Xavier"
 		]
 	},
-	"adminlinks_editmainpagename": "Redaktar nomo di la chefpagino"
+	"adminlinks_editmainpagename": "Redaktar nomo di la chefpagino",
+	"adminlinks_users": "Uzeri"
 }
