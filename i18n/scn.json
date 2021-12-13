@@ -3,7 +3,8 @@
 		"authors": [
 			"Aushulz",
 			"Pippinu",
-			"Sarvaturi"
+			"Sarvaturi",
+			"Ajeje Brazorf"
 		]
 	},
 	"adminlinks": "Liami pi l'amministratura",
@@ -16,5 +17,6 @@
 	"adminlinks_users": "Utenti",
 	"adminlinks_browsesearch": "Splurazzioni e arricerca",
 	"adminlinks_importexport": "Mpurtazzioni e spurtazzioni",
+	"action-adminlinks": "talìa li liami pi l'amministratura",
 	"right-adminlinks": "Vìdiri la liami versu [[Special:AdminLinks|li liami pi l'amministratura]]"
 }

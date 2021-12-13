@@ -2,18 +2,20 @@
 	"@metadata": {
 		"authors": [
 			"Amara-Amaziɣ",
-			"Dalinanir"
+			"Dalinanir",
+			"Amire80",
+			"Lhoussine AIT TAYFST"
 		]
 	},
 	"adminlinks": "Izdayn imsfttutn",
 	"adminlinks-desc": "Zaydn i [[Special:AdminLinks|tasna tamzlayt]] izdayn li ra yaws imɣarn",
-	"adminlinks_documentation": "ⴰⵏⵜⴰⵎ ⵏ $1",
-	"adminlinks_general": "ⴰⵎⴰⵜⴰⵢ",
-	"adminlinks_editsidebar": "Ara tannalt n tasga (colonne= tannalt)",
+	"adminlinks_documentation": "antam n $1",
+	"adminlinks_general": "amatay",
+	"adminlinks_editsidebar": "Ara tannalt n tasga",
 	"adminlinks_editcss": "Ara asdaw CSS",
 	"adminlinks_editmainpagename": "Sbadl assaɣ n tasna tamuqqrant",
-	"adminlinks_users": "ⵉⵙⵎⵔⴰⵙⵏ",
-	"adminlinks_browsesearch": "ⴰⵙⵜⴰⵔⴰ ⴷ ⵓⵔⵣⵣⵓ",
+	"adminlinks_users": "ismrasn",
+	"adminlinks_browsesearch": "astara d urzzu",
 	"adminlinks_importexport": "Askcm d Attḥay",
 	"right-adminlinks": "Ẓr izdayn s [[Special:AdminLinks|Izdayn nu umsfttu]]"
 }
