@@ -9,7 +9,7 @@ class ALRow {
 
 	function __construct( $name ) {
 		$this->name = $name;
-		$this->items = array();
+		$this->items = [];
 	}
 
 	function addItem( $item, $next_item_label = null ) {
@@ -19,7 +19,7 @@ class ALRow {
 		}
 		foreach ( $this->items as $i => $cur_item ) {
 			if ( $cur_item->label === $next_item_label ) {
-				array_splice( $this->items, $i, 0, array( $item ) );
+				array_splice( $this->items, $i, 0, [ $item ] );
 				return;
 			}
 		}

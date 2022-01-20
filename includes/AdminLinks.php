@@ -78,7 +78,7 @@ class AdminLinks extends SpecialPage {
 		$out->addModuleStyles( 'mediawiki.special' );
 
 		$admin_links_tree = $this->createInitialTree();
-		Hooks::run( 'AdminLinks', array( &$admin_links_tree ) );
+		Hooks::run( 'AdminLinks', [ &$admin_links_tree ] );
 		$out->addHTML( $admin_links_tree->toString() );
 	}
 
@@ -102,11 +102,11 @@ class AdminLinks extends SpecialPage {
 		if ( $skinTemplate->getUser()->isAllowed( 'adminlinks' ) ) {
 			$al = SpecialPage::getTitleFor( 'AdminLinks' );
 			$href = $al->getLocalURL();
-			$admin_links_vals = array(
+			$admin_links_vals = [
 				'text' => $skinTemplate->msg( 'adminlinks' )->text(),
 				'href' => $href,
 				'active' => ( $href == $title->getLocalURL() )
-			);
+			];
 
 			// find the location of the 'my preferences' link, and
 			// add the link to 'AdminLinks' right before it.
@@ -118,9 +118,9 @@ class AdminLinks extends SpecialPage {
 			$tab_values = array_values( $personal_urls );
 			$prefs_location = array_search( 'preferences', $tab_keys );
 			array_splice( $tab_keys, $prefs_location, 0, 'adminlinks' );
-			array_splice( $tab_values, $prefs_location, 0, array( $admin_links_vals ) );
+			array_splice( $tab_values, $prefs_location, 0, [ $admin_links_vals ] );
 
-			$personal_urls = array();
+			$personal_urls = [];
 			$tabKeysCount = count( $tab_keys );
 			for ( $i = 0; $i < $tabKeysCount; $i++ ) {
 				$personal_urls[$tab_keys[$i]] = $tab_values[$i];
@@ -138,7 +138,7 @@ class AdminLinks extends SpecialPage {
 	 * @param array $params Query parameters
 	 * @return string
 	 */
-	public static function makeLink( $title, $msg = null, $attrs = array(), $params = array() ) {
+	public static function makeLink( $title, $msg = null, $attrs = [], $params = [] ) {
 		$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
 		if ( $msg !== null ) {
 			$html = new HtmlArmor( $msg );

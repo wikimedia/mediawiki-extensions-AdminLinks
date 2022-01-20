@@ -8,7 +8,7 @@ class ALSection {
 
 	function __construct( $header ) {
 		$this->header = $header;
-		$this->rows = array();
+		$this->rows = [];
 	}
 
 	function getRow( $row_name ) {
@@ -27,7 +27,7 @@ class ALSection {
 		}
 		foreach ( $this->rows as $i => $cur_row ) {
 			if ( $cur_row->name === $next_row_name ) {
-				array_splice( $this->rows, $i, 0, array( $row ) );
+				array_splice( $this->rows, $i, 0, [ $row ] );
 				return;
 			}
 		}

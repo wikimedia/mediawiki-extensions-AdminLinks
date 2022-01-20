@@ -11,7 +11,7 @@ class ALItem {
 	public $text;
 	public $label;
 
-	static function newFromPage( $page_name_or_title, $desc = null, $query = array() ) {
+	static function newFromPage( $page_name_or_title, $desc = null, $query = [] ) {
 		$item = new ALItem();
 		$item->label = $desc;
 		if ( $page_name_or_title instanceof Title ) {
@@ -23,7 +23,7 @@ class ALItem {
 			}
 		}
 		// @phan-suppress-next-line SecurityCheck-DoubleEscaped
-		$item->text = AdminLinks::makeLink( $title, htmlspecialchars( $desc ), array(), $query );
+		$item->text = AdminLinks::makeLink( $title, htmlspecialchars( $desc ), [], $query );
 		return $item;
 	}
 

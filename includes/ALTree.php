@@ -7,7 +7,7 @@ class ALTree {
 	public $sections;
 
 	function __construct() {
-		$this->sections = array();
+		$this->sections = [];
 	}
 
 	function getSection( $section_header ) {
@@ -26,7 +26,7 @@ class ALTree {
 		}
 		foreach ( $this->sections as $i => $cur_section ) {
 			if ( $cur_section->header === $next_section_header ) {
-				array_splice( $this->sections, $i, 0, array( $section ) );
+				array_splice( $this->sections, $i, 0, [ $section ] );
 				return;
 			}
 		}
