@@ -1,0 +1,18 @@
+{
+	"@metadata": {
+		"authors": [
+			"Khun Kt"
+		]
+	},
+	"adminlinks": "အဲတ်မဉ် လိဉ့်ဖိုင်ႏ",
+	"adminlinks_documentation": "$1 လိတ်စေးလာႏ",
+	"adminlinks_general": "အစွိုးစွိုးအဒဝ်ႏဒဝ်ႏ",
+	"adminlinks_editcss": "မွဉ်းဖျင် CSS ဖုဲင်",
+	"adminlinks_editmainpagename": "မွဉ်းဖျင် ဗဟိုႏလိတ်မဲ့ငါမိဉ်ꩻ",
+	"adminlinks_users": "ကေားသုင်ꩻသားဖိုင်ႏ",
+	"adminlinks_browsesearch": "ဗရောင်သာ တောမ်ႏ ထိုမ်ႏ",
+	"adminlinks_importexport": "အနွို့ တောမ်ႏ အထန်ႏ",
+	"adminlinks_pagenotfound": "ထိုမ်ႏထွား လိတ်မဲ့ငါတဲးဝါး တောမ်ႏအမိဉ်ꩻ- $1 အောင်ႏမျင်ႏတဝ်း",
+	"action-adminlinks": "ထွား အဲတ်မဉ် လိဉ့်ဖိုင်ႏ",
+	"right-adminlinks": "လွေꩻထွားလိဉ့် [[Special:AdminLinks|အဲတ်မဉ် လိဉ့်ဖိုင်ႏ]] ထျꩻ"
+}
