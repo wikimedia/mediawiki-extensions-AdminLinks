@@ -32,15 +32,9 @@ class ALItem {
 		$item = new ALItem();
 		$item->label = $page_name;
 
-		if ( method_exists( 'MediaWiki\MediaWikiServices', 'getSpecialPageFactory' ) ) {
-			// MW 1.32+
-			$page = MediaWikiServices::getInstance()
-				->getSpecialPageFactory()
-				->getPage( $page_name );
-		} else {
-			/** @phan-suppress-next-line PhanUndeclaredClassMethod */
-			$page = SpecialPageFactory::getPage( $page_name );
-		}
+		$page = MediaWikiServices::getInstance()
+			->getSpecialPageFactory()
+			->getPage( $page_name );
 
 		if ( $page ) {
 			// @phan-suppress-next-line SecurityCheck-DoubleEscaped
