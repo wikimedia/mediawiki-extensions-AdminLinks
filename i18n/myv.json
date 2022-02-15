@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Botuzhaleny-sodamo"
+			"Botuzhaleny-sodamo",
+			"Denö"
 		]
 	},
 	"adminlinks": "Администраторонь сюлмавома пенеть",
@@ -11,7 +12,7 @@
 	"adminlinks_editsidebar": "Витнемс-петнемс бокасо лазнэнть",
 	"adminlinks_editcss": "Витнемс-петнемс CSS файла",
 	"adminlinks_editmainpagename": "Витнемс-петнемс прякс лопанть лемензэ",
-	"adminlinks_users": "Совицят",
+	"adminlinks_users": "Теицятне",
 	"adminlinks_browsesearch": "Якавтомат-пакавтомат ды вешнема",
 	"adminlinks_importexport": "Совавтомат-ливтемат",
 	"right-adminlinks": "Ваномс [[Special:AdminLinks|администраторонь сюлмавома пенетнень]]"
