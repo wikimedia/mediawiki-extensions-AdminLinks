@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Alireza Ivaz",
+			"Beginneruser",
 			"Ebraminio",
 			"Hamisun",
 			"Huji",
@@ -10,7 +11,7 @@
 		]
 	},
 	"adminlinks": "پیوندهای مدیران",
-	"adminlinks-desc": "[[Special:AdminLinks|صفحه‌ای ویژه]] دارای پیوندهایی مفید برای مدیران اضافه می‌کند",
+	"adminlinks-desc": "[[Special:AdminLinks|صفحهٔ ویژه]] دارای پیوندهایی مفید برای مدیران اضافه می‌کند",
 	"adminlinks_documentation": "مستندات $1",
 	"adminlinks_general": "عمومی",
 	"adminlinks_editsidebar": "ویرایش نوار کناری",
