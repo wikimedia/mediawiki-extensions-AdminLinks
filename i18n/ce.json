@@ -5,8 +5,8 @@
 			"Умар"
 		]
 	},
-	"adminlinks": "Хьажоргаш куьйгалхошна",
-	"adminlinks-desc": "ТӀе туху [[Special:AdminLinks|белхан агӀо]], йолуш пайде хьажоргаш куьйгалхошна",
+	"adminlinks": "Хьажоргаш администраторшна",
+	"adminlinks-desc": "ТӀе туху [[Special:AdminLinks|белхан агӀо]], йолуш пайде хьажоргаш администраторшна",
 	"adminlinks_documentation": "документаци $1",
 	"adminlinks_general": "Йерриге",
 	"adminlinks_editsidebar": "Нисйе агӀонгара панель",
@@ -15,5 +15,5 @@
 	"adminlinks_users": "Декъашхой",
 	"adminlinks_browsesearch": "Хьажар а, лахар а",
 	"adminlinks_importexport": "Чуйахар а арайахар",
-	"right-adminlinks": "гарна [[Special:AdminLinks|хьажоргаш куьйгалхошна]]"
+	"right-adminlinks": "[[Special:AdminLinks|Хьажоргаш администраторшна]] агӀонан тӀекхачар"
 }
