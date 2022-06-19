@@ -295,7 +295,7 @@ $specialPageAliases['vi'] = [
 
 /** Simplified Chinese (中文（简体）‎) */
 $specialPageAliases['zh-hans'] = [
-	'AdminLinks' => [ '管理链接', '管理员链接' ],
+	'AdminLinks' => [ '管理员链接', '管理链接' ],
 ];
 
 /** Traditional Chinese (中文（繁體）‎) */
