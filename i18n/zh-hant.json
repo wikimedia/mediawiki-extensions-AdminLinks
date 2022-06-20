@@ -9,10 +9,11 @@
 			"Oapbtommy",
 			"Sanmosa",
 			"Waihorace",
-			"Xiplus"
+			"Xiplus",
+			"Lakejason0"
 		]
 	},
-	"adminlinks": "管理連結",
+	"adminlinks": "管理員連結",
 	"adminlinks-desc": "加入提供管理員常用的連結的[[Special:AdminLinks|特殊頁面]]",
 	"adminlinks_documentation": "$1 說明文件",
 	"adminlinks_general": "一般",
@@ -23,6 +24,6 @@
 	"adminlinks_browsesearch": "瀏覽與搜尋",
 	"adminlinks_importexport": "匯入與匯出",
 	"adminlinks_pagenotfound": "找不到名為 $1 的特殊頁面。",
-	"action-adminlinks": "查看管理連結",
-	"right-adminlinks": "檢視[[Special:AdminLinks|管理連結]]頁面"
+	"action-adminlinks": "查看管理員連結",
+	"right-adminlinks": "檢視[[Special:AdminLinks|管理員連結]]頁面"
 }
