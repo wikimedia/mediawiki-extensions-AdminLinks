@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bada Kaji",
 			"Bhawani Gautam",
 			"Bhawani Gautam Rhk",
 			"बिप्लब आनन्द",
@@ -18,5 +19,5 @@
 	"adminlinks_users": "प्रयोगकर्ताहरू",
 	"adminlinks_browsesearch": "ब्राउज र खोजी गर्ने",
 	"adminlinks_importexport": "आयात तथा निर्यात",
-	"right-adminlinks": "यो लिङ्क हेर्नुहोस [[Special:AdminLinks|प्रबन्धक लिङ्क]]"
+	"right-adminlinks": "यो लिङ्क हेर्नुहोस् [[Special:AdminLinks|प्रबन्धक लिङ्क]]"
 }
