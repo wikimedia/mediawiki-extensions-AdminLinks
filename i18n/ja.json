@@ -4,10 +4,11 @@
 			"Fryed-peach",
 			"Otokoume",
 			"Shirayuki",
-			"マツムシ"
+			"マツムシ",
+			"Sou0012"
 		]
 	},
-	"adminlinks": "管理者用リンク集",
+	"adminlinks": "管理リンク",
 	"adminlinks-desc": "管理者に有用なリンクを集めた[[Special:AdminLinks|特別ページ]]を追加する",
 	"adminlinks_documentation": "$1 の説明書",
 	"adminlinks_general": "全般",
