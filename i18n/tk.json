@@ -1,8 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hanberke"
+			"Hanberke",
+			"TayfunEt."
 		]
 	},
-	"adminlinks_users": "Ulanyjylar"
+	"adminlinks": "Admin baglanyşyklary",
+	"adminlinks_editmainpagename": "Esasy sahypanyň adyny redaktirläň",
+	"adminlinks_users": "Ulanyjylar",
+	"adminlinks_importexport": "Import we eksport",
+	"adminlinks_pagenotfound": "Ady bilen ýörite sahypa tapyp bilmedi: $1.",
+	"action-adminlinks": "administrator baglanyşyklaryna serediň"
 }
