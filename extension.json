@@ -9,7 +9,7 @@
 	"license-name": "GPL-2.0-or-later",
 	"type": "specialpage",
 	"requires": {
-		"MediaWiki": ">= 1.32.0"
+		"MediaWiki": ">= 1.35.0"
 	},
 	"GroupPermissions": {
 		"sysop": {
@@ -38,7 +38,7 @@
 		"ALItem": "includes/ALItem.php"
 	},
 	"Hooks": {
-		"PersonalUrls": "AdminLinks::addURLToUserLinks"
+		"SkinTemplateNavigation::Universal": "AdminLinks::addURLToUserLinks"
 	},
 	"manifest_version": 1
 }

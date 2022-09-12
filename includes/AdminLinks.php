@@ -87,17 +87,14 @@ class AdminLinks extends SpecialPage {
 	 * among the user's "personal URLs" at the top, if they have
 	 * the 'adminlinks' permission.
 	 *
-	 * @param array &$personal_urls
-	 * @param Title &$title
 	 * @param SkinTemplate $skinTemplate
-	 *
-	 * @return bool true
+	 * @param array &$links
+	 * @return void This hook must not abort, it must return no value
 	 */
 	public static function addURLToUserLinks(
-		array &$personal_urls,
-		Title &$title,
-		SkinTemplate $skinTemplate
-	) {
+		$skinTemplate,
+		&$links
+	): void {
 		// if user is a sysop, add link
 		if ( $skinTemplate->getUser()->isAllowed( 'adminlinks' ) ) {
 			$al = SpecialPage::getTitleFor( 'AdminLinks' );
@@ -105,7 +102,7 @@ class AdminLinks extends SpecialPage {
 			$admin_links_vals = [
 				'text' => $skinTemplate->msg( 'adminlinks' )->text(),
 				'href' => $href,
-				'active' => ( $href == $title->getLocalURL() )
+				'active' => ( $href == $skinTemplate->getTitle()->getLocalURL() )
 			];
 
 			// find the location of the 'my preferences' link, and
@@ -114,19 +111,18 @@ class AdminLinks extends SpecialPage {
 			// keys and the values of the array, by editing them
 			// separately and then rebuilding the array.
 			// based on the example at http://us2.php.net/manual/en/function.array-splice.php#31234
-			$tab_keys = array_keys( $personal_urls );
-			$tab_values = array_values( $personal_urls );
+			$tab_keys = array_keys( $links['user-menu'] );
+			$tab_values = array_values( $links['user-menu'] );
 			$prefs_location = array_search( 'preferences', $tab_keys );
 			array_splice( $tab_keys, $prefs_location, 0, 'adminlinks' );
 			array_splice( $tab_values, $prefs_location, 0, [ $admin_links_vals ] );
 
-			$personal_urls = [];
+			$links['user-menu'] = [];
 			$tabKeysCount = count( $tab_keys );
 			for ( $i = 0; $i < $tabKeysCount; $i++ ) {
-				$personal_urls[$tab_keys[$i]] = $tab_values[$i];
+				$links['user-menu'][$tab_keys[$i]] = $tab_values[$i];
 			}
 		}
-		return true;
 	}
 
 	/**
