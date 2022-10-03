@@ -6,7 +6,8 @@
 			"बिप्लब आनन्द",
 			"राम प्रसाद जोशी",
 			"सरोज कुमार ढकाल",
-			"Bada Kaji"
+			"Bada Kaji",
+			"बडा काजी"
 		]
 	},
 	"adminlinks": "प्रवन्धक लिङ्कहरू",
@@ -19,5 +20,5 @@
 	"adminlinks_users": "प्रयोगकर्ताहरू",
 	"adminlinks_browsesearch": "ब्राउज र खोजी गर्ने",
 	"adminlinks_importexport": "आयात तथा निर्यात",
-	"right-adminlinks": "यो लिङ्क हेर्नुहोस् [[Special:AdminLinks|प्रबन्धक लिङ्क]]"
+	"right-adminlinks": "यो कडी हेर्नुहोस् [[Special:AdminLinks|प्रबन्धक कडी]]"
 }
