@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Dbc334"
+			"Dbc334",
+			"Eleassar"
 		]
 	},
 	"adminlinks": "Skrbniške povezave",
@@ -15,5 +16,5 @@
 	"adminlinks_browsesearch": "Brskanje in iskanje",
 	"adminlinks_importexport": "Uvoz in izvoz",
 	"adminlinks_pagenotfound": "Nismo uspeli najti posebne strani z imenom: $1.",
-	"right-adminlinks": "Ogled povezav na [[Special:AdminLinks|Skrbniških povezavah]]"
+	"right-adminlinks": "Ogled povezave na [[Special:AdminLinks|Administratorske povezave]]"
 }
