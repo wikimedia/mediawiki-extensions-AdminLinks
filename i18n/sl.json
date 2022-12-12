@@ -16,5 +16,6 @@
 	"adminlinks_browsesearch": "Brskanje in iskanje",
 	"adminlinks_importexport": "Uvoz in izvoz",
 	"adminlinks_pagenotfound": "Nismo uspeli najti posebne strani z imenom: $1.",
+	"action-adminlinks": "glej administratorske povezave",
 	"right-adminlinks": "Ogled povezave na [[Special:AdminLinks|Administratorske povezave]]"
 }
