@@ -10,9 +10,11 @@
 	"adminlinks_general": "Opšte",
 	"adminlinks_editsidebar": "Uredi bočnu traku",
 	"adminlinks_editcss": "Uredi CSS datoteku",
-	"adminlinks_editmainpagename": "Izmeni naziv glavne stranice",
+	"adminlinks_editmainpagename": "Uredi naziv glavne strane",
 	"adminlinks_users": "Korisnici",
 	"adminlinks_browsesearch": "Pretraživanje",
 	"adminlinks_importexport": "Uvoz i izvoz",
+	"adminlinks_pagenotfound": "Nije pronađena posebna stranica sa nazivom: $1.",
+	"action-adminlinks": "pogledate administrativne veze",
 	"right-adminlinks": "pregledanje veze do [[Special:AdminLinks|administratorskih veza]]"
 }
