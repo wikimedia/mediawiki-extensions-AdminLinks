@@ -1,6 +1,6 @@
 {
 	"name": "Admin Links",
-	"version": "0.5",
+	"version": "0.6",
 	"author": [
 		"Yaron Koren"
 	],
@@ -36,6 +36,12 @@
 		"ALSection": "includes/ALSection.php",
 		"ALRow": "includes/ALRow.php",
 		"ALItem": "includes/ALItem.php"
+	},
+	"ConfigRegistry": {
+		"AdminLinks": "GlobalVarConfig::newInstance"
+	},
+	"config": {
+		"AdminLinksDelimiter": "·"
 	},
 	"Hooks": {
 		"SkinTemplateNavigation::Universal": "AdminLinks::addURLToUserLinks"
