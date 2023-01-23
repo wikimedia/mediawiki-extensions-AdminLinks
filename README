@@ -1,6 +1,6 @@
 Admin Links extension
 
-        Version 0.5
+        Version 0.6
         Yaron Koren
 
 This is free software licensed under the GNU General Public License. Please
@@ -34,6 +34,10 @@ your MediaWiki 'extensions' directory, then add the following line to your
 LocalSettings.php file:
 
      wfLoadExtension( 'AdminLinks' );
+
+== Configuration ==
+
+$wgAdminLinksDelimiter: The delimiter to use for separating links. Defaults to "·" (a middot).
 
 == Contact ==
 
