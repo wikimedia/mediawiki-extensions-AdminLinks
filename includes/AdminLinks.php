@@ -5,9 +5,6 @@
  * @author Yaron Koren
  */
 
-use MediaWiki\Linker\LinkTarget;
-use MediaWiki\MediaWikiServices;
-
 class AdminLinks extends SpecialPage {
 	/**
 	 * Constructor
@@ -123,26 +120,6 @@ class AdminLinks extends SpecialPage {
 				$links['user-menu'][$tab_keys[$i]] = $tab_values[$i];
 			}
 		}
-	}
-
-	/**
-	 * Helper function for backward compatibility.
-	 *
-	 * @param LinkTarget|Title $title
-	 * @param string|null $msg Must be HTML escaped already
-	 * @param array $attrs
-	 * @param array $params Query parameters
-	 * @return string
-	 */
-	public static function makeLink( $title, $msg = null, $attrs = [], $params = [] ) {
-		$linkRenderer = MediaWikiServices::getInstance()->getLinkRenderer();
-		if ( $msg !== null ) {
-			$html = new HtmlArmor( $msg );
-		} else {
-			// null
-			$html = $msg;
-		}
-		return $linkRenderer->makeKnownLink( $title, $html, $attrs, $params );
 	}
 
 	/** @inheritDoc */

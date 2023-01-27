@@ -22,8 +22,8 @@ class ALItem {
 				return null;
 			}
 		}
-		// @phan-suppress-next-line SecurityCheck-DoubleEscaped
-		$item->text = AdminLinks::makeLink( $title, htmlspecialchars( $desc ), [], $query );
+		$item->text = MediaWikiServices::getInstance()->getLinkRenderer()
+			->makeKnownLink( $title, $desc, [], $query );
 		return $item;
 	}
 
@@ -37,9 +37,8 @@ class ALItem {
 			->getPage( $page_name );
 
 		if ( $page ) {
-			// @phan-suppress-next-line SecurityCheck-DoubleEscaped
-			$item->text = AdminLinks::makeLink( $page->getPageTitle(),
-				htmlspecialchars( $page->getDescription() ) );
+			$item->text = MediaWikiServices::getInstance()->getLinkRenderer()
+				->makeKnownLink( $page->getPageTitle(), $page->getDescription() );
 		} else {
 			$wgOut->addHTML( "<span class=\"error\">" .
 				wfMessage( 'adminlinks_pagenotfound', $page_name )->escaped() . "<br></span>" );
