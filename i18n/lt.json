@@ -21,5 +21,6 @@
 	"adminlinks_browsesearch": "Naršyti ir ieškoti",
 	"adminlinks_importexport": "Importas ir eksportas",
 	"adminlinks_pagenotfound": "Nepavyko rasti specialaus puslapio su pavadinimu $1.",
+	"action-adminlinks": "žiūrėti administratoriaus nuorodas",
 	"right-adminlinks": "Žr. [[Special:AdminLinks|Administravimo nuorodų]] puslapį"
 }
