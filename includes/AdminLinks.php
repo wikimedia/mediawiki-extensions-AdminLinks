@@ -75,7 +75,7 @@ class AdminLinks extends SpecialPage {
 		$out->addModuleStyles( 'mediawiki.special' );
 
 		$admin_links_tree = $this->createInitialTree();
-		Hooks::run( 'AdminLinks', [ &$admin_links_tree ] );
+		$this->getHookContainer()->run( 'AdminLinks', [ &$admin_links_tree ] );
 		$out->addHTML( $admin_links_tree->toString() );
 	}
 
