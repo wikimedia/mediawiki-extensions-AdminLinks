@@ -4,6 +4,7 @@
 			"Narazeni"
 		]
 	},
+	"adminlinks": "ადმინისტრატორიშ რსხილეფი",
 	"adminlinks_documentation": "$1 დოკუმენტაცია",
 	"adminlinks_general": "თარი",
 	"adminlinks_editsidebar": "ხასჷლაშ კაბრაშ რედაქტირაფა",
@@ -11,5 +12,7 @@
 	"adminlinks_editmainpagename": "თარი ხასჷლაშ ჯოხოშ რედაქტირაფა",
 	"adminlinks_users": "მახვარებუეფი",
 	"adminlinks_browsesearch": "გინოჯინა დო გორუა",
-	"adminlinks_importexport": "იმპორტი დო ექსპორტი"
+	"adminlinks_importexport": "იმპორტი დო ექსპორტი",
+	"action-adminlinks": "ქოძირით ადმინისტრატორიშ რსხილეფი",
+	"right-adminlinks": "[[Special:AdminLinks|ადმინისტრატორიშ რსხილეფიშ]] ძირაფა"
 }
