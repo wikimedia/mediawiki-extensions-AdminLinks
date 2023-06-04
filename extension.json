@@ -32,6 +32,8 @@
 	},
 	"AutoloadClasses": {
 		"AdminLinks": "includes/AdminLinks.php",
+		"AdminLinksHook": "includes/AdminLinksHook.php",
+		"AdminLinksHookRunner": "includes/AdminLinksHookRunner.php",
 		"ALTree": "includes/ALTree.php",
 		"ALSection": "includes/ALSection.php",
 		"ALRow": "includes/ALRow.php",
