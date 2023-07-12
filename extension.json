@@ -33,6 +33,7 @@
 	"AutoloadClasses": {
 		"AdminLinks": "includes/AdminLinks.php",
 		"AdminLinksHook": "includes/AdminLinksHook.php",
+		"AdminLinksHooks": "includes/AdminLinksHooks.php",
 		"AdminLinksHookRunner": "includes/AdminLinksHookRunner.php",
 		"ALTree": "includes/ALTree.php",
 		"ALSection": "includes/ALSection.php",
@@ -46,7 +47,12 @@
 		"AdminLinksDelimiter": "·"
 	},
 	"Hooks": {
-		"SkinTemplateNavigation::Universal": "AdminLinks::addURLToUserLinks"
+		"SkinTemplateNavigation::Universal": "main"
+	},
+	"HookHandlers": {
+		"main": {
+			"class": "AdminLinksHooks"
+		}
 	},
 	"manifest_version": 1
 }
