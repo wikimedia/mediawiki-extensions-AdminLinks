@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Azim",
-			"Санюн Вадик"
+			"Санюн Вадик",
+			"Lifeway"
 		]
 	},
 	"adminlinks": "Сайтвиктарыше кылвер-влак",
@@ -12,7 +13,7 @@
 	"adminlinks_editsidebar": "Ӧрдыж аҥам тӧрлаташ",
 	"adminlinks_editcss": "CSS файлым тӧрлаташ",
 	"adminlinks_editmainpagename": "Тӱҥ лаштыкын лӱмжым тӧрлаташ",
-	"adminlinks_users": "Пайдаланыше-влак",
+	"adminlinks_users": "Ушнышо-влак",
 	"adminlinks_browsesearch": "Ончен налмаш да кычалмаш",
 	"adminlinks_importexport": "Импорт ден экспорт",
 	"adminlinks_pagenotfound": "\"$1\" лӱман спецлаштыкым кычалын муымо огыл.",
