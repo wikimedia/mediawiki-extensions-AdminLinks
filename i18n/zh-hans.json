@@ -6,18 +6,19 @@
 			"Liuxinyu970226",
 			"Xiaomingyan",
 			"Yfdyh000",
-			"佛壁灯"
+			"佛壁灯",
+			"LittlePaw365"
 		]
 	},
 	"adminlinks": "管理员链接",
-	"adminlinks-desc": "为管理员添加一个包含有用链接的[[Special:AdminLinks|特殊页面]]",
+	"adminlinks-desc": "给管理员添加包含有用链接的[[Special:AdminLinks|特殊页面]]",
 	"adminlinks_documentation": "$1文档",
 	"adminlinks_general": "常规",
 	"adminlinks_editsidebar": "编辑侧边栏",
 	"adminlinks_editcss": "编辑CSS文件",
 	"adminlinks_editmainpagename": "编辑首页名称",
 	"adminlinks_users": "用户",
-	"adminlinks_browsesearch": "浏览与搜索",
+	"adminlinks_browsesearch": "浏览和搜索",
 	"adminlinks_importexport": "导入和导出",
 	"adminlinks_pagenotfound": "查找此名称的特殊页面失败：$1。",
 	"action-adminlinks": "查看管理员链接",
