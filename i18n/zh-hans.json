@@ -11,7 +11,7 @@
 		]
 	},
 	"adminlinks": "管理员链接",
-	"adminlinks-desc": "给管理员添加包含有用链接的[[Special:AdminLinks|特殊页面]]",
+	"adminlinks-desc": "给管理员添加包含实用链接的[[Special:AdminLinks|特殊页面]]",
 	"adminlinks_documentation": "$1文档",
 	"adminlinks_general": "常规",
 	"adminlinks_editsidebar": "编辑侧边栏",
@@ -20,7 +20,7 @@
 	"adminlinks_users": "用户",
 	"adminlinks_browsesearch": "浏览和搜索",
 	"adminlinks_importexport": "导入和导出",
-	"adminlinks_pagenotfound": "查找此名称的特殊页面失败：$1。",
+	"adminlinks_pagenotfound": "未找到名称为$1的特殊页面。",
 	"action-adminlinks": "查看管理员链接",
 	"right-adminlinks": "查看[[Special:AdminLinks|管理员链接]]"
 }
