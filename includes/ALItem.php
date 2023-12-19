@@ -28,7 +28,6 @@ class ALItem {
 	}
 
 	static function newFromSpecialPage( $page_name ) {
-		global $wgOut;
 		$item = new ALItem();
 		$item->label = $page_name;
 
@@ -39,9 +38,6 @@ class ALItem {
 		if ( $page ) {
 			$item->text = MediaWikiServices::getInstance()->getLinkRenderer()
 				->makeKnownLink( $page->getPageTitle(), $page->getDescription() );
-		} else {
-			$wgOut->addHTML( "<span class=\"error\">" .
-				wfMessage( 'adminlinks_pagenotfound', $page_name )->escaped() . "<br></span>" );
 		}
 		return $item;
 	}

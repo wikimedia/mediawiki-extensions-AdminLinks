@@ -20,7 +20,6 @@
 	"adminlinks_users": "Section name for links for administrators.\n{{Identical|User}}",
 	"adminlinks_browsesearch": "Section name for links for administrators related to browsing and searching.",
 	"adminlinks_importexport": "Section name for links for administrators related to import and export of pages and data.",
-	"adminlinks_pagenotfound": "Error message when $1 is not a special page object. Parameters: \n* $1 - special page",
 	"action-adminlinks": "{{doc-action|adminlinks}}",
 	"right-adminlinks": "{{doc-right|adminlinks}}"
 }

@@ -34,6 +34,9 @@ class ALRow {
 
 		$text = "	<p>\n";
 		foreach ( $this->items as $i => $item ) {
+			if ( $item->text == '' ) {
+				continue;
+			}
 			if ( $i > 0 ) {
 				$text .= ' ' . htmlspecialchars( $config->get( 'AdminLinksDelimiter' ) ) . "\n";
 			}
