@@ -14,7 +14,6 @@
 	"adminlinks_users": "Korisnici",
 	"adminlinks_browsesearch": "Pregledanje i pretraga",
 	"adminlinks_importexport": "Uvezi i izvezi",
-	"adminlinks_pagenotfound": "Nije moguće pronaći posebnu stranicu s nazivom: $1.",
 	"action-adminlinks": "gledati administratorske linkove",
 	"right-adminlinks": "Prikaz linka do [[Special:AdminLinks|Administratorskih linkova]]"
 }

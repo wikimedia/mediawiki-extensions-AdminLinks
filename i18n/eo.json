@@ -17,7 +17,6 @@
 	"adminlinks_users": "Uzantoj",
 	"adminlinks_browsesearch": "Tralego kaj Serĉo",
 	"adminlinks_importexport": "Enporti kaj elporti",
-	"adminlinks_pagenotfound": "Ne sukcesis trovi specialan paĝon de nomo: $1.",
 	"action-adminlinks": "vidi administrejajn ligilojn",
 	"right-adminlinks": "Vidi ligilon al [[Special:AdminLinks|Administranto-ligilojn]]"
 }

@@ -16,6 +16,5 @@
 	"adminlinks_users": "Dalībnieki",
 	"adminlinks_browsesearch": "Pārlūkot un meklēt",
 	"adminlinks_importexport": "Imports un eksports",
-	"adminlinks_pagenotfound": "Neizdevās atrast īpašo lapu ar nosaukumu: $1.",
 	"right-adminlinks": "Redzēt saiti uz [[Special:AdminLinks|Administrācijas saitēm]]"
 }

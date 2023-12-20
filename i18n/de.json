@@ -17,7 +17,6 @@
 	"adminlinks_users": "Benutzer",
 	"adminlinks_browsesearch": "Durchsehen und Suchen",
 	"adminlinks_importexport": "Importieren und Exportieren",
-	"adminlinks_pagenotfound": "Die Spezialseite mit der Bezeichnung „$1“ wurde nicht gefunden.",
 	"action-adminlinks": "Links für Administratoren zu nutzen",
 	"right-adminlinks": "[[Special:AdminLinks|Links für Administratoren]] nutzen"
 }

@@ -19,7 +19,6 @@
 	"adminlinks_users": "Користувачі",
 	"adminlinks_browsesearch": "Перегляд і пошук",
 	"adminlinks_importexport": "Імпорт та експорт",
-	"adminlinks_pagenotfound": "Не вдалося знайти спеціальну сторінку з назвою: $1.",
 	"action-adminlinks": "перегляд посилань для адміністраторів",
 	"right-adminlinks": "Перегляд [[Special:AdminLinks|посилань для адміністраторів]]"
 }

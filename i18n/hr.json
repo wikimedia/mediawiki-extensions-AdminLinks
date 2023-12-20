@@ -15,6 +15,5 @@
 	"adminlinks_users": "Suradnici",
 	"adminlinks_browsesearch": "Pregledavanje i pretraživanje",
 	"adminlinks_importexport": "Uvoz i izvoz",
-	"adminlinks_pagenotfound": "Pretragom nije bilo moguće pronaći posebnu stranicu s nazivom: $1.",
 	"right-adminlinks": "Pogledajte poveznicu na [[Special:AdminLinks|administratorske poveznice]]"
 }

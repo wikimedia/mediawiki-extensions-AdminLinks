@@ -19,7 +19,6 @@
 	"adminlinks_users": "사용자",
 	"adminlinks_browsesearch": "찾아보기 및 검색",
 	"adminlinks_importexport": "가져오기 및 내보내기",
-	"adminlinks_pagenotfound": "$1 이름의 특수문서 찾기를 실패했습니다.",
 	"action-adminlinks": "관리자 링크 보기",
 	"right-adminlinks": "[[Special:AdminLinks|관리자용 링크]]를 보기"
 }

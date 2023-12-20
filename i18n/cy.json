@@ -15,7 +15,6 @@
 	"adminlinks_users": "Defnyddwyr",
 	"adminlinks_browsesearch": "Pori a chwilio",
 	"adminlinks_importexport": "Mewnforio ac allforio",
-	"adminlinks_pagenotfound": "Methu dod o hyd i dudalen arbennig gyda'r enw: $1.",
 	"action-adminlinks": "gweler dolenni'r gwenyddwyr",
 	"right-adminlinks": "Gweler y ddolen at [[Special:AdminLinks|Ddolenni'r gweinyddwyr]]"
 }

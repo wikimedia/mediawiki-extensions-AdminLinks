@@ -21,7 +21,6 @@
 	"adminlinks_users": "Участники",
 	"adminlinks_browsesearch": "Обзор и поиск",
 	"adminlinks_importexport": "Импорт и экспорт",
-	"adminlinks_pagenotfound": "Не удалось найти специальную страницу с именем: $1.",
 	"action-adminlinks": "просмотр административных ссылок",
 	"right-adminlinks": "Доступ к странице [[Special:AdminLinks|ссылки для администраторов]]"
 }

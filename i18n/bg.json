@@ -17,7 +17,6 @@
 	"adminlinks_users": "Потребители",
 	"adminlinks_browsesearch": "Преглеждане и търсене",
 	"adminlinks_importexport": "Внасяне и изнасяне",
-	"adminlinks_pagenotfound": "Не беше намерена специална страница с име: $1.",
 	"action-adminlinks": "преглед на административните връзки",
 	"right-adminlinks": "Показване на препратката към [[Special:AdminLinks|Административни препратки]]"
 }

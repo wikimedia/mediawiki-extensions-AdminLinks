@@ -21,7 +21,6 @@
 	"adminlinks_users": "Käyttäjät",
 	"adminlinks_browsesearch": "Selaaminen ja hakeminen",
 	"adminlinks_importexport": "Tuonti ja vienti",
-	"adminlinks_pagenotfound": "Toimintosivua nimellä $1 ei löydetty.",
 	"action-adminlinks": "nähdä ylläpitäjän linkkejä",
 	"right-adminlinks": "Nähdä linkin sivulle [[Special:AdminLinks|ylläpitäjien linkit]]"
 }

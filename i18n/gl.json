@@ -16,7 +16,6 @@
 	"adminlinks_users": "Usuarios",
 	"adminlinks_browsesearch": "Navegación e procura",
 	"adminlinks_importexport": "Importación e exportación",
-	"adminlinks_pagenotfound": "Erro ó buscar a páxina especial co nome: $1.",
 	"action-adminlinks": "ver ligazóns de administrador",
 	"right-adminlinks": "Ver a ligazón cara á páxina especial [[Special:AdminLinks|Ligazóns de administrador]]"
 }

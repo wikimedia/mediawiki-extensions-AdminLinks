@@ -14,7 +14,6 @@
 	"adminlinks_users": "Korisnici",
 	"adminlinks_browsesearch": "Pretraživanje",
 	"adminlinks_importexport": "Uvoz i izvoz",
-	"adminlinks_pagenotfound": "Nije pronađena posebna stranica sa nazivom: $1.",
 	"action-adminlinks": "pogledate administrativne veze",
 	"right-adminlinks": "pregledanje veze do [[Special:AdminLinks|administratorskih veza]]"
 }
