@@ -15,5 +15,6 @@
 	"adminlinks_users": "Usuaris",
 	"adminlinks_browsesearch": "S'està navegant i buscant",
 	"adminlinks_importexport": "S'està important i exportant",
+	"action-adminlinks": "veure els enllaços d'administració",
 	"right-adminlinks": "Veure l'enllaç a [[Special:AdminLinks|enllaços d'administrador]]"
 }
