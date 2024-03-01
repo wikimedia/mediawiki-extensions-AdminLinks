@@ -32,16 +32,18 @@ class ALRow {
 	function toString() {
 		$config = MediaWikiServices::getInstance()->getConfigFactory()->makeConfig( 'AdminLinks' );
 
-		$text = "	<p>\n";
+		$content = "";
 		foreach ( $this->items as $i => $item ) {
 			if ( $item->text == '' ) {
 				continue;
 			}
 			if ( $i > 0 ) {
-				$text .= ' ' . htmlspecialchars( $config->get( 'AdminLinksDelimiter' ) ) . "\n";
+				$content .= ' ' . htmlspecialchars( $config->get( 'AdminLinksDelimiter' ) ) . "\n";
 			}
-			$text .= '		' . $item->text;
+			$content .= '		' . $item->text;
 		}
-		return $text . "\n	</p>\n";
+		$text = Html::rawElement( 'p', [ 'data-row-name' => $this->name ], $content . "\n" );
+		return $text . "\n";
 	}
+
 }
