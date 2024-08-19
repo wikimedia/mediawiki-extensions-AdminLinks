@@ -3,6 +3,7 @@
 		"authors": [
 			"Cekli829",
 			"Khan27",
+			"Nemoralis",
 			"Serkanland",
 			"Vago"
 		]
@@ -16,5 +17,5 @@
 	"adminlinks_users": "İstifadəçilər",
 	"adminlinks_browsesearch": "Gəzinmə və axtarış",
 	"adminlinks_importexport": "İdxal və ixrac",
-	"right-adminlinks": "[[Special:AdminLinks|Admin keçidləri]] linkinə bax"
+	"right-adminlinks": "[[Special:AdminLinks|Admin keçidləri]]nə gedən keçidlərə baxmaq"
 }
