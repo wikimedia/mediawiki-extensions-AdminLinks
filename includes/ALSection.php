@@ -3,7 +3,9 @@
  * A single section of the Admin Links 'tree', composed of a header and rows
  */
 class ALSection {
+	/** @var string */
 	public $header;
+	/** @var ALRow[] */
 	public $rows;
 
 	function __construct( $header ) {

@@ -4,6 +4,7 @@
  * page
  */
 class ALTree {
+	/** @var ALSection[] */
 	public $sections;
 
 	function __construct() {

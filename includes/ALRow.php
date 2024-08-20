@@ -7,7 +7,9 @@ use MediaWiki\MediaWikiServices;
  * for organizing the rows), and a set of "items" (links)
  */
 class ALRow {
+	/** @var string */
 	public $name;
+	/** @var ALItem[] */
 	public $items;
 
 	function __construct( $name ) {

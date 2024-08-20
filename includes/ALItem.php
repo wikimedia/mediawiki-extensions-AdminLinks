@@ -8,7 +8,9 @@ use MediaWiki\MediaWikiServices;
  * is not displayed and is only used for organizational purposes.
  */
 class ALItem {
+	/** @var string */
 	public $text;
+	/** @var string|null */
 	public $label;
 
 	static function newFromPage( $page_name_or_title, $desc = null, $query = [] ) {
