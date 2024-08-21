@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"BadDog",
 			"Winston Sung"
 		]
 	},
-	"adminlinks": "Administratorski linkovi",
+	"adminlinks": "Administratorske veze",
 	"adminlinks-desc": "Dodaje [[Special:AdminLinks|posebnu stranicu]] koja sadrži korisne linkove za administratore",
 	"adminlinks_documentation": "Dokumentacija za $1",
 	"adminlinks_general": "Općenito",
