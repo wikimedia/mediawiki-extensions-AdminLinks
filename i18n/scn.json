@@ -3,6 +3,7 @@
 		"authors": [
 			"Ajeje Brazorf",
 			"Aushulz",
+			"GianAntonucci",
 			"Pippinu",
 			"Sarvaturi"
 		]
@@ -13,7 +14,7 @@
 	"adminlinks_general": "Ginirali",
 	"adminlinks_editsidebar": "Cancia la sbarra latirali",
 	"adminlinks_editcss": "Cancia lu file CSS",
-	"adminlinks_editmainpagename": "Cancia lu nomu dâ pàggina principali",
+	"adminlinks_editmainpagename": "Cancia u nomu dâ pàggina mastra",
 	"adminlinks_users": "Utenti",
 	"adminlinks_browsesearch": "Splurazzioni e arricerca",
 	"adminlinks_importexport": "Mpurtazzioni e spurtazzioni",
