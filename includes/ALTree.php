@@ -11,6 +11,10 @@ class ALTree {
 		$this->sections = [];
 	}
 
+	/**
+	 * @param string $section_header
+	 * @return ALSection|null
+	 */
 	function getSection( $section_header ) {
 		foreach ( $this->sections as $cur_section ) {
 			if ( $cur_section->header === $section_header ) {
@@ -20,6 +24,10 @@ class ALTree {
 		return null;
 	}
 
+	/**
+	 * @param ALSection $section
+	 * @param string|null $next_section_header
+	 */
 	function addSection( $section, $next_section_header = null ) {
 		if ( $next_section_header == null ) {
 			$this->sections[] = $section;
@@ -34,6 +42,9 @@ class ALTree {
 		$this->sections[] = $section;
 	}
 
+	/**
+	 * @return string
+	 */
 	function toString() {
 		$text = "";
 		foreach ( $this->sections as $section ) {

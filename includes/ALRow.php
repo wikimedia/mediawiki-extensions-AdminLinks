@@ -12,11 +12,18 @@ class ALRow {
 	/** @var ALItem[] */
 	public $items;
 
+	/**
+	 * @param string $name
+	 */
 	function __construct( $name ) {
 		$this->name = $name;
 		$this->items = [];
 	}
 
+	/**
+	 * @param ALItem $item
+	 * @param string|null $next_item_label
+	 */
 	function addItem( $item, $next_item_label = null ) {
 		if ( $next_item_label == null ) {
 			$this->items[] = $item;
@@ -31,6 +38,9 @@ class ALRow {
 		$this->items[] = $item;
 	}
 
+	/**
+	 * @return string
+	 */
 	function toString() {
 		$config = MediaWikiServices::getInstance()->getConfigFactory()->makeConfig( 'AdminLinks' );
 

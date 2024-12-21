@@ -13,6 +13,12 @@ class ALItem {
 	/** @var string|null */
 	public $label;
 
+	/**
+	 * @param string|Title $page_name_or_title
+	 * @param string|null $desc
+	 * @param array $query
+	 * @return self|null
+	 */
 	static function newFromPage( $page_name_or_title, $desc = null, $query = [] ) {
 		$item = new ALItem();
 		$item->label = $desc;
@@ -29,6 +35,10 @@ class ALItem {
 		return $item;
 	}
 
+	/**
+	 * @param string $page_name
+	 * @return self
+	 */
 	static function newFromSpecialPage( $page_name ) {
 		$item = new ALItem();
 		$item->label = $page_name;
@@ -44,6 +54,11 @@ class ALItem {
 		return $item;
 	}
 
+	/**
+	 * @param string $page_name
+	 * @param string $desc
+	 * @return self
+	 */
 	static function newFromEditLink( $page_name, $desc ) {
 		$item = new ALItem();
 		$item->label = $page_name;
@@ -53,6 +68,11 @@ class ALItem {
 		return $item;
 	}
 
+	/**
+	 * @param string $url
+	 * @param string $label
+	 * @return self
+	 */
 	static function newFromExternalLink( $url, $label ) {
 		$item = new ALItem();
 		$item->label = $label;

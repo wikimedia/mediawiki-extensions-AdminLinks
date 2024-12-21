@@ -68,6 +68,7 @@ class AdminLinks extends SpecialPage {
 		return $tree;
 	}
 
+	/** @inheritDoc */
 	function execute( $query ) {
 		$out = $this->getOutput();
 

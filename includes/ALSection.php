@@ -8,11 +8,18 @@ class ALSection {
 	/** @var ALRow[] */
 	public $rows;
 
+	/**
+	 * @param string $header
+	 */
 	function __construct( $header ) {
 		$this->header = $header;
 		$this->rows = [];
 	}
 
+	/**
+	 * @param string $row_name
+	 * @return ALRow|null
+	 */
 	function getRow( $row_name ) {
 		foreach ( $this->rows as $cur_row ) {
 			if ( $cur_row->name === $row_name ) {
@@ -22,6 +29,10 @@ class ALSection {
 		return null;
 	}
 
+	/**
+	 * @param ALRow $row
+	 * @param string|null $next_row_name
+	 */
 	function addRow( $row, $next_row_name = null ) {
 		if ( $next_row_name == null ) {
 			$this->rows[] = $row;
@@ -36,6 +47,9 @@ class ALSection {
 		$this->rows[] = $row;
 	}
 
+	/**
+	 * @return string
+	 */
 	function toString() {
 		$text = '	<h2 class="mw-specialpagesgroup">' .
 			htmlspecialchars( $this->header ) . "</h2>\n";
