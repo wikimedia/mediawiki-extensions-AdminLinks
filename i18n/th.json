@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Aefgh39622",
-			"Horus"
+			"Horus",
+			"Ekminarin"
 		]
 	},
 	"adminlinks": "ลิงก์ผู้ดูแลระบบ",
@@ -10,7 +11,7 @@
 	"adminlinks_documentation": "คำอธิบายการใช้งาน $1",
 	"adminlinks_general": "ทั่วไป",
 	"adminlinks_editsidebar": "แก้ไขแถบด้านข้าง",
-	"adminlinks_editcss": "แก้ไขไฟล์ CSS",
+	"adminlinks_editcss": "แก้ไขไฟล์ซีเอสเอส",
 	"adminlinks_editmainpagename": "แก้ไขชื่อหน้าหลัก",
 	"adminlinks_users": "ผู้ใช้",
 	"adminlinks_browsesearch": "เรียกดูและค้นหา",
