@@ -1,6 +1,8 @@
 <?php
 
 use MediaWiki\MediaWikiServices;
+use MediaWiki\Parser\Sanitizer;
+use MediaWiki\Title\Title;
 
 /**
  * A single 'item' in the AdminLinks page, most likely representing a link
