@@ -55,15 +55,15 @@ class ALItem {
 		$item->label = $page_name;
 		$title = Title::makeTitleSafe( NS_MEDIAWIKI, $page_name );
 		$edit_link = $title->getFullURL( 'action=edit' );
-		$item->text = "<a href=\"$edit_link\">" . htmlspecialchars( $desc ) . "</a>";
+		$item->text = "<a href=\"$edit_link\">" . htmlspecialchars( $desc ) . '</a>';
 		return $item;
 	}
 
 	public static function newFromExternalLink( string $url, string $label ): self {
 		$item = new self();
 		$item->label = $label;
-		$item->text = "<a class=\"external text\" rel=\"nofollow\" href=\"" .
-			Sanitizer::encodeAttribute( $url ) . "\">" . htmlspecialchars( $label ) . "</a>";
+		$item->text = '<a class="external text" rel="nofollow" href="' .
+			Sanitizer::encodeAttribute( $url ) . '">' . htmlspecialchars( $label ) . '</a>';
 		return $item;
 	}
 }

@@ -22,7 +22,7 @@ class ALSection {
 	}
 
 	public function addRow( ALRow $row, ?string $next_row_name = null ): void {
-		if ( $next_row_name == null ) {
+		if ( $next_row_name === null ) {
 			$this->rows[] = $row;
 			return;
 		}

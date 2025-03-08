@@ -36,7 +36,7 @@ class AdminLinksHooks implements
 		$adminLinksVals = [
 			'text' => $skinTemplate->msg( 'adminlinks' )->text(),
 			'href' => $href,
-			'active' => ( $href == $skinTemplate->getTitle()->getLocalURL() )
+			'active' => ( $href === $skinTemplate->getTitle()->getLocalURL() )
 		];
 
 		// Find the location of the 'my preferences' link, and

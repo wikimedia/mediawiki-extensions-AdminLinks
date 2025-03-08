@@ -21,7 +21,7 @@ class ALTree {
 	}
 
 	public function addSection( ALSection $section, ?string $next_section_header = null ): void {
-		if ( $next_section_header == null ) {
+		if ( $next_section_header === null ) {
 			$this->sections[] = $section;
 			return;
 		}
@@ -35,7 +35,7 @@ class ALTree {
 	}
 
 	public function toString(): string {
-		$text = "";
+		$text = '';
 		foreach ( $this->sections as $section ) {
 			$text .= $section->toString();
 		}

@@ -18,7 +18,7 @@ class ALRow {
 	}
 
 	public function addItem( ALItem $item, ?string $next_item_label = null ): void {
-		if ( $next_item_label == null ) {
+		if ( $next_item_label === null ) {
 			$this->items[] = $item;
 			return;
 		}
@@ -34,9 +34,9 @@ class ALRow {
 	public function toString(): string {
 		$config = MediaWikiServices::getInstance()->getConfigFactory()->makeConfig( 'AdminLinks' );
 
-		$content = "";
+		$content = '';
 		foreach ( $this->items as $i => $item ) {
-			if ( $item->text == '' ) {
+			if ( $item->text === '' ) {
 				continue;
 			}
 			if ( $i > 0 ) {
