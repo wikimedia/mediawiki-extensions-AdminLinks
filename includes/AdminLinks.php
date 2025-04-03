@@ -13,7 +13,7 @@ class AdminLinks extends SpecialPage {
 		parent::__construct( 'AdminLinks' );
 	}
 
-	function createInitialTree() {
+	function createInitialTree(): ALTree {
 		$tree = new ALTree();
 
 		// 'general' section
