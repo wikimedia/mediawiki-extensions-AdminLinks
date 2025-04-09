@@ -21,7 +21,7 @@ class ALItem {
 	 * @param array $query
 	 * @return self|null
 	 */
-	static function newFromPage( $page_name_or_title, $desc = null, $query = [] ) {
+	public static function newFromPage( $page_name_or_title, $desc = null, $query = [] ) {
 		$item = new ALItem();
 		$item->label = $desc;
 		if ( $page_name_or_title instanceof Title ) {
@@ -41,7 +41,7 @@ class ALItem {
 	 * @param string $page_name
 	 * @return self
 	 */
-	static function newFromSpecialPage( $page_name ) {
+	public static function newFromSpecialPage( $page_name ) {
 		$item = new ALItem();
 		$item->label = $page_name;
 
@@ -61,7 +61,7 @@ class ALItem {
 	 * @param string $desc
 	 * @return self
 	 */
-	static function newFromEditLink( $page_name, $desc ) {
+	public static function newFromEditLink( $page_name, $desc ) {
 		$item = new ALItem();
 		$item->label = $page_name;
 		$title = Title::makeTitleSafe( NS_MEDIAWIKI, $page_name );
@@ -75,7 +75,7 @@ class ALItem {
 	 * @param string $label
 	 * @return self
 	 */
-	static function newFromExternalLink( $url, $label ) {
+	public static function newFromExternalLink( $url, $label ) {
 		$item = new ALItem();
 		$item->label = $label;
 		$item->text = "<a class=\"external text\" rel=\"nofollow\" href=\"" .

@@ -11,7 +11,7 @@ class ALSection {
 	/**
 	 * @param string $header
 	 */
-	function __construct( $header ) {
+	public function __construct( $header ) {
 		$this->header = $header;
 		$this->rows = [];
 	}
@@ -20,7 +20,7 @@ class ALSection {
 	 * @param string $row_name
 	 * @return ALRow|null
 	 */
-	function getRow( $row_name ) {
+	public function getRow( $row_name ) {
 		foreach ( $this->rows as $cur_row ) {
 			if ( $cur_row->name === $row_name ) {
 				return $cur_row;
@@ -33,7 +33,7 @@ class ALSection {
 	 * @param ALRow $row
 	 * @param string|null $next_row_name
 	 */
-	function addRow( $row, $next_row_name = null ) {
+	public function addRow( $row, $next_row_name = null ) {
 		if ( $next_row_name == null ) {
 			$this->rows[] = $row;
 			return;
@@ -50,7 +50,7 @@ class ALSection {
 	/**
 	 * @return string
 	 */
-	function toString() {
+	public function toString() {
 		$text = '	<h2 class="mw-specialpagesgroup">' .
 			htmlspecialchars( $this->header ) . "</h2>\n";
 		foreach ( $this->rows as $row ) {

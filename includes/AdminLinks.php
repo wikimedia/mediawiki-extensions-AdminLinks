@@ -9,11 +9,11 @@ class AdminLinks extends SpecialPage {
 	/**
 	 * Constructor
 	 */
-	function __construct() {
+	public function __construct() {
 		parent::__construct( 'AdminLinks' );
 	}
 
-	function createInitialTree(): ALTree {
+	private function createInitialTree(): ALTree {
 		$tree = new ALTree();
 
 		// 'general' section
@@ -69,7 +69,7 @@ class AdminLinks extends SpecialPage {
 	}
 
 	/** @inheritDoc */
-	function execute( $query ) {
+	public function execute( $query ) {
 		$out = $this->getOutput();
 
 		$this->setHeaders();

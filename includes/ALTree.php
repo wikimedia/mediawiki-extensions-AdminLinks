@@ -7,7 +7,7 @@ class ALTree {
 	/** @var ALSection[] */
 	public $sections;
 
-	function __construct() {
+	public function __construct() {
 		$this->sections = [];
 	}
 
@@ -15,7 +15,7 @@ class ALTree {
 	 * @param string $section_header
 	 * @return ALSection|null
 	 */
-	function getSection( $section_header ) {
+	public function getSection( $section_header ) {
 		foreach ( $this->sections as $cur_section ) {
 			if ( $cur_section->header === $section_header ) {
 				return $cur_section;
@@ -28,7 +28,7 @@ class ALTree {
 	 * @param ALSection $section
 	 * @param string|null $next_section_header
 	 */
-	function addSection( $section, $next_section_header = null ) {
+	public function addSection( $section, $next_section_header = null ) {
 		if ( $next_section_header == null ) {
 			$this->sections[] = $section;
 			return;
@@ -45,7 +45,7 @@ class ALTree {
 	/**
 	 * @return string
 	 */
-	function toString() {
+	public function toString() {
 		$text = "";
 		foreach ( $this->sections as $section ) {
 			$text .= $section->toString();
