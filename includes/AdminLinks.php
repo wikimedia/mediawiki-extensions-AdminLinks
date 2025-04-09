@@ -69,7 +69,7 @@ class AdminLinks extends SpecialPage {
 	}
 
 	/** @inheritDoc */
-	public function execute( $query ) {
+	public function execute( $query ): void {
 		$out = $this->getOutput();
 
 		$this->setHeaders();
@@ -81,7 +81,7 @@ class AdminLinks extends SpecialPage {
 	}
 
 	/** @inheritDoc */
-	protected function getGroupName() {
+	protected function getGroupName(): string {
 		return 'users';
 	}
 }

@@ -8,24 +8,16 @@ use MediaWiki\MediaWikiServices;
  * for organizing the rows), and a set of "items" (links)
  */
 class ALRow {
-	/** @var string */
-	public $name;
+	public string $name;
 	/** @var ALItem[] */
-	public $items;
+	public array $items;
 
-	/**
-	 * @param string $name
-	 */
-	public function __construct( $name ) {
+	public function __construct( string $name ) {
 		$this->name = $name;
 		$this->items = [];
 	}
 
-	/**
-	 * @param ALItem $item
-	 * @param string|null $next_item_label
-	 */
-	public function addItem( $item, $next_item_label = null ) {
+	public function addItem( ALItem $item, ?string $next_item_label = null ): void {
 		if ( $next_item_label == null ) {
 			$this->items[] = $item;
 			return;
@@ -39,10 +31,7 @@ class ALRow {
 		$this->items[] = $item;
 	}
 
-	/**
-	 * @return string
-	 */
-	public function toString() {
+	public function toString(): string {
 		$config = MediaWikiServices::getInstance()->getConfigFactory()->makeConfig( 'AdminLinks' );
 
 		$content = "";

@@ -10,10 +10,8 @@ use MediaWiki\Title\Title;
  * is not displayed and is only used for organizational purposes.
  */
 class ALItem {
-	/** @var string */
-	public $text;
-	/** @var string|null */
-	public $label;
+	public string $text;
+	public ?string $label;
 
 	/**
 	 * @param string|Title $page_name_or_title
@@ -21,8 +19,8 @@ class ALItem {
 	 * @param array $query
 	 * @return self|null
 	 */
-	public static function newFromPage( $page_name_or_title, $desc = null, $query = [] ) {
-		$item = new ALItem();
+	public static function newFromPage( $page_name_or_title, ?string $desc = null, array $query = [] ): ?self {
+		$item = new self();
 		$item->label = $desc;
 		if ( $page_name_or_title instanceof Title ) {
 			$title = $page_name_or_title;
@@ -37,12 +35,8 @@ class ALItem {
 		return $item;
 	}
 
-	/**
-	 * @param string $page_name
-	 * @return self
-	 */
-	public static function newFromSpecialPage( $page_name ) {
-		$item = new ALItem();
+	public static function newFromSpecialPage( string $page_name ): self {
+		$item = new self();
 		$item->label = $page_name;
 
 		$page = MediaWikiServices::getInstance()
@@ -56,13 +50,8 @@ class ALItem {
 		return $item;
 	}
 
-	/**
-	 * @param string $page_name
-	 * @param string $desc
-	 * @return self
-	 */
-	public static function newFromEditLink( $page_name, $desc ) {
-		$item = new ALItem();
+	public static function newFromEditLink( string $page_name, string $desc ): self {
+		$item = new self();
 		$item->label = $page_name;
 		$title = Title::makeTitleSafe( NS_MEDIAWIKI, $page_name );
 		$edit_link = $title->getFullURL( 'action=edit' );
@@ -70,13 +59,8 @@ class ALItem {
 		return $item;
 	}
 
-	/**
-	 * @param string $url
-	 * @param string $label
-	 * @return self
-	 */
-	public static function newFromExternalLink( $url, $label ) {
-		$item = new ALItem();
+	public static function newFromExternalLink( string $url, string $label ): self {
+		$item = new self();
 		$item->label = $label;
 		$item->text = "<a class=\"external text\" rel=\"nofollow\" href=\"" .
 			Sanitizer::encodeAttribute( $url ) . "\">" . htmlspecialchars( $label ) . "</a>";

@@ -5,17 +5,13 @@
  */
 class ALTree {
 	/** @var ALSection[] */
-	public $sections;
+	public array $sections;
 
 	public function __construct() {
 		$this->sections = [];
 	}
 
-	/**
-	 * @param string $section_header
-	 * @return ALSection|null
-	 */
-	public function getSection( $section_header ) {
+	public function getSection( string $section_header ): ?ALSection {
 		foreach ( $this->sections as $cur_section ) {
 			if ( $cur_section->header === $section_header ) {
 				return $cur_section;
@@ -24,11 +20,7 @@ class ALTree {
 		return null;
 	}
 
-	/**
-	 * @param ALSection $section
-	 * @param string|null $next_section_header
-	 */
-	public function addSection( $section, $next_section_header = null ) {
+	public function addSection( ALSection $section, ?string $next_section_header = null ): void {
 		if ( $next_section_header == null ) {
 			$this->sections[] = $section;
 			return;
@@ -42,10 +34,7 @@ class ALTree {
 		$this->sections[] = $section;
 	}
 
-	/**
-	 * @return string
-	 */
-	public function toString() {
+	public function toString(): string {
 		$text = "";
 		foreach ( $this->sections as $section ) {
 			$text .= $section->toString();
