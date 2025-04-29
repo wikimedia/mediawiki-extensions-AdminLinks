@@ -1,0 +1,19 @@
+{
+	"@metadata": {
+		"authors": [
+			"IJzeren Jan"
+		]
+	},
+	"adminlinks": "Linky za administratorov",
+	"adminlinks-desc": "Dodavaje [[Special:AdminLinks|specialnu stranicu]] s upotrěbimymi linkami za administratorov",
+	"adminlinks_documentation": "Dokumentacija $1",
+	"adminlinks_general": "Obče",
+	"adminlinks_editsidebar": "Praviti bočny panel",
+	"adminlinks_editcss": "Praviti CSS-fajl",
+	"adminlinks_editmainpagename": "Praviti nazvu glavnoj stranice",
+	"adminlinks_users": "Koristniki",
+	"adminlinks_browsesearch": "Prěgledati i iskati",
+	"adminlinks_importexport": "Import i eksport",
+	"action-adminlinks": "pokazati linky za administratorov",
+	"right-adminlinks": "Uvidite link na [[Special:AdminLinks|Linky za administratorov]]"
+}
