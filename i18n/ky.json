@@ -1,8 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Bosogo",
 			"Growingup"
 		]
 	},
+	"adminlinks_documentation": "$1 кеңейтмесинин документациясы",
 	"adminlinks_users": "Катышуучулар"
 }
