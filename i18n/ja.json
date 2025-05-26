@@ -5,10 +5,11 @@
 			"Otokoume",
 			"Shirayuki",
 			"Sou0012",
-			"マツムシ"
+			"マツムシ",
+			"Foomin10"
 		]
 	},
-	"adminlinks": "管理リンク",
+	"adminlinks": "管理者用リンク集",
 	"adminlinks-desc": "管理者に有用なリンクを集めた[[Special:AdminLinks|特別ページ]]を追加する",
 	"adminlinks_documentation": "$1 の説明書",
 	"adminlinks_general": "全般",
@@ -19,6 +20,6 @@
 	"adminlinks_browsesearch": "閲覧と検索",
 	"adminlinks_importexport": "取り込みと書き出し",
 	"adminlinks_pagenotfound": "指定した特別ページが見つかりませんでした: $1",
-	"action-adminlinks": "管理者用リンクの閲覧",
+	"action-adminlinks": "管理者用リンク集の閲覧",
 	"right-adminlinks": "[[Special:AdminLinks|管理者用リンク集]]へのリンクを閲覧"
 }
