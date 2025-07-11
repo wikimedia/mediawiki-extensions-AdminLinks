@@ -44,8 +44,10 @@ class ALItem {
 			->getPage( $page_name );
 
 		if ( $page ) {
+			// SpecialPage::getDescription() returns Message since 1.45 and strings before
+			$desc = $page->getDescription();
 			$item->text = MediaWikiServices::getInstance()->getLinkRenderer()
-				->makeKnownLink( $page->getPageTitle(), $page->getDescription() );
+				->makeKnownLink( $page->getPageTitle(), $desc instanceof Message ? $desc->text() : $desc );
 		}
 		return $item;
 	}
