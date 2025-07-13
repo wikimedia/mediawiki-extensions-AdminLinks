@@ -293,12 +293,17 @@ $specialPageAliases['vi'] = [
 	'AdminLinks' => [ 'Liên_kết_bảo_quản_viên' ],
 ];
 
-/** Simplified Chinese (中文（简体）‎) */
+/** Chinese (中文（简体）) */
+$specialPageAliases['zh'] = [
+	'AdminLinks' => [ 'AdminLinks' ],
+];
+
+/** Simplified Chinese (中文（简体）) */
 $specialPageAliases['zh-hans'] = [
 	'AdminLinks' => [ '管理员链接', '管理链接' ],
 ];
 
-/** Traditional Chinese (中文（繁體）‎) */
+/** Traditional Chinese (中文（繁體）) */
 $specialPageAliases['zh-hant'] = [
 	'AdminLinks' => [ '管理員連結' ],
 ];
