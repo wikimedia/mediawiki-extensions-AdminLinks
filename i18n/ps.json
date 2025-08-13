@@ -1,18 +1,20 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
-	"adminlinks": "د پازوال تړنې",
+	"adminlinks": "د پازوال تړوني",
 	"adminlinks-desc": "يو [[Special:AdminLinks|ځانگړی مخ]] ورگډوي چې د پازوالانو لپاره گټورې تړنې لري",
 	"adminlinks_documentation": "$1 لاسوند",
 	"adminlinks_general": "ټولگړی",
-	"adminlinks_editsidebar": "څنګپټه سمول",
-	"adminlinks_editcss": "د CSS دوتنه سمول",
-	"adminlinks_editmainpagename": "د اصلي مخ نوم سمول",
+	"adminlinks_editsidebar": "څنگپټه سمول",
+	"adminlinks_editcss": "سي‌اېس‌اېس دوتنه سمول",
+	"adminlinks_editmainpagename": "ار مخ نوم سمول",
 	"adminlinks_users": "کارنان",
 	"adminlinks_browsesearch": "سپړنه او پلټنه",
-	"adminlinks_importexport": "واردول او صادرول",
-	"right-adminlinks": "د [[Special:AdminLinks|پازوال تړنو]] ته ورسيخه شوې تړنه کتل"
+	"adminlinks_importexport": "رالېږدول او بهرلېږل",
+	"action-adminlinks": "پازوال تړوني وگورئ",
+	"right-adminlinks": "[[Special:AdminLinks|پازوال تړونو]] ته ورسيخ شوېی تړونی وگورئ"
 }
