@@ -3,7 +3,8 @@
 		"authors": [
 			"Ansumang",
 			"Innocentbunny",
-			"Kumar"
+			"Kumar",
+			"Saurmandal"
 		]
 	},
 	"adminlinks": "प्रबंधकीय कड़ियाँ",
@@ -16,5 +17,6 @@
 	"adminlinks_users": "सदस्य",
 	"adminlinks_browsesearch": "ब्राउज़ करें और खोजें",
 	"adminlinks_importexport": "आयात और निर्यात",
-	"right-adminlinks": "\"[[Special:AdminLinks|प्रबंधकीय कड़ियाँ]]\" की लिंक देखें"
+	"action-adminlinks": "प्रबंधकीय कड़ियाँ देखने",
+	"right-adminlinks": "\"[[Special:AdminLinks|प्रबंधकीय कड़ियाँ]]\" की कड़ी देखना"
 }
