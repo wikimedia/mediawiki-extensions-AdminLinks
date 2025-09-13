@@ -7,7 +7,6 @@ use MediaWiki\SpecialPage\SpecialPage;
  *
  * @author Yaron Koren
  */
-
 class AdminLinks extends SpecialPage {
 	/**
 	 * Constructor

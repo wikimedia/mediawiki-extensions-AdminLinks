@@ -5,9 +5,6 @@ use MediaWiki\SpecialPage\SpecialPage;
 /**
  * Hook handler class
  */
-
-// phpcs:disable MediaWiki.NamingConventions.LowerCamelFunctionsName.FunctionName
-
 class AdminLinksHooks implements
 	\MediaWiki\Hook\SkinTemplateNavigation__UniversalHook
 {
