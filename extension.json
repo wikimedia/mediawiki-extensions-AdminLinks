@@ -54,5 +54,18 @@
 			"class": "AdminLinksHooks"
 		}
 	},
+	"ResourceModules": {
+		"ext.adminlinks": {
+			"selectorWithVariant": ".vector-icon.mw-ui-icon-wikimedia-{name}-{variant}",
+			"selectorWithoutVariant": ".vector-icon.mw-ui-icon-wikimedia-{name}",
+			"useDataURI": false,
+			"defaultColor": "#000",
+			"class": "MediaWiki\\ResourceLoader\\OOUIIconPackModule",
+			"useMaskImage": true,
+			"icons": [
+				"link"
+			]
+		}
+	},
 	"manifest_version": 1
 }
