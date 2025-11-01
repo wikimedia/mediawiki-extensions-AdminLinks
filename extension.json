@@ -41,7 +41,7 @@
 		"ALItem": "includes/ALItem.php"
 	},
 	"ConfigRegistry": {
-		"AdminLinks": "GlobalVarConfig::newInstance"
+		"AdminLinks": "MediaWiki\\Config\\GlobalVarConfig::newInstance"
 	},
 	"config": {
 		"AdminLinksDelimiter": "·"
