@@ -17,5 +17,6 @@
 	"adminlinks_users": "Χρήστες",
 	"adminlinks_browsesearch": "Πλοήγηση και αναζήτηση",
 	"adminlinks_importexport": "Εισαγωγή και εξαγωγή",
+	"action-adminlinks": "δείτε συνδέσμους διαχειριστών",
 	"right-adminlinks": "Δείτε τον σύνδεσμο στους [[Special:AdminLinks|Συνδέσμους διαχειριστών]]"
 }
