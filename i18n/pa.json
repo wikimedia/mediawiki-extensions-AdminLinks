@@ -2,13 +2,21 @@
 	"@metadata": {
 		"authors": [
 			"Babanwalia",
+			"Cabal",
 			"Raj Singh",
 			"TariButtar"
 		]
 	},
+	"adminlinks": "ਪ੍ਰਬੰਧਕ  ਕੜੀਆਂ",
+	"adminlinks-desc": "ਏਹ [[Special:AdminLinks|ਖਾਸ ਵਰਕਾ]] ਜਿਸ ਵਿੱਚ ਪ੍ਰਬੰਧਕਾਂ ਲਈ ਮਦਦਗਾਰ ਕੜੀਆਂ ਹਨ ਨੂੰ ਜੋੜਦਾ ਏ।",
 	"adminlinks_documentation": "$1 ਦਸਤਾਵੇਜ਼",
 	"adminlinks_general": "ਆਮ",
 	"adminlinks_editsidebar": "ਸਾਈਡਬਾਰ ਸੋਧੋ",
+	"adminlinks_editcss": "CSS ਫਾਇਲ ਸੋਧੋ",
+	"adminlinks_editmainpagename": "ਮੁੱਢਲੇ ਵਰਕੇ ਦਾ ਨਾਂ ਸੋਧੋ",
 	"adminlinks_users": "ਵਰਤੋਂਕਾਰ",
-	"adminlinks_browsesearch": "ਬ੍ਰਾਊਜ ਅਤੇ ਖੋਜੋ"
+	"adminlinks_browsesearch": "ਬ੍ਰਾਊਜ ਅਤੇ ਖੋਜੋ",
+	"adminlinks_importexport": "ਦਰਾਮਦ ਅਤੇ ਬਰਾਮਦ",
+	"action-adminlinks": "ਪ੍ਰਬੰਧਕ ਕੜੀਆਂ ਵੇਖੋ",
+	"right-adminlinks": "[[Special:AdminLinks|ਪ੍ਰਬੰਧਕ ਕੜੀਆਂ]] ਲਈ ਕੜੀ ਵੇਖੋ।"
 }
