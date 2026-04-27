@@ -5,6 +5,7 @@
 			"Acamicamacaraca",
 			"BadDog",
 			"Charmed94",
+			"Milicevic01",
 			"Obsuser",
 			"Rancher",
 			"Михајло Анђелковић"
@@ -21,5 +22,5 @@
 	"adminlinks_browsesearch": "Претраживање",
 	"adminlinks_importexport": "Увоз и извоз",
 	"action-adminlinks": "погледате административне везе",
-	"right-adminlinks": "прегледање везе до [[Special:AdminLinks|администраторских веза]]"
+	"right-adminlinks": "приступ вези до [[Special:AdminLinks|администраторских веза]]"
 }
