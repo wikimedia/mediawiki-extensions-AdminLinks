@@ -7,7 +7,8 @@
 			"Charmed94",
 			"Obsuser",
 			"Rancher",
-			"Михајло Анђелковић"
+			"Михајло Анђелковић",
+			"Milicevic01"
 		]
 	},
 	"adminlinks": "Административне везе",
@@ -21,5 +22,5 @@
 	"adminlinks_browsesearch": "Претраживање",
 	"adminlinks_importexport": "Увоз и извоз",
 	"action-adminlinks": "погледате административне везе",
-	"right-adminlinks": "прегледање везе до [[Special:AdminLinks|администраторских веза]]"
+	"right-adminlinks": "приступ вези до [[Special:AdminLinks|администраторских веза]]"
 }
