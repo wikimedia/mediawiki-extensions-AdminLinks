@@ -5,6 +5,7 @@
 			"Jerrykim306",
 			"Kwj2772",
 			"Son77391",
+			"Tensama0415",
 			"Ykhwong",
 			"아라"
 		]
@@ -19,6 +20,6 @@
 	"adminlinks_users": "사용자",
 	"adminlinks_browsesearch": "찾아보기 및 검색",
 	"adminlinks_importexport": "가져오기 및 내보내기",
-	"action-adminlinks": "관리자 링크 보기",
+	"action-adminlinks": "관리자용 링크를 볼",
 	"right-adminlinks": "[[Special:AdminLinks|관리자용 링크]]를 보기"
 }
