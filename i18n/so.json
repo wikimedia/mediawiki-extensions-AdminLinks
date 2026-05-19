@@ -4,5 +4,16 @@
 			"AhmedG612"
 		]
 	},
-	"adminlinks_editmainpagename": "Wax ka beddel magaca bogga ugu weyn"
+	"adminlinks": "Xiriirinta maamulka",
+	"adminlinks-desc": "Wuxuu ku darayaa [[Special:AdminLinks|bog gaar ah]] oo ka kooban xiriirinta waxtarka u leh maamulayaasha",
+	"adminlinks_documentation": "Dukumentiyada $1",
+	"adminlinks_general": "Guud",
+	"adminlinks_editsidebar": "Wax ka badal baarka dhinac boga",
+	"adminlinks_editcss": "Wax ka badal faylka CSS",
+	"adminlinks_editmainpagename": "Wax ka beddel magaca bogga ugu weyn",
+	"adminlinks_users": "Isticmaalayaasha",
+	"adminlinks_browsesearch": "Baadh iyo raadi",
+	"adminlinks_importexport": "Soo dejinta iyo dhoofinta",
+	"action-adminlinks": "Arag xiriirinta maamulka",
+	"right-adminlinks": "Arag xiriirinta bogga [[Special:AdminLinks|Xiriirinta maamulka]]"
 }
