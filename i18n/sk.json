@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Helix84"
+			"Helix84",
+			"Wizzard"
 		]
 	},
 	"adminlinks": "Odkazy správcu",
@@ -14,5 +15,6 @@
 	"adminlinks_users": "Používatelia",
 	"adminlinks_browsesearch": "Prehliadanie a vyhľadávanie",
 	"adminlinks_importexport": "Import a export",
+	"action-adminlinks": "zobraziť odkazy správcu",
 	"right-adminlinks": "Pozri odkaz na [[Special:AdminLinks|Odkazy správcu]]"
 }
