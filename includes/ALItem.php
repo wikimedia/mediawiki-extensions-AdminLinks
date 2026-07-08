@@ -10,7 +10,7 @@ use MediaWiki\Title\Title;
  * is not displayed and is only used for organizational purposes.
  */
 class ALItem {
-	public string $text;
+	public ?string $text;
 	public ?string $label;
 
 	/**

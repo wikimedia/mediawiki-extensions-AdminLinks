@@ -36,7 +36,7 @@ class ALRow {
 
 		$content = '';
 		foreach ( $this->items as $i => $item ) {
-			if ( $item->text === '' ) {
+			if ( !isset( $item->text ) ) {
 				continue;
 			}
 			if ( $i > 0 ) {
