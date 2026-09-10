@@ -1,16 +1,17 @@
 {
 	"@metadata": {
 		"authors": [
-			"John Reid"
+			"John Reid",
+			"CiphriusKane"
 		]
 	},
 	"adminlinks": "Admeen airtins.",
 	"adminlinks-desc": "Eiks ae [[Special:AdminLinks|speecial page]] that hauds heelpfu airtins fer admeenistraters",
 	"adminlinks_documentation": "$1 documentation.",
 	"adminlinks_general": "General.",
-	"adminlinks_editsidebar": "Eidit sidebaur",
-	"adminlinks_editcss": "Eidit CSS file",
-	"adminlinks_editmainpagename": "Eidit name o main page",
+	"adminlinks_editsidebar": "Edit sidebaur",
+	"adminlinks_editcss": "Edit CSS file",
+	"adminlinks_editmainpagename": "Edit name o main page",
 	"adminlinks_users": "Uisers",
 	"adminlinks_browsesearch": "Brouse n rake",
 	"adminlinks_importexport": "Import n export",
